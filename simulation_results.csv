@@ -1,0 +1,1001 @@
+start_id_a,start_name_a,start_id_b,start_name_b,meeting_step,meeting_id,meeting_name
+300f1367-4ba4-4416-90e4-caa8f33e9144,LITOSTROJSKA,2323bf9e-1a47-4409-b9c8-398a035c8d12,Študa trgovina,3550,484b5c91-1220-43ba-af79-84e712fcc46b,Slovenija avto
+4a90e424-11ab-43a8-b7e9-1c4f42fe2b7c,Pod Hribom,b589ddd3-5a31-4fe1-915f-44347b4c0a1a,Bratov Učakar,5001,TIMEOUT,TIMEOUT
+dc6b96b1-d0fa-4d03-ac2b-8eba5bb97ba2,Peruzzijeva,34ead609-4331-48ab-8e82-52dd70da9832,Ig Petrol,842,d861c2ce-106a-4b95-a4fc-2af355c0bbf0,Lahova pot
+7b822496-7ea4-4ce8-b78c-1d021c68a9ed,Puhova,9a14b0ec-f13a-46f0-8c4f-07d8b99241e2,Cesta v Zavoglje,4556,010c271e-49ca-45a5-91ac-8ba8d41ee7f3,Čerinova
+a6b87518-2a7f-4505-898f-245ebe23c909,Krožna pot,e2499103-6634-4d8e-87a8-68dc5ef6340c,Sp. Gameljne 2,1243,7fdce743-a4be-44d7-8658-0a259a18ad30,Stožice
+c8f784f8-ce92-4773-8d90-c6bed3513ce0,Zadvor pri Grosupljem,216a26dc-11c2-432b-b099-0d55d508b7fa,Cesta v Gorice,5001,TIMEOUT,TIMEOUT
+824255dc-9be8-4f7b-9b69-2bd4e5a3fc27,Pohorskega bataljona,31e6db90-ba65-4c49-90c0-317fb92596b3,Medvode,480,77dcd833-fa4d-4c5a-93b1-31284942e61d,Šišenska
+b8533150-cf69-441a-8fc4-18f39cbef16b,JEŽICA,22c11486-1afa-491f-b9ab-162d88c8c44d,Prelog Mngan,5001,TIMEOUT,TIMEOUT
+1df1835b-cfd3-40e7-9466-9c9d43642bed,Zaboršt,639551cf-fe23-4363-8ccd-655bc5d4119e,Zmajski most,4482,c6eab761-36e0-4bf8-88ed-48e594ed375b,Parmova
+bd1396f2-4dc8-4695-9bf1-c601157100d8,Preglov trg,6559d555-672b-4633-8a81-0ae68fb963eb,ZD POLJE,22,0bb103e4-c4a6-4c4c-a13d-217ab4e6dfd3,Cesta na Vevče
+e57aad1d-457e-401f-b26d-306b4fd836eb,Kašeljska,4c277b3f-c427-404b-ace3-2cd51656318f,Tehnounion,5001,TIMEOUT,TIMEOUT
+807c11ba-4b3a-4e2b-82b5-abf5864fa4bc,Pot na Fužine,edf94a12-03e9-4225-b6cc-aca0edf588a7,Šentvid,5001,TIMEOUT,TIMEOUT
+9c17244c-0812-404b-b929-5cdc0591e421,Podmornica,cee2862b-9b70-4880-8fa3-16c6d2efae1b,AMZS,5001,TIMEOUT,TIMEOUT
+32abc648-685c-47b0-bbc4-203371ec2699,Podpeč 1,acedfed0-a3ba-4fa3-8cd6-910783961f0a,Goričane kopališče,2502,9276fcfb-0f7e-4df3-b827-325600851526,Topniška
+befe0e87-b5fe-41ff-9a77-f65461eff28d,Brinje,eb669f04-cfb6-4ea4-90c9-26eb551ecb45,Bilečanska,5001,TIMEOUT,TIMEOUT
+a12cff7f-91e5-4f1e-be40-1a9b34ae792a,Agrokombinatska,d4c25d68-c340-431b-a646-7680fe0cefee,Pržanec,5001,TIMEOUT,TIMEOUT
+48b163cd-b819-4849-aee1-8b1da77657ab,Šentvid,9e90940e-cf99-4112-87ec-7cbb6331509a,ZG. Pirniče,133,35aedf45-cca3-4f2f-931b-138d29d20fe9,MEDVODE
+59ee5f7d-476b-4958-a922-2040a9308f3b,Kranjčeva,0be53afd-2427-49b2-b70c-2ee3d89e9762,SORA obrač.,5001,TIMEOUT,TIMEOUT
+e0f10330-ad34-453d-baf4-d6c601cb6cf8,Blaževo,59d96e2c-3ee3-4581-840a-3ddaf0003743,Osenjakova,4697,07bad99d-070a-42f7-8766-d11d42152623,Prekmurska
+d9a82add-03d0-47d8-9f35-117b7a5ded44,Gerbičeva,18d010ca-0244-4928-82cb-47af0836a1bb,Krivec,5001,TIMEOUT,TIMEOUT
+db9f7130-0bc2-4f3e-b8cd-07cfe96b1f8f,KOLODVOR,b5e26d7f-8a91-4360-9811-2e8e05d27382,Bratov Babnik,3659,35dbaf26-2fa4-45c4-87fc-81d1ff13b005,Tbilisijska
+d5961b09-f5e8-4a0b-9bbb-2515ff0a8376,Ob daljnovodu,47283e27-c588-411c-9303-30a6f0beeaef,Zgornji log,1882,35aedf45-cca3-4f2f-931b-138d29d20fe9,MEDVODE
+8677848c-55dd-4af4-b275-3074a3ff4846,Vrhovci,e65047c0-c01e-4727-b466-78e107c81ee4,SŽ KOLODVOR,4368,07b4c585-66cf-49d7-906c-50f1122c8e9e,Cesta XV
+1907a46a-4559-43ec-8363-03fe35d30725,Rudnik,f496ecc3-28fe-4361-9da8-428bbf3bd672,Ljubljanaska,1931,6182f8e8-c45e-4606-b4a4-d909bd44d2cc,Gornji trg
+156a6f62-9a67-4cf0-ad56-85a343c77cd2,Agrokombinatska,d08c4884-9764-447f-9b79-0ef7a645222f,Ledena dvorana Zalog,15,60edf514-fd83-400b-b86f-881f7eff258b,Hladilniška
+3c143688-247f-41cc-960d-f5e37b874c3a,Črnuče,c2827897-b9fe-4bfc-b4ed-880f11a2359e,ZELENA JAMA,1349,639551cf-fe23-4363-8ccd-655bc5d4119e,Zmajski most
+f5e84751-7377-402c-974c-53276e422e70,Na klancu,e9382efd-d64d-46b0-9a7d-a4e6a0188725,Omersova,5001,TIMEOUT,TIMEOUT
+35dbaf26-2fa4-45c4-87fc-81d1ff13b005,Tbilisijska,d0790612-d161-4be4-953d-a7a0c33acf1e,Cesta na Brod,1530,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+86303165-4af4-4fcd-b0f9-43ed865454f4,Glonarjeva,1e4be02a-ac61-41bc-b9b5-1ef7850313ed,IMP,5001,TIMEOUT,TIMEOUT
+4ab506fa-0fcd-431b-ace7-19ffa5f0576a,Reaktor,77dcd833-fa4d-4c5a-93b1-31284942e61d,Šišenska,1260,38b3abed-0592-407b-96c3-85a026f2e192,Dalmatinova
+ea9d5fa9-af5a-4d39-96fd-626415048511,Martinova,53806659-b339-4e68-af4a-4325c16b6026,Iška vas šola,2362,c297ac70-8f43-4fbc-a8a4-366ddb883a8d,Bonifacija
+2fafda56-e44d-4e08-8503-90e6bf75e19d,Veliki Lipoglav,c0fb12dd-8cab-40da-a3aa-e8de9c6d09ed,Rusjanov trg,5001,TIMEOUT,TIMEOUT
+66943a7c-28b4-40a6-a996-21aa0b968435,Staje,717c914e-f928-4671-95f6-26c1ddb95799,Cesta v Gorice,1275,2edaabef-ed43-4b87-ba95-a5600c33250f,Bratov Židan
+9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje,2265e4de-a537-4f97-882b-c94c24aabfb0,Sostro,700,67c3adc1-a92d-4528-91ee-77d8b52574c6,Poliklinika
+47283e27-c588-411c-9303-30a6f0beeaef,Zgornji log,34f3ddda-e732-4b53-bfb2-8773b5cd6eac,Sp. Gameljne 2,5001,TIMEOUT,TIMEOUT
+ef31a8be-b01d-44cd-95cf-3db8e918af26,Emona,0b90d258-764d-4c06-aab0-7074dbd54182,Podgrad,2041,1dc99fbb-5496-4aab-a4b6-32e653ccc789,Center Zalog
+60edf514-fd83-400b-b86f-881f7eff258b,Hladilniška,300f1367-4ba4-4416-90e4-caa8f33e9144,LITOSTROJSKA,5001,TIMEOUT,TIMEOUT
+595ee2ab-3022-469d-a3e1-0c87d7dfb14d,STANEŽIČE nas.,5be3b187-5735-4444-bee7-0665f60e6c83,Ižica,2450,c8e0086c-0cef-4375-a471-72f3ae1e34fc,Strelišče
+9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska,2a7d32ca-24a1-41ac-a273-0cbcdec59336,Škofljica špica,5001,TIMEOUT,TIMEOUT
+592b37eb-8255-4758-ae8a-7cef98521013,Rogovilc,b2cf1f2c-3c77-4a23-891f-3cdbcda92f19,Škofljica žaga,5001,TIMEOUT,TIMEOUT
+8441d439-8d1d-40b8-b3d5-7b9c56848b43,Radna,06348c07-2fb0-4dfb-a938-aaef614a7f68,Andreja Bitenca,2418,16578e36-c682-4083-bd29-4973445dc0fe,Gosposvetska
+a0b1fb90-3f6a-4231-910a-18be192ac762,Flajšmanova,16d19639-a788-4df6-a168-6f8c3652ded7,Chengdujska,5001,TIMEOUT,TIMEOUT
+754e8f1f-a5ba-4281-8f31-fb3357744cd2,Cesta v Zajčjo Dobravo,cc9cbd94-6da7-41ff-a728-cfd4b47dfcc0,Pod Urhom,2259,7fa32ea0-e884-435a-a81c-51bbd5cedf3e,Zaloška
+58db973d-ecbb-4aa6-a56c-c26aaff7f263,SŽ ŠIŠKA,62feeb73-9af7-43ee-8714-1b435ec20263,Japelj,316,ef91fd44-5651-4fd4-b6f8-619fdef9da7b,Hajdrihova
+548dbdee-83b0-497b-acc1-e15b34899d42,Hladilniška,51e04e1d-9ea1-432d-8b79-09e6c2a7be7b,Trebeljevo,4370,2265e4de-a537-4f97-882b-c94c24aabfb0,Sostro
+d8ff7b2c-baf6-4a1a-97c5-0871b823caab,Benat,2323bf9e-1a47-4409-b9c8-398a035c8d12,Študa trgovina,5001,TIMEOUT,TIMEOUT
+5c9baa4c-9ee0-4263-be22-72f5a73c714d,Škofljica Petkovšek,9f6048f0-5c5e-4773-915e-4ee05d200e27,KS. Pirniče,2217,397418bc-78a7-45c9-b5cf-374fe21cee11,Akademija
+8677848c-55dd-4af4-b275-3074a3ff4846,Vrhovci,8eeea585-6168-45b8-a5d4-336e61826043,Zapuže,978,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+9afb36ea-c2ae-4bbb-9644-3a6c65bb1c7d,Kino Šiška,6c56976b-4ae1-429f-bcab-0cfc37e3580d,Zgornji log,4709,f4cfd904-bd11-4247-95df-32c4555a930f,Klinični center
+c70ad4c4-6c37-4f31-83aa-921dc8bc15a4,Pržanec,f073b9d9-a3e3-4d04-a209-0db55377b79e,Zmajski most,5001,TIMEOUT,TIMEOUT
+98239279-bb80-4070-965c-dc87525019e2,Vikrče,363564a6-9938-4bf5-8928-1cd191e9c2ef,Videm pri Ljubljani,5001,TIMEOUT,TIMEOUT
+0e79ef8c-f692-4e29-a37e-4a81cbb3d410,Vič Glince,f2bac6f5-5bbc-4f15-acdd-014d86770ce9,Kneza Koclja,858,8c7fa045-888b-46d0-8189-6f82623bf481,Poljanska
+a7094427-e180-4deb-acaf-5d4488326e9e,ZADOBROVA,9f6048f0-5c5e-4773-915e-4ee05d200e27,KS. Pirniče,5001,TIMEOUT,TIMEOUT
+79a5bacd-8b59-4d83-99e8-26e3c5b1490b,Osenjakova,4d2fc228-0628-4897-8d77-3e71d500d36d,Sava,5001,TIMEOUT,TIMEOUT
+785ad018-d0fe-4628-b188-15f6dc71b38e,Barje,bc66f88b-1412-44cb-b921-030d27335261,Sneberje,1453,ac3afe7d-a2b3-4d5d-9e6a-1d2412a3bc70,Litostrojska
+5c246f67-4431-4968-8d64-2ae4b823e360,Na Gmajnici,7fdce743-a4be-44d7-8658-0a259a18ad30,Stožice,5001,TIMEOUT,TIMEOUT
+e0bcd677-6012-4c90-a884-44dffafdffec,FUŽINE P+R,3edd6057-3847-4c42-b8ec-6e89ff95793a,Zadobrova,47,0bb103e4-c4a6-4c4c-a13d-217ab4e6dfd3,Cesta na Vevče
+46f20d33-601c-4ef6-b86c-7c2bb4af52fa,Ježkova,1505c6fe-6080-424e-98d1-24c312cfacf3,Pot na Rakovo jelšo,373,bb1ac8b9-5cb2-49f2-8d5c-d7fe4afdd5dd,Cesta na Vrhovce
+0614b134-0950-4f6b-bc8f-fb73a0881bc1,Gornje Poljane,223f660b-c391-4120-bf3c-7bf06781686b,Tovorni kolodvor,1797,db046e79-c658-433c-8812-157fd965a9f6,Galjevica
+48c9ec48-2b87-4945-a077-808839f98e74,Ježa,c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2,BROD,3887,7fa32ea0-e884-435a-a81c-51bbd5cedf3e,Zaloška
+1e4be02a-ac61-41bc-b9b5-1ef7850313ed,IMP,8eeea585-6168-45b8-a5d4-336e61826043,Zapuže,3388,557f714a-6f4a-4c98-8c5a-d74fa34b2adb,Hrvatski trg
+785ad018-d0fe-4628-b188-15f6dc71b38e,Barje,c568fe2e-477f-4af2-ad68-cb8111f361d0,Jamnikarjeva,5001,TIMEOUT,TIMEOUT
+37fc313d-1f45-49c9-9059-4f96f44a6682,Zgornja Šiška,5c38ad77-8124-42b3-810f-04703daec8b4,Šentjakob,4261,e4635b94-348c-4c69-be85-1160488e5e43,BTC-ATLANTIS
+77dcd833-fa4d-4c5a-93b1-31284942e61d,Šišenska,9807573b-8821-40e4-b891-a5cea6e23b3d,Trata,4058,484b5c91-1220-43ba-af79-84e712fcc46b,Slovenija avto
+12cfc2b3-f8ff-444b-8d5f-15855e45e331,Dolgi most Rotar,53c3c8c9-2e64-4a8f-9afb-031b24c17d5a,Plečnikova cerkev,106,ef91fd44-5651-4fd4-b6f8-619fdef9da7b,Hajdrihova
+1c214818-5471-4d2a-a7b2-33464ffacdad,Ihan farma,c5527a65-5265-43de-b703-7c7d494d190c,Pot v Smrečje,5001,TIMEOUT,TIMEOUT
+3866c761-7fa4-4a4a-b913-75569da498d9,Samova,300f1367-4ba4-4416-90e4-caa8f33e9144,LITOSTROJSKA,1294,cdabf1ea-b04c-480a-8359-72c46e6864ab,Bežigrad
+4f21a18a-3cb0-4c6c-bb92-e7c8945fac1c,Bratov Učakar,02c61e3f-2d2e-4b42-b695-bbd3cc672f6b,Leskoškova,3758,c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2,BROD
+91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1,Sostro,548a85bd-f15f-427b-ad90-43cb50e9e31a,Bratov Židan,3560,a2ce7e6f-0f99-443a-a973-81a0b9c60261,Astra
+2628ca4f-8797-4672-aca9-47b325c58aac,Besnica šola,fa96d420-d1af-4ad0-bf6a-4544deb1c5eb,Streliška,5001,TIMEOUT,TIMEOUT
+29336b94-2382-46dd-b2e6-4590dd689640,Pot v Hrastovec,eead721b-8996-4e73-a2f9-02dba20df4fa,Ilirska,2349,eee355cc-98a1-4f25-8bf9-0100856eda6e,Za travniki
+7276f267-9837-4c56-aad3-f8cd555060da,Prežganje šola,111b2cdc-67ca-47bc-a8eb-8a4c6a0674d9,Tabor,5001,TIMEOUT,TIMEOUT
+30cf2ed7-2cf0-4764-ab64-78206968d5ba,Ostrovrhar,aa31554f-8623-42db-aedd-ad9a8f562e4c,Podmilščakova,5001,TIMEOUT,TIMEOUT
+cdee8be6-e02c-4fb5-9752-be1bac08d90d,Kavčičeva,eee355cc-98a1-4f25-8bf9-0100856eda6e,Za travniki,5001,TIMEOUT,TIMEOUT
+ea9d5fa9-af5a-4d39-96fd-626415048511,Martinova,9746f277-af08-4cce-92fa-41da5eca8ac2,BERIČEVO,5001,TIMEOUT,TIMEOUT
+b4634750-8d91-4625-b40d-1da9665e70f6,Podpeč 1,36c4949b-403b-4a76-87e3-d67f51d655ef,Martinova,5001,TIMEOUT,TIMEOUT
+6a74977a-a26d-42b4-a60b-8dabc726e57d,Gornji Rudnik,6330ad8d-b582-4c92-bc7e-d3f206264f04,Tehnounion,4964,105e10e7-fbab-4f99-94c9-178c25630b42,Brodarjev trg
+d5102041-8282-4c77-a593-edac0d0d4a34,Cukrarna,5a2def68-fa57-4002-a942-e39bc2a87688,Koseze,4512,5d7f28a6-2a2a-4333-aa06-48edfb652f86,Pošta
+c297ac70-8f43-4fbc-a8a4-366ddb883a8d,Bonifacija,62d0c5a7-1692-43ef-b6e2-31f514362629,Škofljica žaga,4198,25ad5579-f6a0-4f35-a0c9-0678b41e9dde,Križanke
+e26da28a-b9c3-41b8-b57f-87b289b38e08,GD Gameljne,2d42d8e2-26a8-4a74-809c-f436d05c8a54,Tbilisijska,1920,f2bac6f5-5bbc-4f15-acdd-014d86770ce9,Kneza Koclja
+98239279-bb80-4070-965c-dc87525019e2,Vikrče,7b687edb-dc47-4b68-a13e-34713cababe9,Rakovnik pri Sori,4701,e8b0d4a2-f65e-4aed-97b8-77ab0d07955a,Cesta v Kresnice
+60edf514-fd83-400b-b86f-881f7eff258b,Hladilniška,62d0c5a7-1692-43ef-b6e2-31f514362629,Škofljica žaga,5001,TIMEOUT,TIMEOUT
+295616c0-387b-4f60-a337-7743cd6be04e,Bavarski dvor,be5fb719-eda2-4831-90c6-249248ea22dd,ČRNUČE,3354,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+e9d9f622-7394-4c5c-9031-a41855a64aa7,Polje,7eb88e01-82e9-4af4-84d0-69c6ea9dc82c,Kolodvor,2554,62b17644-b4a6-412f-9e03-79bbaf339717,Ihan farma
+eba0daca-3696-4f72-a1dd-5f7b5fd02a63,V. Mlačevo ŽP,acd87210-4e04-49b4-884b-1fe11c453bf4,Kožljevec,5001,TIMEOUT,TIMEOUT
+2496479b-f855-403d-bce8-2a4d9988665d,Rutar,e1e80207-5c23-47c0-a63a-121003b22807,Sp. Pirniče,5001,TIMEOUT,TIMEOUT
+d50b2bdb-481b-4e58-ada6-47a028fc6382,BTC-tržnica,121b30dc-065b-4c76-aad2-a54a85c74d4d,SŠ Domžale,5001,TIMEOUT,TIMEOUT
+521edd75-c364-480a-af9e-a1c9815b6dd7,Gasilska brigada,b9edd39a-4f64-4553-869e-bb77e617b9b8,Stanežiče,3068,c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2,BROD
+5930b5fe-26e2-4b69-bd1e-cdea021a0ab4,Študa trgovina,f07c916c-6fc6-4acf-a334-0ab0d3c4f57f,Središka,5001,TIMEOUT,TIMEOUT
+aa42017d-812a-4175-bc9b-0fec03b18931,Ambrožev trg,1f207e67-adf9-4da6-b107-3b58051d9990,Sneberska,1207,548dbdee-83b0-497b-acc1-e15b34899d42,Hladilniška
+41c8c7eb-62ef-45d8-b5b1-221dd3c0022c,Tbilisijska,a33e6b1f-de56-43aa-9a52-f7064636ab79,Zg. Besnica,3199,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+8441d439-8d1d-40b8-b3d5-7b9c56848b43,Radna,406d6bb7-147c-4853-a917-e5c437b025e6,Pance,1717,7eb88e01-82e9-4af4-84d0-69c6ea9dc82c,Kolodvor
+223f660b-c391-4120-bf3c-7bf06781686b,Tovorni kolodvor,3203d037-a222-4092-8dd6-e8dfcd49a2c9,Novo Polje,4470,88cdd36c-03d2-4374-a22f-110dd9f75ea0,Kajuhova
+48507e1a-32df-4552-9448-3b345760b75f,Cesta na Vevče,97d3e896-2af7-40f9-bfbf-59cf3fcbf93a,Besnica ambulanta,3047,294c40c4-18e4-4d92-a947-911a8623de89,Veliki štradon
+6672b8cb-e56d-420a-a5e7-fc86e8aa3647,Žalna,d8ff7b2c-baf6-4a1a-97c5-0871b823caab,Benat,4331,ca575a45-9c95-4348-9245-8c75f70130b3,Benat
+26ec9924-5586-4fd5-8b20-63f2d0a38d44,Pri Dolencu,a2b5023d-5ce8-420f-ad2a-b61c7a1902a8,Volavlje,5001,TIMEOUT,TIMEOUT
+b56664c0-1dc1-42c5-b10b-52c3fb0dd042,Galjevica,f958cead-e4c3-4743-834d-46de4a06a8c9,Murgle,1757,43df2657-d56f-4fc4-8c40-49180cbbe90c,Ruski car
+1eca3479-6e2c-4f21-bf45-4db410041181,Peč pri Polici,3c6ebf90-c611-4535-b2b0-22fba3f7649a,Štajerska,5001,TIMEOUT,TIMEOUT
+48e907fd-e868-47cd-8cac-74c7d4582944,Poljanska,cdee8be6-e02c-4fb5-9752-be1bac08d90d,Kavčičeva,256,e97befb6-5dc6-4603-ad5e-3aa96b4b2221,Rožičeva
+1e2641bc-b0b2-448e-8ad2-e52891fa4c5f,Pece K,192b7b6a-b138-4569-a4f3-86bef6b20810,Letališka,5001,TIMEOUT,TIMEOUT
+24df120e-0d0c-4353-8dda-c7ef0dc3dd5c,Križišče Sostro,e8b0d4a2-f65e-4aed-97b8-77ab0d07955a,Cesta v Kresnice,5001,TIMEOUT,TIMEOUT
+106bdc28-f0fe-4f13-b4ad-6c6a630550b5,Parmova,a6b87518-2a7f-4505-898f-245ebe23c909,Krožna pot,387,023d7b7a-b411-4e61-8746-b07f9e5c8f90,Ambrožev trg
+6672b8cb-e56d-420a-a5e7-fc86e8aa3647,Žalna,5d91512b-af7f-4bbe-9dde-17f402fbf590,Sneberska,5001,TIMEOUT,TIMEOUT
+79325942-629a-4766-a34a-525f8edf8cc5,Podgora,a2b5023d-5ce8-420f-ad2a-b61c7a1902a8,Volavlje,5001,TIMEOUT,TIMEOUT
+ef3024a8-1d7f-4cf5-ad3b-74528eaa9c51,Stadion Domžale,f07c916c-6fc6-4acf-a334-0ab0d3c4f57f,Središka,4749,7ba233b7-a50a-497d-8135-dd8dabf93ff5,Goropečnikova
+98f728a3-94a6-4911-98d7-64ab88097036,Lavrica,b2dd1684-0848-40f7-b10e-8f74bb005f2f,V. Mlačevo,5001,TIMEOUT,TIMEOUT
+f496ecc3-28fe-4361-9da8-428bbf3bd672,Ljubljanaska,a7177a3d-8db2-43fb-8910-f95857f0ed97,Škocjan,5001,TIMEOUT,TIMEOUT
+34ead609-4331-48ab-8e82-52dd70da9832,Ig Petrol,97788808-915f-4405-b54e-7ec5f95f7330,TRNOVO,542,5f2b93f1-7933-45ed-915c-4488ab8d81b7,Ižanska
+eb165f50-9c43-4b09-9658-469a16d3dc83,Kodeljevo,efecc3aa-ae68-4374-bc24-334280abcf3f,Zaboršt,1404,666bd186-7a9a-4e20-a466-e7b1918dda9b,OŠ Maksa Pečarja
+db13a26e-19d4-4b8a-a78a-01ef25d58834,Ježica,96d4c75b-6452-4c70-a31e-c234262ba38b,Veliki štradon,5001,TIMEOUT,TIMEOUT
+abc9fd26-5442-468b-93b6-4d5eb76d0f1f,BTC-Emporium,c568fe2e-477f-4af2-ad68-cb8111f361d0,Jamnikarjeva,5001,TIMEOUT,TIMEOUT
+95be8f74-3ed5-4cf1-aabc-b1c0027ea628,Pece K,156a6f62-9a67-4cf0-ad56-85a343c77cd2,Agrokombinatska,5001,TIMEOUT,TIMEOUT
+feb89b92-366d-4f50-a509-40c7baba8cf0,Brodarjev trg,245bb1a4-ea6e-45b4-8331-b50983655326,Svetčeva,5001,TIMEOUT,TIMEOUT
+6330ad8d-b582-4c92-bc7e-d3f206264f04,Tehnounion,5a2def68-fa57-4002-a942-e39bc2a87688,Koseze,699,4038e02e-f22f-4af0-ba4f-7aab855b53af,Kneza Koclja
+c568fe2e-477f-4af2-ad68-cb8111f361d0,Jamnikarjeva,b5400e28-b0c3-4a02-9da2-084c465bd1d3,Pot v Smrečje,5001,TIMEOUT,TIMEOUT
+666bd186-7a9a-4e20-a466-e7b1918dda9b,OŠ Maksa Pečarja,ee095f27-439e-42e7-9e5c-e77b0903c31f,Veliki Lipoglav,5001,TIMEOUT,TIMEOUT
+66943a7c-28b4-40a6-a996-21aa0b968435,Staje,8f56b058-1ae3-44f5-8600-4330f2264d78,Privoz,5001,TIMEOUT,TIMEOUT
+25cde952-4896-4977-b229-75e09b3e3661,Chengdujska,a7094427-e180-4deb-acaf-5d4488326e9e,ZADOBROVA,27,d3283222-38a9-40e2-a485-180d1a33067c,Novo Polje
+ed50f692-09f9-409e-b7d6-05ff7711de6b,Vnajnarje,15bb8af1-183e-4ec8-81f7-1fc6e81beb30,Ostrovrhar,61,bfcba499-ce46-41b0-8268-966d74eccb20,Tinčk
+1cc5f00f-c982-4016-8553-40a3da4f36ad,Dobrunjska c.,cdbafa76-fd1b-45e0-bbd6-d6c1c6a141f9,Podmilščakova,2993,79d89180-8b07-4127-b7b4-1ac03d1cee9f,Kompas
+30c30bf5-75c4-4dc0-995f-4679ef54d37c,Mostiček,d27a7320-71d6-48bc-a4f5-0f3e239575b8,Tacen,2837,77c4dfcc-1122-4896-9983-8a5bd11320de,Dravlje
+ee095f27-439e-42e7-9e5c-e77b0903c31f,Veliki Lipoglav,bd1a0fbd-1593-4552-a76f-681c59333d6b,Savsko naselje,5001,TIMEOUT,TIMEOUT
+29336b94-2382-46dd-b2e6-4590dd689640,Pot v Hrastovec,46a50a09-9bae-460b-a7b6-457d288c5a9f,Ponova vas,5001,TIMEOUT,TIMEOUT
+47a3bd8a-72ae-4e20-b43f-10bfaf49012c,Ob sotočju,0760a037-cd94-4936-89b6-45ce9bd19917,Mercator,880,feb89b92-366d-4f50-a509-40c7baba8cf0,Brodarjev trg
+ab987eb0-c970-4577-8db9-0cd507a6cab6,Ig AP,60ccc570-3714-410b-aa31-43d3a4c593c8,Tržnica Moste,427,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+995cbd67-507b-4c32-b794-0ff48e0a3de9,KAMNA GORICA,87415b6b-7e7f-4b82-b78f-ef1a7db85282,MALI LIPOGLAV,3607,91b76764-87af-4b90-89dd-60f0046f7cc0,Tomačevska
+48b163cd-b819-4849-aee1-8b1da77657ab,Šentvid,eec159d0-4b1b-4706-9a5d-a00ddcbea9f5,Baragova,5001,TIMEOUT,TIMEOUT
+2c46416a-d66e-469c-a342-898a93f5b2f0,Trebeljevo,dd57f39b-be0f-479e-bc35-5bd2edf98ff2,Bolnica,5001,TIMEOUT,TIMEOUT
+d7d791d9-02e0-4369-be0c-1546fc2044a4,Staje,4c08e174-6890-4c5d-9eec-15686971f909,Drobnič,5001,TIMEOUT,TIMEOUT
+5c8bdb89-116a-4d5d-9db1-9be443070380,7. septembra,ccd8a655-468b-4728-a26d-7981bbdd7dec,Zg. Gameljne,205,9cb18d2e-9bf3-436a-ab3a-7c52c5de1300,Rašica
+38b3abed-0592-407b-96c3-85a026f2e192,Dalmatinova,5b2cb528-ba33-461a-aee5-54e2ed8c3758,Perovo,5001,TIMEOUT,TIMEOUT
+8fbf17ab-413b-442c-9c6a-0eb8873a4755,Kovinarska,5fe363f3-8297-448b-bde3-08f690c92d1b,Snoj,329,6182f8e8-c45e-4606-b4a4-d909bd44d2cc,Gornji trg
+e2499103-6634-4d8e-87a8-68dc5ef6340c,Sp. Gameljne 2,4038e02e-f22f-4af0-ba4f-7aab855b53af,Kneza Koclja,2675,4062cd22-b67a-4235-9980-0178b7add592,Drama
+a52cd7ac-c11e-4c8b-94a5-1a12b32595da,Jurčkova,b5400e28-b0c3-4a02-9da2-084c465bd1d3,Pot v Smrečje,983,0b4a072e-6c2d-4c71-ab80-2b7142df81de,Tivoli
+35dbaf26-2fa4-45c4-87fc-81d1ff13b005,Tbilisijska,2c87f988-902b-4b35-91da-5437a58759f5,Šentjakob,573,a9796806-8cd3-4b76-bf8c-4340aec35c9e,Lutkovno gl.
+cc9cbd94-6da7-41ff-a728-cfd4b47dfcc0,Pod Urhom,9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska,5001,TIMEOUT,TIMEOUT
+e8d0bfd1-b300-4eae-8f85-79266066bb3c,Medvoška a.p.,32abc648-685c-47b0-bbc4-203371ec2699,Podpeč 1,5001,TIMEOUT,TIMEOUT
+c0a064eb-b507-43c2-a6d2-0e9c5881f031,Središka,a1406782-3114-407c-8e35-35bcf5a1234b,Bolnica P. Držaja,5001,TIMEOUT,TIMEOUT
+76f20fbf-afc4-4c7d-b51c-14f0878b38d8,C. STOŽICE P+R,c568fe2e-477f-4af2-ad68-cb8111f361d0,Jamnikarjeva,4029,25ad5579-f6a0-4f35-a0c9-0678b41e9dde,Križanke
+298fea2e-c58b-4d99-9350-2420c718d2cc,Pri Poku,022ef61f-a226-42e8-b11d-30cf9f9a6688,Tomažičeva,1143,91b76764-87af-4b90-89dd-60f0046f7cc0,Tomačevska
+352f5cae-25c9-41c5-ab70-268bf64107f0,Podgorica,d2f9bbec-4b03-49a8-af83-afe65fe07a0e,Pot heroja Trtnika,3707,30e58784-86f6-4d93-8630-3cc3fc93c6f3,Brod
+f414efd9-d697-4bbe-abb6-c9e09fd73514,Perovo,c15a2be8-fc53-427d-9cc6-a50bb305f68d,Tovarna Lek,5001,TIMEOUT,TIMEOUT
+58db973d-ecbb-4aa6-a56c-c26aaff7f263,SŽ ŠIŠKA,d119c3e9-7f2c-4d40-97a4-ccc6b4bb2951,Archinetova,4621,fcec9e7a-1c9e-4214-96dd-d071550349e6,Zgornja Šiška
+c6eab761-36e0-4bf8-88ed-48e594ed375b,Parmova,813b7c8c-5236-405a-bb0d-092a5d93c2a6,Kavčičeva,2030,452bfd80-e8bd-470b-bc4a-981e1b37ffd7,Kodeljevo
+a7094427-e180-4deb-acaf-5d4488326e9e,ZADOBROVA,07bad99d-070a-42f7-8766-d11d42152623,Prekmurska,5001,TIMEOUT,TIMEOUT
+923bd774-0651-4e0a-8624-3acfb7ecd5ff,Gornje Poljane,b7b7ac00-59bb-41eb-833d-ad309d24e68a,ČRNI LOG,286,769b7bc7-4f95-4bb2-9c99-37ba8e8b4bd5,D. MOST P+R
+79a5bacd-8b59-4d83-99e8-26e3c5b1490b,Osenjakova,216a26dc-11c2-432b-b099-0d55d508b7fa,Cesta v Gorice,2080,05643914-8ff7-4064-8737-2761d44a083f,Tabor
+d9df365b-7e54-4d22-b2e9-3b548d48ad59,Cesta na Vrhovce,ad8a76cf-4386-44b3-9156-490c502e4bc4,Pod Debnim vrhom,5001,TIMEOUT,TIMEOUT
+2838f674-f6e9-4eb5-a99c-1d0ac7903ca1,NOVE JARŠE,0760a037-cd94-4936-89b6-45ce9bd19917,Mercator,93,eec159d0-4b1b-4706-9a5d-a00ddcbea9f5,Baragova
+cddb3822-7daf-4cae-9cc3-6b191e81326b,Yulon,392949a1-1ada-4196-9073-6f392638ca49,Bratislavska,20,02c61e3f-2d2e-4b42-b695-bbd3cc672f6b,Leskoškova
+6739536d-b334-46c6-ae80-4890afac7985,Lavrica,0eca6015-5429-4289-a76c-4ec9ef707e67,BTC-Merkur,4734,5d7f28a6-2a2a-4333-aa06-48edfb652f86,Pošta
+ee3713fe-016c-47eb-96d1-f760c9d19010,Svetčeva,f2fc2702-e9da-4c36-b6fc-9f52199e4574,Rakovnik,4712,f073b9d9-a3e3-4d04-a209-0db55377b79e,Zmajski most
+d2ff7ae5-59fc-4894-aa50-a7f16b5e3534,Ižanska,e26da28a-b9c3-41b8-b57f-87b289b38e08,GD Gameljne,2092,a769d1e9-8727-4190-b56c-5cdd8a49333d,Čerinova
+5f6cb902-b824-4961-9ac2-75cf44a47055,Pance,9f6048f0-5c5e-4773-915e-4ee05d200e27,KS. Pirniče,4633,0b90d258-764d-4c06-aab0-7074dbd54182,Podgrad
+c124f317-217b-4b89-9597-393843de4f81,Nusdorferjeva,100da88e-4c5f-4188-bd11-d4f3fc80fb74,Rast,21,c124f317-217b-4b89-9597-393843de4f81,Nusdorferjeva
+7d003bd3-5fae-4076-b952-9f734651720f,Prelog Mngan,6d2a7c2e-5938-433e-a691-b9bc28767675,Cesta na Kope,5001,TIMEOUT,TIMEOUT
+d6ae97e7-23b5-48d6-a9fa-2a2624e9f434,Rakovnik pri Sori,d72032c7-d4b0-4eee-a87c-593985a42266,Tobačna,5001,TIMEOUT,TIMEOUT
+8512e1be-4637-483b-a3e6-78ccc6d2c5b1,Navje,524d67dd-fbb0-4f6a-9199-f095123044ab,Kamna Gorica,5001,TIMEOUT,TIMEOUT
+2838f674-f6e9-4eb5-a99c-1d0ac7903ca1,NOVE JARŠE,eead721b-8996-4e73-a2f9-02dba20df4fa,Ilirska,5001,TIMEOUT,TIMEOUT
+3f37b298-896a-40be-b2f5-6fe8154756c4,Cesta na Brod,cec37fa8-0d4a-4e80-a259-2fa91b68463d,Goropečnikova,5001,TIMEOUT,TIMEOUT
+dc6b96b1-d0fa-4d03-ac2b-8eba5bb97ba2,Peruzzijeva,c297ac70-8f43-4fbc-a8a4-366ddb883a8d,Bonifacija,5001,TIMEOUT,TIMEOUT
+6edebb46-d04f-45c4-99a4-100f7f0b2660,Zadvor,9f01f25f-9a5b-459a-96da-222ef81faf51,Trata,2018,548dbdee-83b0-497b-acc1-e15b34899d42,Hladilniška
+9746f277-af08-4cce-92fa-41da5eca8ac2,BERIČEVO,acedfed0-a3ba-4fa3-8cd6-910783961f0a,Goričane kopališče,5001,TIMEOUT,TIMEOUT
+b2dd8b3a-3710-4f07-b735-4bd183bfaade,Erbežnik,5e732249-14ec-4efe-bae1-7f9ca722f7ae,M. St. vas,5001,TIMEOUT,TIMEOUT
+862efb04-bcf5-493a-929d-242fb91ba5f6,Elma,a12ab184-fb4b-449f-9884-88e0a1672e64,Tbilisijska,5001,TIMEOUT,TIMEOUT
+76f20fbf-afc4-4c7d-b51c-14f0878b38d8,C. STOŽICE P+R,a1795ee0-9147-4a5c-bb11-f60a809f690e,Ihan Emona,5001,TIMEOUT,TIMEOUT
+ccccee29-6fc7-4a86-b492-7f36a8e817db,M. St. vas,c9b2488c-cca9-4b84-83cb-638ef545c851,Kržičeva,5001,TIMEOUT,TIMEOUT
+184817a9-ca88-4c82-a40b-5768991da3df,Podpeč,754e8f1f-a5ba-4281-8f31-fb3357744cd2,Cesta v Zajčjo Dobravo,3559,c70ad4c4-6c37-4f31-83aa-921dc8bc15a4,Pržanec
+7276f267-9837-4c56-aad3-f8cd555060da,Prežganje šola,9cfac7e2-9653-4e52-a6d3-27756d27f817,Kino Šiška,5001,TIMEOUT,TIMEOUT
+259de009-1345-4169-920b-baeaceade993,Primožičeva,66a82f60-b1d1-4251-a715-178300014f18,Studenec,4840,6559d555-672b-4633-8a81-0ae68fb963eb,ZD POLJE
+a9796806-8cd3-4b76-bf8c-4340aec35c9e,Lutkovno gl.,ef91fd44-5651-4fd4-b6f8-619fdef9da7b,Hajdrihova,568,f1b7471e-db71-49da-846d-1232cb3e8f8f,Rožna dolina
+dc6b96b1-d0fa-4d03-ac2b-8eba5bb97ba2,Peruzzijeva,32ff2d5b-61ae-415b-941b-aeb1be1b5052,Trbeže,3609,6459bd02-d8f8-413e-9402-10b916f09a4f,7. septembra
+5f6cb902-b824-4961-9ac2-75cf44a47055,Pance,4d216485-ef41-45e7-9182-0c254644955c,Sava,4018,332abe37-33b8-4142-9edd-4ebd9e52eaf7,Podlipoglav
+ae3f312a-4242-4a42-8df2-5990505a7747,Sp. Gameljne 3,754e8f1f-a5ba-4281-8f31-fb3357744cd2,Cesta v Zajčjo Dobravo,733,9143c575-806f-4ba0-81bc-8199f0b0b4d0,Šentjakob
+0dc86a8f-0f41-44c7-978c-e06cb63cbbcf,Medvoška a.p.,cdbafa76-fd1b-45e0-bbd6-d6c1c6a141f9,Podmilščakova,3905,4682c5fd-08cb-4af1-a3e2-6f1ee880a52d,Baragova
+e3321752-4498-4da3-801c-d54920b22eba,Draga,3866c761-7fa4-4a4a-b913-75569da498d9,Samova,2018,3fbf6322-fb74-4a50-a81a-bfca73abc26b,Tacenski most
+785ad018-d0fe-4628-b188-15f6dc71b38e,Barje,7fdce743-a4be-44d7-8658-0a259a18ad30,Stožice,5001,TIMEOUT,TIMEOUT
+96d4c75b-6452-4c70-a31e-c234262ba38b,Veliki štradon,c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2,BROD,5001,TIMEOUT,TIMEOUT
+7ba233b7-a50a-497d-8135-dd8dabf93ff5,Goropečnikova,f4cfd904-bd11-4247-95df-32c4555a930f,Klinični center,4116,484b5c91-1220-43ba-af79-84e712fcc46b,Slovenija avto
+5d7f28a6-2a2a-4333-aa06-48edfb652f86,Pošta,3d2f3af0-3b48-4019-a861-ee4fff761a24,Ježkova,2537,d4c25d68-c340-431b-a646-7680fe0cefee,Pržanec
+4038e02e-f22f-4af0-ba4f-7aab855b53af,Kneza Koclja,087e50b6-7677-4a85-802f-5694266fe38b,Aškerčeva,1219,010c271e-49ca-45a5-91ac-8ba8d41ee7f3,Čerinova
+b589ddd3-5a31-4fe1-915f-44347b4c0a1a,Bratov Učakar,9c57d59a-53f8-4a16-b279-2ab1745ea230,Krožna pot,2422,a12cff7f-91e5-4f1e-be40-1a9b34ae792a,Agrokombinatska
+9b85d4b0-c594-4e0e-9ce2-d0986256c270,Tavčarjeva,c3188d8e-c2d3-40e5-acc2-14bef70a5ff4,Za travniki,5001,TIMEOUT,TIMEOUT
+bb995fbb-29c8-4035-9503-ae33320833a8,Cesta v Zavoglje,12304b99-9a07-485a-a101-eaca90495d48,Besnica šola,955,59d96e2c-3ee3-4581-840a-3ddaf0003743,Osenjakova
+f2920a77-6c6c-494d-96b7-2a8caf8f374f,Mirje,5ddf10c0-90a5-4dbf-992c-23c0505674aa,Podgora,2996,ac3afe7d-a2b3-4d5d-9e6a-1d2412a3bc70,Litostrojska
+c8f784f8-ce92-4773-8d90-c6bed3513ce0,Zadvor pri Grosupljem,d861c2ce-106a-4b95-a4fc-2af355c0bbf0,Lahova pot,5001,TIMEOUT,TIMEOUT
+d7d791d9-02e0-4369-be0c-1546fc2044a4,Staje,5a06b853-39a7-479d-ac40-fafa659fd896,Gostilna Kovač,2704,98fa3880-5936-4ec8-ba04-39c7ff9a0e6a,Stara cerkev
+5b2cb528-ba33-461a-aee5-54e2ed8c3758,Perovo,d0790612-d161-4be4-953d-a7a0c33acf1e,Cesta na Brod,5001,TIMEOUT,TIMEOUT
+1aa7e441-8646-4d1d-88bd-ab004758ffc4,Pod Kamno gorico,dfd33168-046e-49af-9428-b9394f98667c,ZG. Pirniče,550,3fbf6322-fb74-4a50-a81a-bfca73abc26b,Tacenski most
+ee837fd9-7a5c-4f14-bbd7-a46f14eb07c5,Glonarjeva,3c6ebf90-c611-4535-b2b0-22fba3f7649a,Štajerska,2226,2265e4de-a537-4f97-882b-c94c24aabfb0,Sostro
+78ef8af0-fd16-46b8-a5de-8d24b99638c8,Prežganje šola,2f18bcfa-6189-4de4-b06f-132d3392e7d6,Besnica,5001,TIMEOUT,TIMEOUT
+5c38ad77-8124-42b3-810f-04703daec8b4,Šentjakob,10449641-799e-4ee4-a712-a6e3a9aefc27,Prelog,378,e73c7113-cb4a-4cd5-8df9-ffc5fd86590a,Dragomelj - 1
+1b3d51e8-8b5e-4b31-a63e-9d665243c2f1,Nove Žale,52e5adea-e194-4fc1-809c-1d6421f8f8db,Kovinarska,5001,TIMEOUT,TIMEOUT
+55e3f615-be6c-43f4-9858-e199862771a4,Pri Dogonivar,cf6f67f5-f7df-4462-828b-481134217fad,Žito,2246,30e58784-86f6-4d93-8630-3cc3fc93c6f3,Brod
+cf94d70f-d211-4625-9037-014514562aa9,Lanišče,ef91fd44-5651-4fd4-b6f8-619fdef9da7b,Hajdrihova,5001,TIMEOUT,TIMEOUT
+db13a26e-19d4-4b8a-a78a-01ef25d58834,Ježica,65a6b01d-c9cf-4d4e-930c-5562156d7375,Besnica kamnolom,5001,TIMEOUT,TIMEOUT
+45e88013-1a7e-44a0-ab1f-bc0db6c6746f,Šemnikar,a33e6b1f-de56-43aa-9a52-f7064636ab79,Zg. Besnica,414,7276f267-9837-4c56-aad3-f8cd555060da,Prežganje šola
+8512e1be-4637-483b-a3e6-78ccc6d2c5b1,Navje,84578591-7543-4105-8465-9df30256360d,Šmartno,4992,a2ce7e6f-0f99-443a-a973-81a0b9c60261,Astra
+55f1ae46-11e5-4270-991f-f09dae6c58bf,Kodeljevo,6932c2e0-ff32-4170-b519-fba88e29c147,Cesta XV,317,c297ac70-8f43-4fbc-a8a4-366ddb883a8d,Bonifacija
+f1bc11ca-7516-447a-b826-7051c5306af7,Friškovec,68c65382-15dc-465c-96b5-7f27af9d4a63,Stanežiče,2528,7eb88e01-82e9-4af4-84d0-69c6ea9dc82c,Kolodvor
+e333d90d-3eef-4d82-9e00-ebe693e2f389,Jurčkova,5c9baa4c-9ee0-4263-be22-72f5a73c714d,Škofljica Petkovšek,1104,6a74977a-a26d-42b4-a60b-8dabc726e57d,Gornji Rudnik
+47252dc3-dbd8-43df-898b-0a3fb27ffc93,Pod Golovcem,7ad774b6-172a-401b-b186-358aa2d560a2,Jarše,44,7bcbdcaa-00b9-47d4-8982-09da26cd7bcb,Zaloška
+8f56b058-1ae3-44f5-8600-4330f2264d78,Privoz,9b4a7d21-709f-4462-b602-c77d975df9e7,Pri Dogonivar,5001,TIMEOUT,TIMEOUT
+169789c5-0251-47a6-800a-74ff3dffe04d,Hrastje,01bc5983-63a7-4184-9986-32e5a5320684,Preska,5001,TIMEOUT,TIMEOUT
+a0b1fb90-3f6a-4231-910a-18be192ac762,Flajšmanova,c0fb12dd-8cab-40da-a3aa-e8de9c6d09ed,Rusjanov trg,5001,TIMEOUT,TIMEOUT
+baab981f-b707-4b2e-8291-6175f7ceb255,Ilovica,08071ba1-570f-487b-9a36-01a046fb2788,Kolodvor Črnuče,219,cdabf1ea-b04c-480a-8359-72c46e6864ab,Bežigrad
+4ab506fa-0fcd-431b-ace7-19ffa5f0576a,Reaktor,1308dcf9-a9e1-4e54-95c9-0f2afaac889b,ŽELEZNA,5001,TIMEOUT,TIMEOUT
+26d86ffa-b8df-49aa-a9c0-5fa7d3cfba77,Draveljska gmajna,fbd1dfb0-4a6f-4160-ad52-5ccb69530195,Pri Dolencu,3764,95732ece-1658-4e11-9b5f-b6ae5552e638,Zapuže
+a1406782-3114-407c-8e35-35bcf5a1234b,Bolnica P. Držaja,b91edda3-a147-4599-bebf-85e145de085b,Živalski vrt-ZOO,2428,b91edda3-a147-4599-bebf-85e145de085b,Živalski vrt-ZOO
+3c6ebf90-c611-4535-b2b0-22fba3f7649a,Štajerska,5293859e-2ea2-4ad3-9781-884672606464,Agrokombinatska,5001,TIMEOUT,TIMEOUT
+31e6db90-ba65-4c49-90c0-317fb92596b3,Medvode,795c157e-21e0-4115-85aa-93c227e3420f,Domžale,2450,eee4abae-e720-4776-b6c7-0099d0119246,Ruski car
+1d7af067-e43b-4a98-953c-75f1b267d9ce,Ig,e9089f7d-853e-4375-8ecb-0db96fcc60e6,OŠ Jezero,5001,TIMEOUT,TIMEOUT
+ba59baf4-dd00-40a5-80e7-3eee6b9d8b09,Golouhova,3f37b298-896a-40be-b2f5-6fe8154756c4,Cesta na Brod,5001,TIMEOUT,TIMEOUT
+9a480b5e-0283-4130-a5e2-9d5e996caa4f,Litostrojska,9fa0b90f-dba1-4eca-8802-589425d3e8fd,Polanškova,5001,TIMEOUT,TIMEOUT
+c70ad4c4-6c37-4f31-83aa-921dc8bc15a4,Pržanec,12cfc2b3-f8ff-444b-8d5f-15855e45e331,Dolgi most Rotar,1220,b56664c0-1dc1-42c5-b10b-52c3fb0dd042,Galjevica
+b59656a4-b6e7-4b87-977c-078c59088a50,Hajdrihova,b4634750-8d91-4625-b40d-1da9665e70f6,Podpeč 1,5001,TIMEOUT,TIMEOUT
+0b6960bb-2431-48c3-9e64-3cbf5c57ea96,Hrastje,a2b5023d-5ce8-420f-ad2a-b61c7a1902a8,Volavlje,5001,TIMEOUT,TIMEOUT
+0eca6015-5429-4289-a76c-4ec9ef707e67,BTC-Merkur,9f6048f0-5c5e-4773-915e-4ee05d200e27,KS. Pirniče,5001,TIMEOUT,TIMEOUT
+cb05ea76-5fc1-4162-b432-a914b63604d0,Spar,a1795ee0-9147-4a5c-bb11-f60a809f690e,Ihan Emona,5001,TIMEOUT,TIMEOUT
+5ddf10c0-90a5-4dbf-992c-23c0505674aa,Podgora,ef005e77-f3b8-4171-b681-1294d0e4732b,Log,2330,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+d4c51b31-46fd-4da8-ba15-8068e666d483,Zadvor,717c914e-f928-4671-95f6-26c1ddb95799,Cesta v Gorice,5001,TIMEOUT,TIMEOUT
+a41f5786-6b70-4224-bcde-e6fbaac4c21b,Smrekarjevo,d5d15a80-243b-49d7-a616-b3c3fb39e8af,Oval,5001,TIMEOUT,TIMEOUT
+0d50a4a8-a88d-4468-b562-73e51937e1c5,Ob daljnovodu,46f20d33-601c-4ef6-b86c-7c2bb4af52fa,Ježkova,5001,TIMEOUT,TIMEOUT
+26d86ffa-b8df-49aa-a9c0-5fa7d3cfba77,Draveljska gmajna,47252dc3-dbd8-43df-898b-0a3fb27ffc93,Pod Golovcem,289,ac3afe7d-a2b3-4d5d-9e6a-1d2412a3bc70,Litostrojska
+8589e5d1-21b4-4210-ad7a-4bf91f9a715d,Vižmarje,b59656a4-b6e7-4b87-977c-078c59088a50,Hajdrihova,1696,35dbaf26-2fa4-45c4-87fc-81d1ff13b005,Tbilisijska
+3d0466c6-82f4-4a8e-ac5f-18d4dab794ac,Ihan Flerin,33613e0e-f41c-4cee-804a-3942bf698e3e,Iški most,5001,TIMEOUT,TIMEOUT
+d4d4230a-5247-4071-baa4-463321d9d934,Smrekarjevo,b7b7ac00-59bb-41eb-833d-ad309d24e68a,ČRNI LOG,2909,bd1a0fbd-1593-4552-a76f-681c59333d6b,Savsko naselje
+01d1f388-d915-4e9f-bc3d-4432a73a216e,Večna pot,98239279-bb80-4070-965c-dc87525019e2,Vikrče,3798,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+eaad1ba5-14a4-494f-80ae-65294c29a962,Rožna dolina,ca8cbe57-95dc-4326-9c06-b60a87b981b1,ŠKOFLJICA obrač.,3065,7d579a55-27bc-49d0-a124-a5ed6233c55a,Tacenski most
+cecad767-51e5-4683-bf56-e6e342f8d1e0,Zg. Besnica,dd57f39b-be0f-479e-bc35-5bd2edf98ff2,Bolnica,5001,TIMEOUT,TIMEOUT
+d5735919-60bb-4720-a695-9f5155a4f109,Plešičeva,1069d764-9345-425d-8c4d-12d6ffa1fde1,Kališnikov trg,467,4d2fc228-0628-4897-8d77-3e71d500d36d,Sava
+11d74c00-da13-4cad-883e-c6dcf8edcbe8,Aleja,61f19c68-2d5e-4d76-bdd4-28709a347b5b,Spar,1285,cce39cbe-6961-433a-a787-64fbf602f470,Livada
+108e7dc8-ca5d-4c91-9414-32a32a31b69a,Grosuplje SM,7bcbdcaa-00b9-47d4-8982-09da26cd7bcb,Zaloška,5001,TIMEOUT,TIMEOUT
+eb8e8d9a-a3d5-4ec1-9356-26e0e41912d1,Pot v mejah,aa844493-50b0-4b91-b331-f4297d2ae6a8,Brezovica pošta,1962,feb89b92-366d-4f50-a509-40c7baba8cf0,Brodarjev trg
+5be3b187-5735-4444-bee7-0665f60e6c83,Ižica,f2b27cbd-5207-4281-8f67-6369d0c50a9b,Kodrova,824,557f714a-6f4a-4c98-8c5a-d74fa34b2adb,Hrvatski trg
+ba0f81e5-dfec-49bb-8d6b-d52618338640,Gostilna Kovač,a9473958-e505-4c16-8498-486b06a47856,Čebelarska,3247,f2bac6f5-5bbc-4f15-acdd-014d86770ce9,Kneza Koclja
+70c51140-f3ee-4c89-a6e2-ed74dab89148,Bilečanska,15c71406-72b5-4681-8b1a-29eb30eb3f76,Kristalna palača,219,eb165f50-9c43-4b09-9658-469a16d3dc83,Kodeljevo
+d0790612-d161-4be4-953d-a7a0c33acf1e,Cesta na Brod,235d7e56-4520-4691-b7d9-7588f7306e1d,Vnajnarje,5001,TIMEOUT,TIMEOUT
+454817d3-3750-49c7-994c-14d06fd2c634,Žale,041e08cc-b1bd-4f2c-aa4e-a9aaf2837a28,Iška vas,481,cce39cbe-6961-433a-a787-64fbf602f470,Livada
+7c149b59-2bc6-45cb-95c8-69e18a0db627,Rusjanov trg,441545fb-7a0c-4555-aea8-01cbe6c14ea3,Puhova,5001,TIMEOUT,TIMEOUT
+0b6c7b97-410c-48fa-be23-430c316f9b10,Stadion Domžale,67c3adc1-a92d-4528-91ee-77d8b52574c6,Poliklinika,5001,TIMEOUT,TIMEOUT
+6edebb46-d04f-45c4-99a4-100f7f0b2660,Zadvor,6a0b25cc-428e-47b5-831a-e89facfa7f26,Ziherlova,4489,5f2b93f1-7933-45ed-915c-4488ab8d81b7,Ižanska
+4d216485-ef41-45e7-9182-0c254644955c,Sava,557f714a-6f4a-4c98-8c5a-d74fa34b2adb,Hrvatski trg,3844,f784b27a-1509-4eec-bd52-6beee2b9530b,Kamnogoriška
+712ee105-4fab-498a-af5c-496ca9830f5f,Viadukt,f2b27cbd-5207-4281-8f67-6369d0c50a9b,Kodrova,725,2d42d8e2-26a8-4a74-809c-f436d05c8a54,Tbilisijska
+07bad99d-070a-42f7-8766-d11d42152623,Prekmurska,bb995fbb-29c8-4035-9503-ae33320833a8,Cesta v Zavoglje,1764,d9f26e1a-77fc-48b0-a024-93fd38eb88a4,SOSTRO
+fef200e9-4d98-425b-ab14-8110e2aa85d7,Drama,4d216485-ef41-45e7-9182-0c254644955c,Sava,5001,TIMEOUT,TIMEOUT
+e73c7113-cb4a-4cd5-8df9-ffc5fd86590a,Dragomelj - 1,a8a92762-af25-42a7-98dd-9846f8b33e09,Luče Na Šoli,5001,TIMEOUT,TIMEOUT
+62d0c5a7-1692-43ef-b6e2-31f514362629,Škofljica žaga,91745353-dd19-49ee-beaf-332e546dcceb,Zidarjevec 2,679,1907a46a-4559-43ec-8363-03fe35d30725,Rudnik
+cab36767-e95a-4f60-978e-92490f2517b2,Hrvatski trg,28248670-5e08-4de2-8eab-e63933c0d61d,Podmornica,2820,9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska
+e3321752-4498-4da3-801c-d54920b22eba,Draga,b7b7ac00-59bb-41eb-833d-ad309d24e68a,ČRNI LOG,4137,ecc4ae87-ae08-4b94-995c-452fdd94df7f,Privoz
+a2ce7e6f-0f99-443a-a973-81a0b9c60261,Astra,a1795ee0-9147-4a5c-bb11-f60a809f690e,Ihan Emona,1421,aa9cc3b9-7c6c-4e45-b91a-1e0494fbf15e,Dragomelj - 1
+edc8bf1d-d4f1-4c5b-8112-e4fa71a02bae,I. Kobilca,3d0466c6-82f4-4a8e-ac5f-18d4dab794ac,Ihan Flerin,5001,TIMEOUT,TIMEOUT
+c15a2be8-fc53-427d-9cc6-a50bb305f68d,Tovarna Lek,3f01eb40-651e-4fad-aff9-2ee27f259f64,Kozler,4320,da656f17-9723-4cbe-a008-823cbad17c28,Dolgi most
+45b36327-9a1a-4cd5-8261-53217326b22f,Podlipoglav,aa844493-50b0-4b91-b331-f4297d2ae6a8,Brezovica pošta,5001,TIMEOUT,TIMEOUT
+156a6f62-9a67-4cf0-ad56-85a343c77cd2,Agrokombinatska,6559d555-672b-4633-8a81-0ae68fb963eb,ZD POLJE,1849,6d2a7c2e-5938-433e-a691-b9bc28767675,Cesta na Kope
+28248670-5e08-4de2-8eab-e63933c0d61d,Podmornica,bfcba499-ce46-41b0-8268-966d74eccb20,Tinčk,5001,TIMEOUT,TIMEOUT
+24ab9d18-4fb9-4e7e-b48c-d5cdc9cd1305,Agrokombinatska,d5961b09-f5e8-4a0b-9bbb-2515ff0a8376,Ob daljnovodu,5001,TIMEOUT,TIMEOUT
+1ceecd12-b005-4828-ad39-8f2aeb1ca228,Iški most,896f7627-7c1c-4742-a40a-6aadb85fe206,Viško polje,5001,TIMEOUT,TIMEOUT
+c0e6a237-3879-4336-88b6-5af51408cc7e,AMZS,a6fde748-bb91-465c-8665-20cbaed7df19,V. Lipljene,5001,TIMEOUT,TIMEOUT
+08071ba1-570f-487b-9a36-01a046fb2788,Kolodvor Črnuče,9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje,1187,666e98e1-4a23-4204-a3e6-99110f8b3153,Kolodvor Črnuče
+0ff94f7b-275b-4cc4-bb27-e00842f5ad87,Hrušica,8598b85d-3e1d-4767-b72f-0c209038841f,Štepanja vas,389,5cc8a08d-c0af-491f-9a9c-b8b4f5f23bc0,BTC-Emporium
+29589594-5959-4efb-8dda-7348e4e500a0,Kozarje,fcec9e7a-1c9e-4214-96dd-d071550349e6,Zgornja Šiška,5001,TIMEOUT,TIMEOUT
+6c56976b-4ae1-429f-bcab-0cfc37e3580d,Zgornji log,6e7cab20-d7e3-474f-9a5e-f1e0ca6fae53,Hruševska,5001,TIMEOUT,TIMEOUT
+6cc5af3b-67ea-47f3-9e8a-10946c32b906,V. Lipljene,a2b5023d-5ce8-420f-ad2a-b61c7a1902a8,Volavlje,5001,TIMEOUT,TIMEOUT
+61485a1f-73a8-4dac-bcc7-6e4e53eb4b0f,Slovenijales,aa3ce006-1975-496a-abc6-a98ec5e87652,Dobrunje-2,4020,8c7fa045-888b-46d0-8189-6f82623bf481,Poljanska
+67d66d40-e8ba-4bc0-a9cf-814dce3ccbea,Jadranska,f1d7dbc8-d84b-4550-a3bd-e4748a677e9d,Trnovo,4447,1aa7e441-8646-4d1d-88bd-ab004758ffc4,Pod Kamno gorico
+1b27d65a-1008-4bc9-928e-f6cb43b03804,Besnica ambulanta,71480129-1108-4659-bb1b-d62897a81d02,Polje-kolodvor,5001,TIMEOUT,TIMEOUT
+48b163cd-b819-4849-aee1-8b1da77657ab,Šentvid,4ec1b435-1683-4cd7-a4d0-688cc9f3b603,JEZERO,5001,TIMEOUT,TIMEOUT
+44e58cea-6c90-467f-baf2-22ac161daafb,Pri Maranzu,f2fc2702-e9da-4c36-b6fc-9f52199e4574,Rakovnik,3133,60ccc570-3714-410b-aa31-43d3a4c593c8,Tržnica Moste
+fb0042f8-d9e2-4916-b60a-38a026acf0c9,Leskoškova,31e6db90-ba65-4c49-90c0-317fb92596b3,Medvode,5001,TIMEOUT,TIMEOUT
+5d1e404b-1606-457e-8d2b-4e3e80139532,Topniška,023d7b7a-b411-4e61-8746-b07f9e5c8f90,Ambrožev trg,1139,1505c6fe-6080-424e-98d1-24c312cfacf3,Pot na Rakovo jelšo
+f15ddf31-fc11-41ba-988d-376c83e38f58,Vodovodna,2265e4de-a537-4f97-882b-c94c24aabfb0,Sostro,1016,f2b27cbd-5207-4281-8f67-6369d0c50a9b,Kodrova
+06348c07-2fb0-4dfb-a938-aaef614a7f68,Andreja Bitenca,4b456495-fb29-4ff3-b48b-4090bc51514e,KPL,2768,b829062a-2644-4350-b998-74522d9e85d8,Lutkovno gl.
+a6b87518-2a7f-4505-898f-245ebe23c909,Krožna pot,b829062a-2644-4350-b998-74522d9e85d8,Lutkovno gl.,5001,TIMEOUT,TIMEOUT
+1a3351a1-563e-4174-b402-54bc0e2f5191,Archinetova,76ec8af8-07c2-4d44-b0d8-a439d381913f,Medno,5001,TIMEOUT,TIMEOUT
+94c6598b-7303-42e1-94d5-156d7a25f630,Gerbičeva,ccccee29-6fc7-4a86-b492-7f36a8e817db,M. St. vas,5001,TIMEOUT,TIMEOUT
+1505c6fe-6080-424e-98d1-24c312cfacf3,Pot na Rakovo jelšo,79a5bacd-8b59-4d83-99e8-26e3c5b1490b,Osenjakova,143,3429cda2-6047-453c-bf54-952dfa6674c0,Klinični center
+3a50f545-2fe2-45a0-8ed6-01635603efed,Dobrunje,7d628170-e2eb-47fd-9d3e-658acf78d7d3,Sp. Slivnica,5001,TIMEOUT,TIMEOUT
+ef31a8be-b01d-44cd-95cf-3db8e918af26,Emona,5de6ff80-1352-43df-b5ec-1df59f2f492b,Pot na Rakovo jelšo,926,baab981f-b707-4b2e-8291-6175f7ceb255,Ilovica
+c20233f2-94bc-4c21-9d2a-9b129b668487,Ihan Emona,391bf42a-68a3-400a-baea-0c708f327325,Kamna Gorica,5001,TIMEOUT,TIMEOUT
+4f681273-89fe-44f9-aaec-76950722cc52,Študentsko naselje,45e88013-1a7e-44a0-ab1f-bc0db6c6746f,Šemnikar,5001,TIMEOUT,TIMEOUT
+d9f26e1a-77fc-48b0-a024-93fd38eb88a4,SOSTRO,9fa0b90f-dba1-4eca-8802-589425d3e8fd,Polanškova,5001,TIMEOUT,TIMEOUT
+f2fc2702-e9da-4c36-b6fc-9f52199e4574,Rakovnik,fcec9e7a-1c9e-4214-96dd-d071550349e6,Zgornja Šiška,5001,TIMEOUT,TIMEOUT
+7ad774b6-172a-401b-b186-358aa2d560a2,Jarše,e0c253d0-1de7-4add-ac75-8b16151fa462,Dobrunje,651,f0661242-947b-4937-a9ce-d2a135cd62a7,Bizovik
+0be237aa-4b91-4d2b-ac23-0cebac975a0d,Cankarjev dom,8c7fa045-888b-46d0-8189-6f82623bf481,Poljanska,5001,TIMEOUT,TIMEOUT
+a1795ee0-9147-4a5c-bb11-f60a809f690e,Ihan Emona,7310c006-62b8-4f94-bb9c-d5c26cb3faad,Polje,1810,24ab9d18-4fb9-4e7e-b48c-d5cdc9cd1305,Agrokombinatska
+7ad25867-5c97-4f9f-9b1b-4966436f7fbf,NS Rudnik,03375155-45fb-4565-b392-2349fcb199ea,Kardeljeva ploščad,5001,TIMEOUT,TIMEOUT
+1308dcf9-a9e1-4e54-95c9-0f2afaac889b,ŽELEZNA,f9d70942-e517-4560-8655-99481edd2b95,JEŽICA P+R,5001,TIMEOUT,TIMEOUT
+5d7f28a6-2a2a-4333-aa06-48edfb652f86,Pošta,923bd774-0651-4e0a-8624-3acfb7ecd5ff,Gornje Poljane,1434,96d4c75b-6452-4c70-a31e-c234262ba38b,Veliki štradon
+596e3cfe-bd4c-4afa-ba4c-33172dba9be1,Belinka,b8533150-cf69-441a-8fc4-18f39cbef16b,JEŽICA,4978,6bd46cb7-9e5d-453a-878a-bcc38fb2a5f2,Sava
+461045f0-a82c-45c0-af66-71b25f3f0e1a,Belinka,77c4dfcc-1122-4896-9983-8a5bd11320de,Dravlje,5001,TIMEOUT,TIMEOUT
+30c30bf5-75c4-4dc0-995f-4679ef54d37c,Mostiček,36c4949b-403b-4a76-87e3-d67f51d655ef,Martinova,5001,TIMEOUT,TIMEOUT
+4ac86a6a-874d-41a7-92a5-64ed733b7734,Tacen,d5735919-60bb-4720-a695-9f5155a4f109,Plešičeva,1914,9807573b-8821-40e4-b891-a5cea6e23b3d,Trata
+c5ec5e81-2ce4-452d-bd7a-595de4f8b34f,Prušnikova,eb669f04-cfb6-4ea4-90c9-26eb551ecb45,Bilečanska,485,f0661242-947b-4937-a9ce-d2a135cd62a7,Bizovik
+db046e79-c658-433c-8812-157fd965a9f6,Galjevica,023d7b7a-b411-4e61-8746-b07f9e5c8f90,Ambrožev trg,217,f66a1f18-4c18-4317-b929-fb616cc7cebc,Hruševska
+7a52a73a-cc0e-4c61-b9bc-306157727e1c,Tržnica Moste,59d96e2c-3ee3-4581-840a-3ddaf0003743,Osenjakova,5001,TIMEOUT,TIMEOUT
+d0790612-d161-4be4-953d-a7a0c33acf1e,Cesta na Brod,a378ce5e-57ce-4c52-b219-568674b5cd5e,Gornji trg,2663,1a3351a1-563e-4174-b402-54bc0e2f5191,Archinetova
+9cb18d2e-9bf3-436a-ab3a-7c52c5de1300,Rašica,ccd8a655-468b-4728-a26d-7981bbdd7dec,Zg. Gameljne,40,ea91e672-f4a8-40cb-af62-214726551a93,Šmartno
+c22879e5-8e90-4540-9a74-5f139208e492,Friškovec,d987aa3a-ae4a-42f6-bc9b-79c41dcf055a,Kosmačeva,5001,TIMEOUT,TIMEOUT
+cee2862b-9b70-4880-8fa3-16c6d2efae1b,AMZS,a1795ee0-9147-4a5c-bb11-f60a809f690e,Ihan Emona,3795,a12ab184-fb4b-449f-9884-88e0a1672e64,Tbilisijska
+40fcc1b9-2c42-4db8-bd48-d431efc8a3fd,Stara Ježica,404f8444-540d-4d82-a355-30a6a8bec797,Viško polje,5001,TIMEOUT,TIMEOUT
+f073b9d9-a3e3-4d04-a209-0db55377b79e,Zmajski most,4d2fc228-0628-4897-8d77-3e71d500d36d,Sava,5001,TIMEOUT,TIMEOUT
+16ae0a39-ff9a-4aee-88b5-34502255fab4,Pod Sivnikom,548dbdee-83b0-497b-acc1-e15b34899d42,Hladilniška,5001,TIMEOUT,TIMEOUT
+b7834e14-7e86-4df5-83ce-006c93c31c00,Koprska,22c11486-1afa-491f-b9ab-162d88c8c44d,Prelog Mngan,5001,TIMEOUT,TIMEOUT
+3d2f3af0-3b48-4019-a861-ee4fff761a24,Ježkova,1308dcf9-a9e1-4e54-95c9-0f2afaac889b,ŽELEZNA,3744,b56664c0-1dc1-42c5-b10b-52c3fb0dd042,Galjevica
+e78f256e-7218-4263-87b9-255bd90c9f49,Maroltova,2628ca4f-8797-4672-aca9-47b325c58aac,Besnica šola,5001,TIMEOUT,TIMEOUT
+9f6048f0-5c5e-4773-915e-4ee05d200e27,KS. Pirniče,46847a61-d68a-4d2c-ad76-18e043d41430,Brglezov štradon,4905,bd1a0fbd-1593-4552-a76f-681c59333d6b,Savsko naselje
+7d579a55-27bc-49d0-a124-a5ed6233c55a,Tacenski most,c20233f2-94bc-4c21-9d2a-9b129b668487,Ihan Emona,5001,TIMEOUT,TIMEOUT
+2cde6efe-5f53-44aa-8018-76f0ea2c86f8,Reaktor,609f0950-bb8c-4eaf-a931-8575b8aff1ac,Savske stolpnice,5001,TIMEOUT,TIMEOUT
+7962e05c-ad8c-43e4-9db4-4b90f0c94596,Murgle,c6c83930-96af-4cbe-93bf-072a618502a4,Šlandrova,1779,099976aa-17cc-45d3-add4-267985ab1533,Draga
+f5e84751-7377-402c-974c-53276e422e70,Na klancu,9e90940e-cf99-4112-87ec-7cbb6331509a,ZG. Pirniče,2589,0d50a4a8-a88d-4468-b562-73e51937e1c5,Ob daljnovodu
+476c1b24-6f2f-4727-b610-645c50493814,Črnuče,79a5bacd-8b59-4d83-99e8-26e3c5b1490b,Osenjakova,5001,TIMEOUT,TIMEOUT
+15af3c66-ad74-4f41-92f7-92e2ff72a51d,Zidarjevec,1f9fad8e-d59c-494c-bdd1-1983afacb755,Kodrova,637,1505c6fe-6080-424e-98d1-24c312cfacf3,Pot na Rakovo jelšo
+d987aa3a-ae4a-42f6-bc9b-79c41dcf055a,Kosmačeva,30cf2ed7-2cf0-4764-ab64-78206968d5ba,Ostrovrhar,5001,TIMEOUT,TIMEOUT
+1035c6f7-304e-4329-a3b2-4eb5d985a577,OŠ Sostro,39b60288-c9ac-4bc2-825b-524dec52182d,Goričane kopališče,5001,TIMEOUT,TIMEOUT
+7bcbdcaa-00b9-47d4-8982-09da26cd7bcb,Zaloška,fdff5f9c-6c02-4fc1-a004-7032b17fa37a,Murkova,2479,aa42017d-812a-4175-bc9b-0fec03b18931,Ambrožev trg
+595ee2ab-3022-469d-a3e1-0c87d7dfb14d,STANEŽIČE nas.,5d7f28a6-2a2a-4333-aa06-48edfb652f86,Pošta,330,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+eaad1ba5-14a4-494f-80ae-65294c29a962,Rožna dolina,52e5d1c1-28c9-4ed2-b0ec-5bf7311be753,Cesta v Bizovik,2346,c9b2488c-cca9-4b84-83cb-638ef545c851,Kržičeva
+a0b1fb90-3f6a-4231-910a-18be192ac762,Flajšmanova,ea9d5fa9-af5a-4d39-96fd-626415048511,Martinova,3583,21764d19-62cc-49fd-bac9-403aeac6a6b9,Ježica
+68c65382-15dc-465c-96b5-7f27af9d4a63,Stanežiče,baab981f-b707-4b2e-8291-6175f7ceb255,Ilovica,2785,48b163cd-b819-4849-aee1-8b1da77657ab,Šentvid
+c326e479-ccc3-4915-8788-3fa189d0143e,Litostroj,da834a23-5697-49bb-b3a1-7f277c8206bc,Javor,5001,TIMEOUT,TIMEOUT
+1b3dce90-170f-4176-b47b-2b50b9407e82,Dvor,fb0042f8-d9e2-4916-b60a-38a026acf0c9,Leskoškova,2095,306dcdea-b1ce-4357-ba5e-fa82293630df,Kolodvor
+e2499103-6634-4d8e-87a8-68dc5ef6340c,Sp. Gameljne 2,efecc3aa-ae68-4374-bc24-334280abcf3f,Zaboršt,5001,TIMEOUT,TIMEOUT
+111b2cdc-67ca-47bc-a8eb-8a4c6a0674d9,Tabor,9e90940e-cf99-4112-87ec-7cbb6331509a,ZG. Pirniče,1077,0d50a4a8-a88d-4468-b562-73e51937e1c5,Ob daljnovodu
+6a774daa-3547-4128-b304-aa2d17d4391a,Dolnice,cec37fa8-0d4a-4e80-a259-2fa91b68463d,Goropečnikova,5001,TIMEOUT,TIMEOUT
+0334e79e-7a89-44e9-a463-5af813e64a40,Lanišče,4e8ccfa1-b58c-4ee1-ad82-2e8a645071f3,Sostro - 2,5001,TIMEOUT,TIMEOUT
+af820908-f71f-4c46-82c2-e7616f9c21fb,Goričane pod gradom,e9089f7d-853e-4375-8ecb-0db96fcc60e6,OŠ Jezero,3331,cab36767-e95a-4f60-978e-92490f2517b2,Hrvatski trg
+ba59baf4-dd00-40a5-80e7-3eee6b9d8b09,Golouhova,8441d439-8d1d-40b8-b3d5-7b9c56848b43,Radna,207,db046e79-c658-433c-8812-157fd965a9f6,Galjevica
+8375ab17-e389-42b2-9b88-0210a049e321,Bonifacija,ab624858-605d-48c6-a660-d54c2e037a91,V. St. vas,5001,TIMEOUT,TIMEOUT
+03375155-45fb-4565-b392-2349fcb199ea,Kardeljeva ploščad,9c2e9262-7afe-44d3-8aaf-80afd45f9118,Kozarje,5001,TIMEOUT,TIMEOUT
+06348c07-2fb0-4dfb-a938-aaef614a7f68,Andreja Bitenca,98a94a2a-894f-4ff0-9967-1dd986bf0cfd,Litostroj,5001,TIMEOUT,TIMEOUT
+10449641-799e-4ee4-a712-a6e3a9aefc27,Prelog,d72032c7-d4b0-4eee-a87c-593985a42266,Tobačna,5001,TIMEOUT,TIMEOUT
+d6ae97e7-23b5-48d6-a9fa-2a2624e9f434,Rakovnik pri Sori,cec37fa8-0d4a-4e80-a259-2fa91b68463d,Goropečnikova,3578,010c271e-49ca-45a5-91ac-8ba8d41ee7f3,Čerinova
+3f0c15b3-99bd-4c12-8f7a-df06c9536526,Pod Sivnikom,0bb103e4-c4a6-4c4c-a13d-217ab4e6dfd3,Cesta na Vevče,95,91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1,Sostro
+4038e02e-f22f-4af0-ba4f-7aab855b53af,Kneza Koclja,eec159d0-4b1b-4706-9a5d-a00ddcbea9f5,Baragova,3892,f4cfd904-bd11-4247-95df-32c4555a930f,Klinični center
+5d1e404b-1606-457e-8d2b-4e3e80139532,Topniška,452bfd80-e8bd-470b-bc4a-981e1b37ffd7,Kodeljevo,5001,TIMEOUT,TIMEOUT
+52c437c8-73ae-4db5-ac31-8e7cf5104826,V. Loka pri Viš. G.,70c51140-f3ee-4c89-a6e2-ed74dab89148,Bilečanska,5001,TIMEOUT,TIMEOUT
+87785aa3-128e-4f15-82b0-d8c3cfa6076f,Spodnji Rudnik,07bad99d-070a-42f7-8766-d11d42152623,Prekmurska,4523,91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1,Sostro
+53c3c8c9-2e64-4a8f-9afb-031b24c17d5a,Plečnikova cerkev,2beb7011-982a-4349-be22-addf1c3bdec7,Pod Kamno Gorico,2401,124ec397-421b-4737-bf71-09c9b1665a10,Preska
+76f20fbf-afc4-4c7d-b51c-14f0878b38d8,C. STOŽICE P+R,9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska,5001,TIMEOUT,TIMEOUT
+ba6f47bf-d346-4ccb-8669-13b974d863a6,Križišče Sostro,ef31a8be-b01d-44cd-95cf-3db8e918af26,Emona,5001,TIMEOUT,TIMEOUT
+d3283222-38a9-40e2-a485-180d1a33067c,Novo Polje,712ee105-4fab-498a-af5c-496ca9830f5f,Viadukt,844,5d91512b-af7f-4bbe-9dde-17f402fbf590,Sneberska
+cee2862b-9b70-4880-8fa3-16c6d2efae1b,AMZS,7a52a73a-cc0e-4c61-b9bc-306157727e1c,Tržnica Moste,965,5cc8a08d-c0af-491f-9a9c-b8b4f5f23bc0,BTC-Emporium
+538ab00b-ee39-44e8-b5a4-62c2c6215bf6,Zeleni gaj,9e109242-5aad-4fb7-b0c8-576eef8aa4e0,VEVČE,117,c3188d8e-c2d3-40e5-acc2-14bef70a5ff4,Za travniki
+fcfe6ac9-74b3-4c13-96b7-6041f1454813,Kamnogoriška,46f20d33-601c-4ef6-b86c-7c2bb4af52fa,Ježkova,2053,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+1c0c01ee-6258-4328-9d01-489eb421a8d9,Nadgorica,f088dbda-3ab0-43c5-bcdf-c727725c05be,Brdo,952,b829062a-2644-4350-b998-74522d9e85d8,Lutkovno gl.
+05bd4cbd-b014-4cfd-8ca9-3c82b0a59114,Plečnikova cerkev,b4b7f450-4397-42d2-9d1e-39f786eecc2e,Podgorica,5001,TIMEOUT,TIMEOUT
+daf172e0-4dd9-4d5b-8287-67ad2034bced,Stadion,03375155-45fb-4565-b392-2349fcb199ea,Kardeljeva ploščad,3541,ecc4ae87-ae08-4b94-995c-452fdd94df7f,Privoz
+9a480b5e-0283-4130-a5e2-9d5e996caa4f,Litostrojska,0e79ef8c-f692-4e29-a37e-4a81cbb3d410,Vič Glince,2473,db046e79-c658-433c-8812-157fd965a9f6,Galjevica
+3866c761-7fa4-4a4a-b913-75569da498d9,Samova,dfd33168-046e-49af-9428-b9394f98667c,ZG. Pirniče,5001,TIMEOUT,TIMEOUT
+a4545f57-dab0-4ca0-9da3-5bc96d80f104,Vevče,45b36327-9a1a-4cd5-8261-53217326b22f,Podlipoglav,503,1b0f629f-acdb-4e94-8c54-018f4334ebf7,Križišče Sostro
+a41f5786-6b70-4224-bcde-e6fbaac4c21b,Smrekarjevo,0b9c5011-4f2d-4753-914f-500532b0dbeb,Lobček,5001,TIMEOUT,TIMEOUT
+e6f5183b-c615-4f47-b4fb-204ee070e825,Bežigrad,1e4be02a-ac61-41bc-b9b5-1ef7850313ed,IMP,241,0810f07b-94d6-442f-b10d-bf8210c4ed47,Draveljska gmajna
+9c57d59a-53f8-4a16-b279-2ab1745ea230,Krožna pot,b4634750-8d91-4625-b40d-1da9665e70f6,Podpeč 1,5001,TIMEOUT,TIMEOUT
+524d67dd-fbb0-4f6a-9199-f095123044ab,Kamna Gorica,1f4702d4-6b02-4ad3-aa9b-118ff9aa3474,Zasavska,5001,TIMEOUT,TIMEOUT
+0e79ef8c-f692-4e29-a37e-4a81cbb3d410,Vič Glince,d3283222-38a9-40e2-a485-180d1a33067c,Novo Polje,5001,TIMEOUT,TIMEOUT
+0a4b6359-22f0-4caa-b4a8-f4edb97a0825,Pot Rdečega križa,332abe37-33b8-4142-9edd-4ebd9e52eaf7,Podlipoglav,3598,484b5c91-1220-43ba-af79-84e712fcc46b,Slovenija avto
+ee3713fe-016c-47eb-96d1-f760c9d19010,Svetčeva,86a75ffc-a78f-401f-8991-2eb0371417b2,Studenec,1131,a2ce7e6f-0f99-443a-a973-81a0b9c60261,Astra
+a2947722-2e6f-48dd-9c31-ff36356676fa,Tinčk,c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2,BROD,5001,TIMEOUT,TIMEOUT
+8dde1a7b-e3ec-4675-8409-2a2c4ae696c7,MESTNI LOG,e1e80207-5c23-47c0-a63a-121003b22807,Sp. Pirniče,5001,TIMEOUT,TIMEOUT
+1e2641bc-b0b2-448e-8ad2-e52891fa4c5f,Pece K,eb669f04-cfb6-4ea4-90c9-26eb551ecb45,Bilečanska,5001,TIMEOUT,TIMEOUT
+0c5f69a6-97c7-4053-bc0b-3f09dbf72f46,Tovarna Lek,aee8e842-6083-48a7-b14f-cc3d112537bb,Opekarska,1297,484b5c91-1220-43ba-af79-84e712fcc46b,Slovenija avto
+099976aa-17cc-45d3-add4-267985ab1533,Draga,c8e0086c-0cef-4375-a471-72f3ae1e34fc,Strelišče,5001,TIMEOUT,TIMEOUT
+ab624858-605d-48c6-a660-d54c2e037a91,V. St. vas,815a2c5e-19a1-41b0-bca4-69dca8912326,OŠ Domžale,5001,TIMEOUT,TIMEOUT
+379bc761-04b5-4227-be76-3b870fe3e69f,Pot na Fužine,a26d9a94-effb-45ab-a27f-74076e9e5bdd,Jurečič,5001,TIMEOUT,TIMEOUT
+cab36767-e95a-4f60-978e-92490f2517b2,Hrvatski trg,c22879e5-8e90-4540-9a74-5f139208e492,Friškovec,30,9b85d4b0-c594-4e0e-9ce2-d0986256c270,Tavčarjeva
+79a5bacd-8b59-4d83-99e8-26e3c5b1490b,Osenjakova,bb1ac8b9-5cb2-49f2-8d5c-d7fe4afdd5dd,Cesta na Vrhovce,5001,TIMEOUT,TIMEOUT
+e82569a6-73f3-4002-b7b5-0f83ee167535,Silos,6cc5af3b-67ea-47f3-9e8a-10946c32b906,V. Lipljene,5001,TIMEOUT,TIMEOUT
+2388ce1f-c947-42d7-97f3-e01a7254c933,Škocjan,627be449-8b6a-40f4-a57c-09ccdacccb66,Novo naselje,5001,TIMEOUT,TIMEOUT
+c32ef99a-6752-47fe-94eb-a5134c7110af,N. STOŽICE P+R,4abe5e63-5707-4ef0-acda-ab2c52749afe,Štajerska,3,441545fb-7a0c-4555-aea8-01cbe6c14ea3,Puhova
+9e109242-5aad-4fb7-b0c8-576eef8aa4e0,VEVČE,01d1f388-d915-4e9f-bc3d-4432a73a216e,Večna pot,3420,295616c0-387b-4f60-a337-7743cd6be04e,Bavarski dvor
+9f6048f0-5c5e-4773-915e-4ee05d200e27,KS. Pirniče,6182f8e8-c45e-4606-b4a4-d909bd44d2cc,Gornji trg,5001,TIMEOUT,TIMEOUT
+e26da28a-b9c3-41b8-b57f-87b289b38e08,GD Gameljne,47637057-8d6a-4cf9-bd56-3ac90748fcc4,Barje,1842,96d4c75b-6452-4c70-a31e-c234262ba38b,Veliki štradon
+13d6dac7-dc00-416e-a8c0-0d6967e4014e,PODUTIK,53ec687a-6f0c-4bb7-b1b4-606e7dcfada9,IMP,3309,67c3adc1-a92d-4528-91ee-77d8b52574c6,Poliklinika
+98b60d07-8054-441a-be44-be7aa24f4253,Dolnice,30e58784-86f6-4d93-8630-3cc3fc93c6f3,Brod,1411,c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2,BROD
+70bba1e8-3ea8-46fe-ace3-f75b04e37605,Volavlje,45b36327-9a1a-4cd5-8261-53217326b22f,Podlipoglav,5001,TIMEOUT,TIMEOUT
+e9382efd-d64d-46b0-9a7d-a4e6a0188725,Omersova,bd1396f2-4dc8-4695-9bf1-c601157100d8,Preglov trg,4343,48507e1a-32df-4552-9448-3b345760b75f,Cesta na Vevče
+66eec6a2-dfde-4d98-b690-e47f200367fd,Log,c20233f2-94bc-4c21-9d2a-9b129b668487,Ihan Emona,5001,TIMEOUT,TIMEOUT
+7add6fa5-bfd5-4d9c-841b-d9856088ede9,Javor-2,6459bd02-d8f8-413e-9402-10b916f09a4f,7. septembra,5001,TIMEOUT,TIMEOUT
+01d1f388-d915-4e9f-bc3d-4432a73a216e,Večna pot,5c9baa4c-9ee0-4263-be22-72f5a73c714d,Škofljica Petkovšek,3992,8561e9fb-03e0-46f1-802d-b376d26a8ea5,Drenikova
+a769d1e9-8727-4190-b56c-5cdd8a49333d,Čerinova,6340ea93-391e-45b9-94b0-56d1d7c87e20,Sora,2912,30cf2ed7-2cf0-4764-ab64-78206968d5ba,Ostrovrhar
+3a50f545-2fe2-45a0-8ed6-01635603efed,Dobrunje,e786b2df-34ed-4246-832e-7c3d538ac1f4,Kranjčeva,936,6a89c110-a0f8-4b1a-87f0-33f49c0a658e,Šola Jarše
+100da88e-4c5f-4188-bd11-d4f3fc80fb74,Rast,46f20d33-601c-4ef6-b86c-7c2bb4af52fa,Ježkova,1773,ba59baf4-dd00-40a5-80e7-3eee6b9d8b09,Golouhova
+0b9c5011-4f2d-4753-914f-500532b0dbeb,Lobček,77c4dfcc-1122-4896-9983-8a5bd11320de,Dravlje,5001,TIMEOUT,TIMEOUT
+7a256ec6-bb93-47eb-af92-ea62941c1dc6,Večna pot,6559d555-672b-4633-8a81-0ae68fb963eb,ZD POLJE,5001,TIMEOUT,TIMEOUT
+f414efd9-d697-4bbe-abb6-c9e09fd73514,Perovo,95732ece-1658-4e11-9b5f-b6ae5552e638,Zapuže,5001,TIMEOUT,TIMEOUT
+e26da28a-b9c3-41b8-b57f-87b289b38e08,GD Gameljne,9bb1ed3b-5a6f-43c7-afaf-ba2b60ca1a7a,Aškerčeva,5001,TIMEOUT,TIMEOUT
+ecc4ae87-ae08-4b94-995c-452fdd94df7f,Privoz,0dc86a8f-0f41-44c7-978c-e06cb63cbbcf,Medvoška a.p.,5001,TIMEOUT,TIMEOUT
+66943a7c-28b4-40a6-a996-21aa0b968435,Staje,36d25599-0bed-48a0-bcb4-134be8a959fe,Emona,5001,TIMEOUT,TIMEOUT
+a2ce7e6f-0f99-443a-a973-81a0b9c60261,Astra,ad966374-a37d-443a-9a3e-ec85ca28231f,Pod Rožnikom,5001,TIMEOUT,TIMEOUT
+da623aed-094d-4c3c-9766-9f0aba0f40f6,C. dveh cesarjev,1f207e67-adf9-4da6-b107-3b58051d9990,Sneberska,5001,TIMEOUT,TIMEOUT
+2b223d0c-f8ec-4970-815c-bfe26c3ffc09,Na klancu,d4c25d68-c340-431b-a646-7680fe0cefee,Pržanec,3251,099976aa-17cc-45d3-add4-267985ab1533,Draga
+459f82d2-cbe4-414b-b66b-0b794ea958ed,Smelt,2628b04b-eaf2-4c5a-b7ac-837237162783,Na Žalah,520,d72d58c2-b9a9-4dd5-b741-17e986d925c8,Gasilska brigada
+6d2a7c2e-5938-433e-a691-b9bc28767675,Cesta na Kope,e8b0d4a2-f65e-4aed-97b8-77ab0d07955a,Cesta v Kresnice,2319,a12cff7f-91e5-4f1e-be40-1a9b34ae792a,Agrokombinatska
+08506f21-8675-4972-a359-ba9412a1da49,Kot,592b37eb-8255-4758-ae8a-7cef98521013,Rogovilc,319,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+ba681dbc-ea72-4685-ad98-c5ed496510e6,Plešičeva,0be237aa-4b91-4d2b-ac23-0cebac975a0d,Cankarjev dom,2343,1c0ae078-cca7-40c8-aeda-1187a12ddfee,Remiza
+d72d58c2-b9a9-4dd5-b741-17e986d925c8,Gasilska brigada,a7094427-e180-4deb-acaf-5d4488326e9e,ZADOBROVA,2031,f073b9d9-a3e3-4d04-a209-0db55377b79e,Zmajski most
+9b9d2948-7538-409c-9bfc-42c0b74c41a8,Zakrajškova,46847a61-d68a-4d2c-ad76-18e043d41430,Brglezov štradon,3855,60edf514-fd83-400b-b86f-881f7eff258b,Hladilniška
+769b7bc7-4f95-4bb2-9c99-37ba8e8b4bd5,D. MOST P+R,5b184752-5bd2-43e3-9243-dfc8969d9065,Bolnica P. Držaja,1074,2d42d8e2-26a8-4a74-809c-f436d05c8a54,Tbilisijska
+9a938b49-ce1d-4e1c-a789-e316630ebc4f,Poliklinika,233daca5-913b-4e10-bf34-18b1c8c77019,Prelog,3310,ac3afe7d-a2b3-4d5d-9e6a-1d2412a3bc70,Litostrojska
+e0c253d0-1de7-4add-ac75-8b16151fa462,Dobrunje,87415b6b-7e7f-4b82-b78f-ef1a7db85282,MALI LIPOGLAV,1619,5cc8a08d-c0af-491f-9a9c-b8b4f5f23bc0,BTC-Emporium
+459f82d2-cbe4-414b-b66b-0b794ea958ed,Smelt,b47eac47-d897-4ba7-ab06-8e642cc8efe8,BERIČEVO,144,783196f2-97cd-4265-bb9a-b13aa8bb6a0b,Božičeva
+639551cf-fe23-4363-8ccd-655bc5d4119e,Zmajski most,2323bf9e-1a47-4409-b9c8-398a035c8d12,Študa trgovina,1349,5293859e-2ea2-4ad3-9781-884672606464,Agrokombinatska
+727cab27-5e8e-4c5e-ba27-449822a45ee7,STANEŽIČE P+R,2e62f411-936d-4a10-96ed-2d8fe95d6d65,Zidarjevec,5001,TIMEOUT,TIMEOUT
+a7094427-e180-4deb-acaf-5d4488326e9e,ZADOBROVA,52e5d1c1-28c9-4ed2-b0ec-5bf7311be753,Cesta v Bizovik,303,5293859e-2ea2-4ad3-9781-884672606464,Agrokombinatska
+a2f479c6-4c21-4923-b4ac-86f752507cee,GROSUPLJE,a8af1032-30bf-4f7b-a921-28d2f712fd24,DRAGOMELJ,5001,TIMEOUT,TIMEOUT
+e468b92f-fa4a-4819-bb11-37761deaf4ca,BESNICA obrač.,48507e1a-32df-4552-9448-3b345760b75f,Cesta na Vevče,5001,TIMEOUT,TIMEOUT
+7d579a55-27bc-49d0-a124-a5ed6233c55a,Tacenski most,277bc73c-e61d-4046-bcfd-31d6161c568e,Center Zalog,1969,daf172e0-4dd9-4d5b-8287-67ad2034bced,Stadion
+06e4802d-2c96-4556-bd95-35e0a2bb030c,M. Lipljene,9cc88862-270a-409a-b450-e0003c7930af,Videm pri Ljubljani,5001,TIMEOUT,TIMEOUT
+98fa3880-5936-4ec8-ba04-39c7ff9a0e6a,Stara cerkev,ae3f312a-4242-4a42-8df2-5990505a7747,Sp. Gameljne 3,5001,TIMEOUT,TIMEOUT
+cf22c7c2-776f-4bd7-ae1a-dc4f25983c19,Študa polje,390d166c-b2fe-486c-bba5-38cd1ff64f48,Križišče Sostro,1764,aa9cc3b9-7c6c-4e45-b91a-1e0494fbf15e,Dragomelj - 1
+39650ca1-d08c-4645-ac1a-6aed84eb45c5,Obrtna cona,c93954aa-7aad-4fca-9f7a-721d37f0474e,NS Rudnik,3464,9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska
+0760a037-cd94-4936-89b6-45ce9bd19917,Mercator,a41f5786-6b70-4224-bcde-e6fbaac4c21b,Smrekarjevo,5001,TIMEOUT,TIMEOUT
+1f207e67-adf9-4da6-b107-3b58051d9990,Sneberska,923bd774-0651-4e0a-8624-3acfb7ecd5ff,Gornje Poljane,5001,TIMEOUT,TIMEOUT
+447a37f6-2be6-45a3-8ae0-6982aa53cafb,Jurečič,dba19980-8ca1-4847-b9b5-8cd419374ae2,Ponova vas,5001,TIMEOUT,TIMEOUT
+5c15a390-36b6-47a9-9d84-0c7160157c1d,Gorjančeva,e26da28a-b9c3-41b8-b57f-87b289b38e08,GD Gameljne,1164,9cfac7e2-9653-4e52-a6d3-27756d27f817,Kino Šiška
+9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska,61926b26-d777-483f-ae79-86766c48793b,Tržnica Koseze,5001,TIMEOUT,TIMEOUT
+bfcba499-ce46-41b0-8268-966d74eccb20,Tinčk,eb165f50-9c43-4b09-9658-469a16d3dc83,Kodeljevo,5001,TIMEOUT,TIMEOUT
+4ab506fa-0fcd-431b-ace7-19ffa5f0576a,Reaktor,f088dbda-3ab0-43c5-bcdf-c727725c05be,Brdo,5001,TIMEOUT,TIMEOUT
+169789c5-0251-47a6-800a-74ff3dffe04d,Hrastje,f8da5156-e545-47ed-a811-2242f41f5593,Mercator,4665,71480129-1108-4659-bb1b-d62897a81d02,Polje-kolodvor
+9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje,3febe187-31d6-4229-be07-78ff782ca972,GD Gameljne,135,30e58784-86f6-4d93-8630-3cc3fc93c6f3,Brod
+2c46416a-d66e-469c-a342-898a93f5b2f0,Trebeljevo,ee7e3c65-72e8-465e-a9a3-a9370ec1f314,Vevče Papirnica,3758,a2947722-2e6f-48dd-9c31-ff36356676fa,Tinčk
+410b424b-5f4d-4137-bc20-7d1f328540a3,Verje,219086ca-bdcb-4092-bd82-3d372b9b73ce,Erbežnik,5001,TIMEOUT,TIMEOUT
+7e0c8a32-21cb-46dc-8e50-9c4675dfa322,Javor-2,68075aa0-144c-4f6e-93ef-e93dfc35df78,ZALOG,1145,91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1,Sostro
+39650ca1-d08c-4645-ac1a-6aed84eb45c5,Obrtna cona,406d6bb7-147c-4853-a917-e5c437b025e6,Pance,5001,TIMEOUT,TIMEOUT
+61485a1f-73a8-4dac-bcc7-6e4e53eb4b0f,Slovenijales,521edd75-c364-480a-af9e-a1c9815b6dd7,Gasilska brigada,5001,TIMEOUT,TIMEOUT
+f9d70942-e517-4560-8655-99481edd2b95,JEŽICA P+R,223f660b-c391-4120-bf3c-7bf06781686b,Tovorni kolodvor,4379,2d6504e9-c938-417e-9b55-32d6514bc744,Kristalna palača
+03375155-45fb-4565-b392-2349fcb199ea,Kardeljeva ploščad,02c61e3f-2d2e-4b42-b695-bbd3cc672f6b,Leskoškova,1059,66012072-6b6b-4775-8001-0887d18e09a3,Pod Debnim vrhom
+3c143688-247f-41cc-960d-f5e37b874c3a,Črnuče,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina,5001,TIMEOUT,TIMEOUT
+8e7a488b-cd48-4243-92b0-42792d0e3bc1,Capuder,30131bc3-a0f7-4cfc-9e4d-552b325c0ba7,Radna,2171,d9df365b-7e54-4d22-b2e9-3b548d48ad59,Cesta na Vrhovce
+10449641-799e-4ee4-a712-a6e3a9aefc27,Prelog,4fddf4a7-ad4e-4630-a5ca-3267955db548,Ljubljanska,949,df973089-967d-4446-916c-260e9e8fec83,Domžale
+9f01f25f-9a5b-459a-96da-222ef81faf51,Trata,c31b32c6-1ec2-48e9-9929-356fd0253540,Selo,5001,TIMEOUT,TIMEOUT
+7411cd45-83d2-40e6-89f6-5a0995e409cb,Zadvor pri Grosupljem,318d4398-e152-498b-b4ff-1344c67adba6,Razstavišče,5001,TIMEOUT,TIMEOUT
+60edf514-fd83-400b-b86f-881f7eff258b,Hladilniška,454817d3-3750-49c7-994c-14d06fd2c634,Žale,109,48507e1a-32df-4552-9448-3b345760b75f,Cesta na Vevče
+ff74fc01-faf6-4a78-a782-d8365538e7de,M. vas pri Grosupljem,d83ec579-9ab5-4e30-bedd-86613c234abd,Ljubljanske brigade,5001,TIMEOUT,TIMEOUT
+49f28358-bfda-458e-a4b3-a45f602765c1,POLICA/VIŠ. G.,18d010ca-0244-4928-82cb-47af0836a1bb,Krivec,5001,TIMEOUT,TIMEOUT
+125d4928-6b97-4a4b-af34-a2d1564c029c,Zasavska,fdff5f9c-6c02-4fc1-a004-7032b17fa37a,Murkova,5001,TIMEOUT,TIMEOUT
+81b6f6ad-6dd6-4e3f-a0bd-754a65a3e57b,Šlandrova,a999f83e-4e6a-4ef9-9a10-e4a2c8a4a182,Vaše,5001,TIMEOUT,TIMEOUT
+1308dcf9-a9e1-4e54-95c9-0f2afaac889b,ŽELEZNA,b4ffcb65-e60f-478d-806b-e7ae83f1a39d,GLINCE,1637,295616c0-387b-4f60-a337-7743cd6be04e,Bavarski dvor
+64ea9f57-1f7f-465e-8721-55e26faee36a,Krimska,8d775324-59ca-429e-ad7e-8d522c52dbdd,Drenikova,2635,9276fcfb-0f7e-4df3-b827-325600851526,Topniška
+2fafda56-e44d-4e08-8503-90e6bf75e19d,Veliki Lipoglav,a7177a3d-8db2-43fb-8910-f95857f0ed97,Škocjan,5001,TIMEOUT,TIMEOUT
+33613e0e-f41c-4cee-804a-3942bf698e3e,Iški most,106bdc28-f0fe-4f13-b4ad-6c6a630550b5,Parmova,5001,TIMEOUT,TIMEOUT
+6e7cab20-d7e3-474f-9a5e-f1e0ca6fae53,Hruševska,21fba303-9465-42e6-8942-eaff85a2b40c,Zidarjevec 2,932,6edebb46-d04f-45c4-99a4-100f7f0b2660,Zadvor
+6d2a7c2e-5938-433e-a691-b9bc28767675,Cesta na Kope,aa9cc3b9-7c6c-4e45-b91a-1e0494fbf15e,Dragomelj - 1,4855,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+56dbd8ff-6ec8-4186-b46c-f74ddb5a304a,Tacenski most,ad966374-a37d-443a-9a3e-ec85ca28231f,Pod Rožnikom,3335,f15ddf31-fc11-41ba-988d-376c83e38f58,Vodovodna
+277bc73c-e61d-4046-bcfd-31d6161c568e,Center Zalog,363e4763-df83-4814-99d2-879d448d5910,Obrtna cona,5001,TIMEOUT,TIMEOUT
+16ae0a39-ff9a-4aee-88b5-34502255fab4,Pod Sivnikom,5fe363f3-8297-448b-bde3-08f690c92d1b,Snoj,1004,452bfd80-e8bd-470b-bc4a-981e1b37ffd7,Kodeljevo
+2e6c059c-0305-47bb-9ca8-00a2123039e9,Štepanja vas,b0b32562-f5dc-4183-abba-5729adf98088,OPEKARSKA,5001,TIMEOUT,TIMEOUT
+e74131c6-ac2f-477b-9693-10bb5ab9f24b,Grosuplje,a3aeed02-8e36-4cb0-bb08-25cc4afda164,Rašica,5001,TIMEOUT,TIMEOUT
+9f01f25f-9a5b-459a-96da-222ef81faf51,Trata,3f37b298-896a-40be-b2f5-6fe8154756c4,Cesta na Brod,5001,TIMEOUT,TIMEOUT
+62b17644-b4a6-412f-9e03-79bbaf339717,Ihan farma,dac8d2a7-89e4-4aec-948d-00db4833ce7c,Vrhovci,5001,TIMEOUT,TIMEOUT
+48c9ec48-2b87-4945-a077-808839f98e74,Ježa,d5735919-60bb-4720-a695-9f5155a4f109,Plešičeva,1494,f2bac6f5-5bbc-4f15-acdd-014d86770ce9,Kneza Koclja
+ea9d5fa9-af5a-4d39-96fd-626415048511,Martinova,98b60d07-8054-441a-be44-be7aa24f4253,Dolnice,2970,8589e5d1-21b4-4210-ad7a-4bf91f9a715d,Vižmarje
+f1d7dbc8-d84b-4550-a3bd-e4748a677e9d,Trnovo,a2947722-2e6f-48dd-9c31-ff36356676fa,Tinčk,3752,9cfac7e2-9653-4e52-a6d3-27756d27f817,Kino Šiška
+acedfed0-a3ba-4fa3-8cd6-910783961f0a,Goričane kopališče,c20233f2-94bc-4c21-9d2a-9b129b668487,Ihan Emona,4739,087e50b6-7677-4a85-802f-5694266fe38b,Aškerčeva
+627be449-8b6a-40f4-a57c-09ccdacccb66,Novo naselje,21764d19-62cc-49fd-bac9-403aeac6a6b9,Ježica,5001,TIMEOUT,TIMEOUT
+9bb1ed3b-5a6f-43c7-afaf-ba2b60ca1a7a,Aškerčeva,9cd1e7f8-8ccf-4469-bc25-25d138605c67,Akademija,5001,TIMEOUT,TIMEOUT
+1632ee87-59dd-4367-bf10-9d13aa688e82,Tržnica Koseze,f0661242-947b-4937-a9ce-d2a135cd62a7,Bizovik,3859,d72d58c2-b9a9-4dd5-b741-17e986d925c8,Gasilska brigada
+a26d9a94-effb-45ab-a27f-74076e9e5bdd,Jurečič,12618339-2c2d-49ec-b0e0-2517c11991f8,Mirje,5001,TIMEOUT,TIMEOUT
+d72032c7-d4b0-4eee-a87c-593985a42266,Tobačna,c6c83930-96af-4cbe-93bf-072a618502a4,Šlandrova,5001,TIMEOUT,TIMEOUT
+125d4928-6b97-4a4b-af34-a2d1564c029c,Zasavska,e8d0bfd1-b300-4eae-8f85-79266066bb3c,Medvoška a.p.,317,8589e5d1-21b4-4210-ad7a-4bf91f9a715d,Vižmarje
+f088dbda-3ab0-43c5-bcdf-c727725c05be,Brdo,712ee105-4fab-498a-af5c-496ca9830f5f,Viadukt,2685,fac22b83-1bc0-4c12-8533-485b115409ef,Bolnica
+cf94d70f-d211-4625-9037-014514562aa9,Lanišče,46f20d33-601c-4ef6-b86c-7c2bb4af52fa,Ježkova,5001,TIMEOUT,TIMEOUT
+ba6f47bf-d346-4ccb-8669-13b974d863a6,Križišče Sostro,fbd1dfb0-4a6f-4160-ad52-5ccb69530195,Pri Dolencu,5001,TIMEOUT,TIMEOUT
+dfde6478-02b5-471b-a470-29cb0e84542f,Slovenija avto,cee2862b-9b70-4880-8fa3-16c6d2efae1b,AMZS,599,295616c0-387b-4f60-a337-7743cd6be04e,Bavarski dvor
+2edaabef-ed43-4b87-ba95-a5600c33250f,Bratov Židan,d72d58c2-b9a9-4dd5-b741-17e986d925c8,Gasilska brigada,455,f2bac6f5-5bbc-4f15-acdd-014d86770ce9,Kneza Koclja
+100da88e-4c5f-4188-bd11-d4f3fc80fb74,Rast,1b0f629f-acdb-4e94-8c54-018f4334ebf7,Križišče Sostro,84,1b0f629f-acdb-4e94-8c54-018f4334ebf7,Križišče Sostro
+7276f267-9837-4c56-aad3-f8cd555060da,Prežganje šola,c2827897-b9fe-4bfc-b4ed-880f11a2359e,ZELENA JAMA,5001,TIMEOUT,TIMEOUT
+e97befb6-5dc6-4603-ad5e-3aa96b4b2221,Rožičeva,c0a064eb-b507-43c2-a6d2-0e9c5881f031,Središka,10,e97befb6-5dc6-4603-ad5e-3aa96b4b2221,Rožičeva
+404f8444-540d-4d82-a355-30a6a8bec797,Viško polje,66a82f60-b1d1-4251-a715-178300014f18,Studenec,1847,b905ae6a-f1e1-4057-8923-481902ed5a8e,Konzorcij
+4abe5e63-5707-4ef0-acda-ab2c52749afe,Štajerska,aee8e842-6083-48a7-b14f-cc3d112537bb,Opekarska,1649,69bc9f1c-507f-463c-ba5a-04500b319967,Ilovica
+5dcffe2a-1c73-4f7c-bdac-4084bb5201aa,Peruzzijeva,f958cead-e4c3-4743-834d-46de4a06a8c9,Murgle,5001,TIMEOUT,TIMEOUT
+9cfac7e2-9653-4e52-a6d3-27756d27f817,Kino Šiška,1ef524bd-2bf3-4c47-add3-044374897443,Andreja Bitenca,4110,4ac86a6a-874d-41a7-92a5-64ed733b7734,Tacen
+86a75ffc-a78f-401f-8991-2eb0371417b2,Studenec,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina,91,7fa32ea0-e884-435a-a81c-51bbd5cedf3e,Zaloška
+d27a7320-71d6-48bc-a4f5-0f3e239575b8,Tacen,13ceaf6c-9650-45c3-b449-64a0e5094d18,Murkova,5001,TIMEOUT,TIMEOUT
+16d19639-a788-4df6-a168-6f8c3652ded7,Chengdujska,bb1ac8b9-5cb2-49f2-8d5c-d7fe4afdd5dd,Cesta na Vrhovce,5001,TIMEOUT,TIMEOUT
+dac8d2a7-89e4-4aec-948d-00db4833ce7c,Vrhovci,c297ac70-8f43-4fbc-a8a4-366ddb883a8d,Bonifacija,141,f088dbda-3ab0-43c5-bcdf-c727725c05be,Brdo
+68c65382-15dc-465c-96b5-7f27af9d4a63,Stanežiče,baab981f-b707-4b2e-8291-6175f7ceb255,Ilovica,4475,8561e9fb-03e0-46f1-802d-b376d26a8ea5,Drenikova
+3c143688-247f-41cc-960d-f5e37b874c3a,Črnuče,d08c4884-9764-447f-9b79-0ef7a645222f,Ledena dvorana Zalog,5001,TIMEOUT,TIMEOUT
+aa42017d-812a-4175-bc9b-0fec03b18931,Ambrožev trg,0b90d258-764d-4c06-aab0-7074dbd54182,Podgrad,5001,TIMEOUT,TIMEOUT
+c568fe2e-477f-4af2-ad68-cb8111f361d0,Jamnikarjeva,6459bd02-d8f8-413e-9402-10b916f09a4f,7. septembra,5001,TIMEOUT,TIMEOUT
+105e10e7-fbab-4f99-94c9-178c25630b42,Brodarjev trg,6739536d-b334-46c6-ae80-4890afac7985,Lavrica,1956,8f56b058-1ae3-44f5-8600-4330f2264d78,Privoz
+d06c6c8a-c136-4b7a-9c13-b26ba0c04029,Hlebš,76f20fbf-afc4-4c7d-b51c-14f0878b38d8,C. STOŽICE P+R,1604,5cc8a08d-c0af-491f-9a9c-b8b4f5f23bc0,BTC-Emporium
+b56664c0-1dc1-42c5-b10b-52c3fb0dd042,Galjevica,02e96186-e90a-4171-8869-082486f7da1d,V. Mlačevo,5001,TIMEOUT,TIMEOUT
+d9224caa-d582-4152-88e0-be720677fe16,Sp. Gameljne 3,29589594-5959-4efb-8dda-7348e4e500a0,Kozarje,4998,332abe37-33b8-4142-9edd-4ebd9e52eaf7,Podlipoglav
+022ef61f-a226-42e8-b11d-30cf9f9a6688,Tomažičeva,1aa7e441-8646-4d1d-88bd-ab004758ffc4,Pod Kamno gorico,4102,88cdd36c-03d2-4374-a22f-110dd9f75ea0,Kajuhova
+88cdd36c-03d2-4374-a22f-110dd9f75ea0,Kajuhova,5e732249-14ec-4efe-bae1-7f9ca722f7ae,M. St. vas,5001,TIMEOUT,TIMEOUT
+1069d764-9345-425d-8c4d-12d6ffa1fde1,Kališnikov trg,5aeac892-889f-4c5a-8fde-67e6ac096242,Dobrunjska c.,5001,TIMEOUT,TIMEOUT
+1c0c01ee-6258-4328-9d01-489eb421a8d9,Nadgorica,6d2a7c2e-5938-433e-a691-b9bc28767675,Cesta na Kope,5001,TIMEOUT,TIMEOUT
+390d166c-b2fe-486c-bba5-38cd1ff64f48,Križišče Sostro,fbd1dfb0-4a6f-4160-ad52-5ccb69530195,Pri Dolencu,352,2265e4de-a537-4f97-882b-c94c24aabfb0,Sostro
+ca8cbe57-95dc-4326-9c06-b60a87b981b1,ŠKOFLJICA obrač.,d861c2ce-106a-4b95-a4fc-2af355c0bbf0,Lahova pot,5001,TIMEOUT,TIMEOUT
+8eeea585-6168-45b8-a5d4-336e61826043,Zapuže,1e2641bc-b0b2-448e-8ad2-e52891fa4c5f,Pece K,5001,TIMEOUT,TIMEOUT
+34f3ddda-e732-4b53-bfb2-8773b5cd6eac,Sp. Gameljne 2,2f874852-bc80-4ff3-b6bf-a914e31251c8,Savske stolpnice,3323,c297ac70-8f43-4fbc-a8a4-366ddb883a8d,Bonifacija
+dc6b96b1-d0fa-4d03-ac2b-8eba5bb97ba2,Peruzzijeva,727cab27-5e8e-4c5e-ba27-449822a45ee7,STANEŽIČE P+R,833,8589e5d1-21b4-4210-ad7a-4bf91f9a715d,Vižmarje
+1ce1c3a8-e0f6-4f90-b1aa-1448759d8b3c,Astra,05bd4cbd-b014-4cfd-8ca9-3c82b0a59114,Plečnikova cerkev,2181,f073b9d9-a3e3-4d04-a209-0db55377b79e,Zmajski most
+8dde1a7b-e3ec-4675-8409-2a2c4ae696c7,MESTNI LOG,69bc9f1c-507f-463c-ba5a-04500b319967,Ilovica,3193,0b4a072e-6c2d-4c71-ab80-2b7142df81de,Tivoli
+548a85bd-f15f-427b-ad90-43cb50e9e31a,Bratov Židan,06e4802d-2c96-4556-bd95-35e0a2bb030c,M. Lipljene,5001,TIMEOUT,TIMEOUT
+f5e84751-7377-402c-974c-53276e422e70,Na klancu,311a0b74-0787-484b-b414-8adf1cd4cf58,Polanškova,1612,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+bd001f58-6e58-49e9-877f-1fa36964fbc2,Na jami,78ef8af0-fd16-46b8-a5de-8d24b99638c8,Prežganje šola,3773,45e88013-1a7e-44a0-ab1f-bc0db6c6746f,Šemnikar
+5c15a390-36b6-47a9-9d84-0c7160157c1d,Gorjančeva,a7af0c5d-2297-40e2-a6e0-506f6aadba0a,Rogovilc,446,eee355cc-98a1-4f25-8bf9-0100856eda6e,Za travniki
+36d25599-0bed-48a0-bcb4-134be8a959fe,Emona,8b5f91a6-23b7-4786-96f9-a80c6d668e18,Sp. Pirniče,5001,TIMEOUT,TIMEOUT
+1eca3479-6e2c-4f21-bf45-4db410041181,Peč pri Polici,5d1e404b-1606-457e-8d2b-4e3e80139532,Topniška,5001,TIMEOUT,TIMEOUT
+484b5c91-1220-43ba-af79-84e712fcc46b,Slovenija avto,567980fa-7783-411d-9c67-55b44d753880,Avtomontaža,5001,TIMEOUT,TIMEOUT
+9c57d59a-53f8-4a16-b279-2ab1745ea230,Krožna pot,71480129-1108-4659-bb1b-d62897a81d02,Polje-kolodvor,425,a2ce7e6f-0f99-443a-a973-81a0b9c60261,Astra
+d9224caa-d582-4152-88e0-be720677fe16,Sp. Gameljne 3,5a2def68-fa57-4002-a942-e39bc2a87688,Koseze,1731,938c9405-72bb-4acd-bace-a75abcf2f9cb,Na jami
+406d6bb7-147c-4853-a917-e5c437b025e6,Pance,41489be9-b3b7-4cbe-90f8-af1a435b2676,Orlova,5001,TIMEOUT,TIMEOUT
+8648bfde-9b0f-4a64-aced-fe63aa923879,Podgrad,5293859e-2ea2-4ad3-9781-884672606464,Agrokombinatska,5001,TIMEOUT,TIMEOUT
+69bc9f1c-507f-463c-ba5a-04500b319967,Ilovica,43e01b7e-be2c-4282-be1b-9f628ca67327,Jamnikarjeva,2847,7fa32ea0-e884-435a-a81c-51bbd5cedf3e,Zaloška
+e9382efd-d64d-46b0-9a7d-a4e6a0188725,Omersova,9f01f25f-9a5b-459a-96da-222ef81faf51,Trata,2428,9a480b5e-0283-4130-a5e2-9d5e996caa4f,Litostrojska
+4ab506fa-0fcd-431b-ace7-19ffa5f0576a,Reaktor,896f7627-7c1c-4742-a40a-6aadb85fe206,Viško polje,5001,TIMEOUT,TIMEOUT
+2154edb8-16e2-4334-8878-9e38abcdf06a,Zavrh,5fe363f3-8297-448b-bde3-08f690c92d1b,Snoj,5001,TIMEOUT,TIMEOUT
+9e90940e-cf99-4112-87ec-7cbb6331509a,ZG. Pirniče,71480129-1108-4659-bb1b-d62897a81d02,Polje-kolodvor,1735,aa42017d-812a-4175-bc9b-0fec03b18931,Ambrožev trg
+754e8f1f-a5ba-4281-8f31-fb3357744cd2,Cesta v Zajčjo Dobravo,a4545f57-dab0-4ca0-9da3-5bc96d80f104,Vevče,114,5d91512b-af7f-4bbe-9dde-17f402fbf590,Sneberska
+d9a82add-03d0-47d8-9f35-117b7a5ded44,Gerbičeva,eee4abae-e720-4776-b6c7-0099d0119246,Ruski car,5001,TIMEOUT,TIMEOUT
+4038e02e-f22f-4af0-ba4f-7aab855b53af,Kneza Koclja,627be449-8b6a-40f4-a57c-09ccdacccb66,Novo naselje,543,9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje
+169789c5-0251-47a6-800a-74ff3dffe04d,Hrastje,11d74c00-da13-4cad-883e-c6dcf8edcbe8,Aleja,5001,TIMEOUT,TIMEOUT
+8dde1a7b-e3ec-4675-8409-2a2c4ae696c7,MESTNI LOG,2fafda56-e44d-4e08-8503-90e6bf75e19d,Veliki Lipoglav,4628,f4cfd904-bd11-4247-95df-32c4555a930f,Klinični center
+c0e6a237-3879-4336-88b6-5af51408cc7e,AMZS,7411cd45-83d2-40e6-89f6-5a0995e409cb,Zadvor pri Grosupljem,5001,TIMEOUT,TIMEOUT
+144ab380-6586-43ce-b216-2e66362b6eca,Krivec,f1fd2bad-eba9-4046-a7b9-34e8d1d423f5,Šolska,2719,55f1ae46-11e5-4270-991f-f09dae6c58bf,Kodeljevo
+70c51140-f3ee-4c89-a6e2-ed74dab89148,Bilečanska,6672b8cb-e56d-420a-a5e7-fc86e8aa3647,Žalna,5001,TIMEOUT,TIMEOUT
+452bfd80-e8bd-470b-bc4a-981e1b37ffd7,Kodeljevo,25ad5579-f6a0-4f35-a0c9-0678b41e9dde,Križanke,592,4d216485-ef41-45e7-9182-0c254644955c,Sava
+15c71406-72b5-4681-8b1a-29eb30eb3f76,Kristalna palača,05bd4cbd-b014-4cfd-8ca9-3c82b0a59114,Plečnikova cerkev,218,f073b9d9-a3e3-4d04-a209-0db55377b79e,Zmajski most
+eb165f50-9c43-4b09-9658-469a16d3dc83,Kodeljevo,d987aa3a-ae4a-42f6-bc9b-79c41dcf055a,Kosmačeva,5001,TIMEOUT,TIMEOUT
+bb1ac8b9-5cb2-49f2-8d5c-d7fe4afdd5dd,Cesta na Vrhovce,a2b5023d-5ce8-420f-ad2a-b61c7a1902a8,Volavlje,5001,TIMEOUT,TIMEOUT
+05bd4cbd-b014-4cfd-8ca9-3c82b0a59114,Plečnikova cerkev,15af3c66-ad74-4f41-92f7-92e2ff72a51d,Zidarjevec,2030,e6f5183b-c615-4f47-b4fb-204ee070e825,Bežigrad
+7ba233b7-a50a-497d-8135-dd8dabf93ff5,Goropečnikova,452bfd80-e8bd-470b-bc4a-981e1b37ffd7,Kodeljevo,5001,TIMEOUT,TIMEOUT
+13ceaf6c-9650-45c3-b449-64a0e5094d18,Murkova,099976aa-17cc-45d3-add4-267985ab1533,Draga,833,6330ad8d-b582-4c92-bc7e-d3f206264f04,Tehnounion
+21a5f1e3-8ac0-4023-95ca-0a3ff54099aa,Mestni log,4038e02e-f22f-4af0-ba4f-7aab855b53af,Kneza Koclja,3429,24ab9d18-4fb9-4e7e-b48c-d5cdc9cd1305,Agrokombinatska
+ccccee29-6fc7-4a86-b492-7f36a8e817db,M. St. vas,5a06b853-39a7-479d-ac40-fafa659fd896,Gostilna Kovač,5001,TIMEOUT,TIMEOUT
+5aeac892-889f-4c5a-8fde-67e6ac096242,Dobrunjska c.,1faa072c-478b-4656-8df3-84167a9a4bbb,Dravlje,5001,TIMEOUT,TIMEOUT
+02c61e3f-2d2e-4b42-b695-bbd3cc672f6b,Leskoškova,824255dc-9be8-4f7b-9b69-2bd4e5a3fc27,Pohorskega bataljona,1108,7b822496-7ea4-4ce8-b78c-1d021c68a9ed,Puhova
+ff74fc01-faf6-4a78-a782-d8365538e7de,M. vas pri Grosupljem,8648bfde-9b0f-4a64-aced-fe63aa923879,Podgrad,5001,TIMEOUT,TIMEOUT
+8375ab17-e389-42b2-9b88-0210a049e321,Bonifacija,390d166c-b2fe-486c-bba5-38cd1ff64f48,Križišče Sostro,466,b56664c0-1dc1-42c5-b10b-52c3fb0dd042,Galjevica
+3d0466c6-82f4-4a8e-ac5f-18d4dab794ac,Ihan Flerin,223f660b-c391-4120-bf3c-7bf06781686b,Tovorni kolodvor,1600,023d7b7a-b411-4e61-8746-b07f9e5c8f90,Ambrožev trg
+13d6dac7-dc00-416e-a8c0-0d6967e4014e,PODUTIK,eefb30b4-8049-4128-89f5-bb359b1c93b0,Prežganje,5001,TIMEOUT,TIMEOUT
+eb8e8d9a-a3d5-4ec1-9356-26e0e41912d1,Pot v mejah,b9edd39a-4f64-4553-869e-bb77e617b9b8,Stanežiče,5001,TIMEOUT,TIMEOUT
+557f714a-6f4a-4c98-8c5a-d74fa34b2adb,Hrvatski trg,117abbb4-5575-4020-aac4-2048f8d34b50,Rutar,5001,TIMEOUT,TIMEOUT
+eee355cc-98a1-4f25-8bf9-0100856eda6e,Za travniki,95732ece-1658-4e11-9b5f-b6ae5552e638,Zapuže,4139,379bc761-04b5-4227-be76-3b870fe3e69f,Pot na Fužine
+9a14b0ec-f13a-46f0-8c4f-07d8b99241e2,Cesta v Zavoglje,379bc761-04b5-4227-be76-3b870fe3e69f,Pot na Fužine,4810,c93954aa-7aad-4fca-9f7a-721d37f0474e,NS Rudnik
+52c437c8-73ae-4db5-ac31-8e7cf5104826,V. Loka pri Viš. G.,91b76764-87af-4b90-89dd-60f0046f7cc0,Tomačevska,5001,TIMEOUT,TIMEOUT
+79a5bacd-8b59-4d83-99e8-26e3c5b1490b,Osenjakova,f14a6236-8af2-47bf-9270-432377662a63,Viadukt,1005,e65047c0-c01e-4727-b466-78e107c81ee4,SŽ KOLODVOR
+ba846253-4c87-4120-8f1c-05a563bf3999,Nove Žale,d8289ab1-f65d-4b3d-8b4b-55ada004f023,ŽELEZNA,140,77c4dfcc-1122-4896-9983-8a5bd11320de,Dravlje
+cee2862b-9b70-4880-8fa3-16c6d2efae1b,AMZS,b5400e28-b0c3-4a02-9da2-084c465bd1d3,Pot v Smrečje,70,4d216485-ef41-45e7-9182-0c254644955c,Sava
+97627b9b-fa2e-461a-97ea-a15df7599598,Pot Rdečega križa,1b3dce90-170f-4176-b47b-2b50b9407e82,Dvor,5001,TIMEOUT,TIMEOUT
+2188a1bc-ce7a-4450-bd4f-871538578244,Zadvor-2,4a95f1f8-a457-4dcf-bd1f-6307d4300ea0,Mihov štradon,5001,TIMEOUT,TIMEOUT
+0be53afd-2427-49b2-b70c-2ee3d89e9762,SORA obrač.,d9df365b-7e54-4d22-b2e9-3b548d48ad59,Cesta na Vrhovce,4606,c0ff37c8-ac6c-4284-ad32-0ad29fd30dc2,BROD
+7411cd45-83d2-40e6-89f6-5a0995e409cb,Zadvor pri Grosupljem,3febe187-31d6-4229-be07-78ff782ca972,GD Gameljne,5001,TIMEOUT,TIMEOUT
+a7177a3d-8db2-43fb-8910-f95857f0ed97,Škocjan,b5400e28-b0c3-4a02-9da2-084c465bd1d3,Pot v Smrečje,5001,TIMEOUT,TIMEOUT
+c71e1e0c-780a-4d46-8b33-09aebbbcfcd8,Ihan Termit,d17294f3-5b6c-4313-9243-3f38557967cf,Tabor,4312,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+97d3e896-2af7-40f9-bfbf-59cf3fcbf93a,Besnica ambulanta,68c65382-15dc-465c-96b5-7f27af9d4a63,Stanežiče,5001,TIMEOUT,TIMEOUT
+3c143688-247f-41cc-960d-f5e37b874c3a,Črnuče,d7748049-2f69-4c77-a19b-96774a521ac1,Prekmurska,2979,cdee8be6-e02c-4fb5-9752-be1bac08d90d,Kavčičeva
+70c51140-f3ee-4c89-a6e2-ed74dab89148,Bilečanska,36c4949b-403b-4a76-87e3-d67f51d655ef,Martinova,1518,94712446-2421-4304-b4f1-3b3f82998713,Vodovodna
+aa844493-50b0-4b91-b331-f4297d2ae6a8,Brezovica pošta,7e780e7f-3665-4ec7-a910-eaf6e9d82551,Kajakaška,5001,TIMEOUT,TIMEOUT
+1dc99fbb-5496-4aab-a4b6-32e653ccc789,Center Zalog,4ca7ae7e-380b-45e3-81de-00ffab5bb531,Yulon,408,a769d1e9-8727-4190-b56c-5cdd8a49333d,Čerinova
+8f623f1d-48a7-46b5-9331-28a8dc980876,Samova,7fad8003-fb10-489d-bf8d-6d433310ad90,Nove Jarše,122,3c6ebf90-c611-4535-b2b0-22fba3f7649a,Štajerska
+1ce1c3a8-e0f6-4f90-b1aa-1448759d8b3c,Astra,2265e4de-a537-4f97-882b-c94c24aabfb0,Sostro,5001,TIMEOUT,TIMEOUT
+a26d9a94-effb-45ab-a27f-74076e9e5bdd,Jurečič,5f2b93f1-7933-45ed-915c-4488ab8d81b7,Ižanska,5001,TIMEOUT,TIMEOUT
+72e6ae6e-bd4b-4946-a032-7ff9b8b41039,Tomažičeva,d9a82add-03d0-47d8-9f35-117b7a5ded44,Gerbičeva,28,72e6ae6e-bd4b-4946-a032-7ff9b8b41039,Tomažičeva
+7554bb81-1144-4263-999d-f6e358d808fe,Baron,abc9fd26-5442-468b-93b6-4d5eb76d0f1f,BTC-Emporium,5001,TIMEOUT,TIMEOUT
+f088dbda-3ab0-43c5-bcdf-c727725c05be,Brdo,eee355cc-98a1-4f25-8bf9-0100856eda6e,Za travniki,5001,TIMEOUT,TIMEOUT
+36d25599-0bed-48a0-bcb4-134be8a959fe,Emona,bea9f247-4e88-4d7c-9387-8cd9342acb8c,Sora OŠ,800,79d89180-8b07-4127-b7b4-1ac03d1cee9f,Kompas
+ba681dbc-ea72-4685-ad98-c5ed496510e6,Plešičeva,c1606675-dd38-4952-914b-6ca64fd56b7b,Rudnik,4468,7a52a73a-cc0e-4c61-b9bc-306157727e1c,Tržnica Moste
+3f0c15b3-99bd-4c12-8f7a-df06c9536526,Pod Sivnikom,02c61e3f-2d2e-4b42-b695-bbd3cc672f6b,Leskoškova,5001,TIMEOUT,TIMEOUT
+02c61e3f-2d2e-4b42-b695-bbd3cc672f6b,Leskoškova,32ff2d5b-61ae-415b-941b-aeb1be1b5052,Trbeže,4539,e73c7113-cb4a-4cd5-8df9-ffc5fd86590a,Dragomelj - 1
+45754ca7-bffd-4bcf-96df-952e59574dde,Ledena dvorana Zalog,9fa0b90f-dba1-4eca-8802-589425d3e8fd,Polanškova,5001,TIMEOUT,TIMEOUT
+e6f5183b-c615-4f47-b4fb-204ee070e825,Bežigrad,f174a648-9e84-492d-9ccd-0756b49c773b,Capuder,5001,TIMEOUT,TIMEOUT
+404f8444-540d-4d82-a355-30a6a8bec797,Viško polje,18d010ca-0244-4928-82cb-47af0836a1bb,Krivec,854,b0b32562-f5dc-4183-abba-5729adf98088,OPEKARSKA
+98239279-bb80-4070-965c-dc87525019e2,Vikrče,3fbf6322-fb74-4a50-a81a-bfca73abc26b,Tacenski most,219,9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje
+c0fb12dd-8cab-40da-a3aa-e8de9c6d09ed,Rusjanov trg,15c71406-72b5-4681-8b1a-29eb30eb3f76,Kristalna palača,81,15c71406-72b5-4681-8b1a-29eb30eb3f76,Kristalna palača
+abc9fd26-5442-468b-93b6-4d5eb76d0f1f,BTC-Emporium,d8289ab1-f65d-4b3d-8b4b-55ada004f023,ŽELEZNA,3655,9143c575-806f-4ba0-81bc-8199f0b0b4d0,Šentjakob
+8d5e4aed-59fb-47c9-8559-5bf11b7ddca0,Primožev ovinek,7d628170-e2eb-47fd-9d3e-658acf78d7d3,Sp. Slivnica,5001,TIMEOUT,TIMEOUT
+c124f317-217b-4b89-9597-393843de4f81,Nusdorferjeva,d72d58c2-b9a9-4dd5-b741-17e986d925c8,Gasilska brigada,513,609f0950-bb8c-4eaf-a931-8575b8aff1ac,Savske stolpnice
+56dbd8ff-6ec8-4186-b46c-f74ddb5a304a,Tacenski most,eec159d0-4b1b-4706-9a5d-a00ddcbea9f5,Baragova,5001,TIMEOUT,TIMEOUT
+98a75a4c-0ef8-4efa-8f0a-384fe8eafce0,Havptmance,aa42017d-812a-4175-bc9b-0fec03b18931,Ambrožev trg,894,38b3abed-0592-407b-96c3-85a026f2e192,Dalmatinova
+5b2cb528-ba33-461a-aee5-54e2ed8c3758,Perovo,404f8444-540d-4d82-a355-30a6a8bec797,Viško polje,5001,TIMEOUT,TIMEOUT
+769b7bc7-4f95-4bb2-9c99-37ba8e8b4bd5,D. MOST P+R,8648bfde-9b0f-4a64-aced-fe63aa923879,Podgrad,5001,TIMEOUT,TIMEOUT
+ad8a76cf-4386-44b3-9156-490c502e4bc4,Pod Debnim vrhom,a33e6b1f-de56-43aa-9a52-f7064636ab79,Zg. Besnica,4282,78ef8af0-fd16-46b8-a5de-8d24b99638c8,Prežganje šola
+c86d5f37-52ee-4e3a-99b5-b9554118c4d5,Mihov štradon,ba0f81e5-dfec-49bb-8d6b-d52618338640,Gostilna Kovač,5001,TIMEOUT,TIMEOUT
+0614b134-0950-4f6b-bc8f-fb73a0881bc1,Gornje Poljane,45b36327-9a1a-4cd5-8261-53217326b22f,Podlipoglav,1685,eb669f04-cfb6-4ea4-90c9-26eb551ecb45,Bilečanska
+4f681273-89fe-44f9-aaec-76950722cc52,Študentsko naselje,cec37fa8-0d4a-4e80-a259-2fa91b68463d,Goropečnikova,5001,TIMEOUT,TIMEOUT
+f1b7471e-db71-49da-846d-1232cb3e8f8f,Rožna dolina,4f21a18a-3cb0-4c6c-bb92-e7c8945fac1c,Bratov Učakar,365,cb05ea76-5fc1-4162-b432-a914b63604d0,Spar
+7fcb0952-c77f-44b5-adf3-0aa2a2b8550a,BARJE P+R,81a7167c-7913-442e-96c5-20dc6e25d74b,Vaše,5001,TIMEOUT,TIMEOUT
+f4e99ece-e89e-4322-80c6-5a91df65f64e,Jana Husa,154f3596-bbbb-4038-9ad7-c4b8b5288a02,Stadion,1518,ba59baf4-dd00-40a5-80e7-3eee6b9d8b09,Golouhova
+d17294f3-5b6c-4313-9243-3f38557967cf,Tabor,97627b9b-fa2e-461a-97ea-a15df7599598,Pot Rdečega križa,1536,a3aeed02-8e36-4cb0-bb08-25cc4afda164,Rašica
+dc7b6fb3-15db-4c7e-9fa1-424943178ce6,LETALIŠKA P+R,4b847ac2-4c41-4fc1-a497-9ce4deaab8b1,Zavrh,2299,3429cda2-6047-453c-bf54-952dfa6674c0,Klinični center
+223f660b-c391-4120-bf3c-7bf06781686b,Tovorni kolodvor,a3aeed02-8e36-4cb0-bb08-25cc4afda164,Rašica,5001,TIMEOUT,TIMEOUT
+8fc42c89-96e2-4c69-a2b4-44d505f27ce9,NS RUDNIK,5b59d508-0860-4f50-b5ab-72a79046b488,Snoj,5001,TIMEOUT,TIMEOUT
+91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1,Sostro,5a89967e-5654-49f6-84ca-59f7f9035444,Pot v mejah,213,1b0f629f-acdb-4e94-8c54-018f4334ebf7,Križišče Sostro
+0e79ef8c-f692-4e29-a37e-4a81cbb3d410,Vič Glince,13d6dac7-dc00-416e-a8c0-0d6967e4014e,PODUTIK,651,fb7704f0-d31e-4561-83e4-621a8c62654b,Kosmačeva
+2f18bcfa-6189-4de4-b06f-132d3392e7d6,Besnica,29336b94-2382-46dd-b2e6-4590dd689640,Pot v Hrastovec,1851,8589e5d1-21b4-4210-ad7a-4bf91f9a715d,Vižmarje
+f414efd9-d697-4bbe-abb6-c9e09fd73514,Perovo,f088dbda-3ab0-43c5-bcdf-c727725c05be,Brdo,5001,TIMEOUT,TIMEOUT
+1ce1c3a8-e0f6-4f90-b1aa-1448759d8b3c,Astra,8d5e4aed-59fb-47c9-8559-5bf11b7ddca0,Primožev ovinek,5001,TIMEOUT,TIMEOUT
+3edd6057-3847-4c42-b8ec-6e89ff95793a,Zadobrova,41c8c7eb-62ef-45d8-b5b1-221dd3c0022c,Tbilisijska,5001,TIMEOUT,TIMEOUT
+7c149b59-2bc6-45cb-95c8-69e18a0db627,Rusjanov trg,0334e79e-7a89-44e9-a463-5af813e64a40,Lanišče,5001,TIMEOUT,TIMEOUT
+acedfed0-a3ba-4fa3-8cd6-910783961f0a,Goričane kopališče,6bd46cb7-9e5d-453a-878a-bcc38fb2a5f2,Sava,2454,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+c1606675-dd38-4952-914b-6ca64fd56b7b,Rudnik,12618339-2c2d-49ec-b0e0-2517c11991f8,Mirje,5001,TIMEOUT,TIMEOUT
+8eeea585-6168-45b8-a5d4-336e61826043,Zapuže,95be8f74-3ed5-4cf1-aabc-b1c0027ea628,Pece K,5001,TIMEOUT,TIMEOUT
+c32ef99a-6752-47fe-94eb-a5134c7110af,N. STOŽICE P+R,258aeffc-294a-4919-bfb0-34f90dc19892,Ižica,3824,98a75a4c-0ef8-4efa-8f0a-384fe8eafce0,Havptmance
+db046e79-c658-433c-8812-157fd965a9f6,Galjevica,35aedf45-cca3-4f2f-931b-138d29d20fe9,MEDVODE,5001,TIMEOUT,TIMEOUT
+7fa32ea0-e884-435a-a81c-51bbd5cedf3e,Zaloška,e7789f42-0ad7-44d1-974b-42a3f4957291,Strelišče,214,abc9fd26-5442-468b-93b6-4d5eb76d0f1f,BTC-Emporium
+e2499103-6634-4d8e-87a8-68dc5ef6340c,Sp. Gameljne 2,cf6f67f5-f7df-4462-828b-481134217fad,Žito,1416,f4e99ece-e89e-4322-80c6-5a91df65f64e,Jana Husa
+2838f674-f6e9-4eb5-a99c-1d0ac7903ca1,NOVE JARŠE,d9df365b-7e54-4d22-b2e9-3b548d48ad59,Cesta na Vrhovce,5001,TIMEOUT,TIMEOUT
+a112e799-e1b6-4dd2-b652-bd521dda7638,KS. Pirniče,0a4b6359-22f0-4caa-b4a8-f4edb97a0825,Pot Rdečega križa,3000,93928408-7b36-41f9-9b62-fec53e14b4e2,Kališnikov trg
+1ceecd12-b005-4828-ad39-8f2aeb1ca228,Iški most,30e58784-86f6-4d93-8630-3cc3fc93c6f3,Brod,2101,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+e8b0d4a2-f65e-4aed-97b8-77ab0d07955a,Cesta v Kresnice,68c65382-15dc-465c-96b5-7f27af9d4a63,Stanežiče,2690,4ed69cbb-d738-450c-be11-7d96cd50ee50,Livada
+27788b38-4743-4e04-9b9c-94faeeeb2d34,Pot heroja Trtnika,69bc9f1c-507f-463c-ba5a-04500b319967,Ilovica,1489,7fdce743-a4be-44d7-8658-0a259a18ad30,Stožice
+d17294f3-5b6c-4313-9243-3f38557967cf,Tabor,b7834e14-7e86-4df5-83ce-006c93c31c00,Koprska,5001,TIMEOUT,TIMEOUT
+538ab00b-ee39-44e8-b5a4-62c2c6215bf6,Zeleni gaj,26d86ffa-b8df-49aa-a9c0-5fa7d3cfba77,Draveljska gmajna,1003,9a938b49-ce1d-4e1c-a789-e316630ebc4f,Poliklinika
+30c30bf5-75c4-4dc0-995f-4679ef54d37c,Mostiček,29096931-9d98-487f-bd0a-b0767611e561,Dragomelj,5001,TIMEOUT,TIMEOUT
+02e96186-e90a-4171-8869-082486f7da1d,V. Mlačevo,1aa7e441-8646-4d1d-88bd-ab004758ffc4,Pod Kamno gorico,5001,TIMEOUT,TIMEOUT
+51dbf10f-cf3b-4575-a8cc-d1080c1f9dde,Silos,5b2cb528-ba33-461a-aee5-54e2ed8c3758,Perovo,5001,TIMEOUT,TIMEOUT
+bf990a3a-96e9-42b7-9147-33e85bd24c05,Ihan Flerin,1e2641bc-b0b2-448e-8ad2-e52891fa4c5f,Pece K,5001,TIMEOUT,TIMEOUT
+5b59d508-0860-4f50-b5ab-72a79046b488,Snoj,0a4b6359-22f0-4caa-b4a8-f4edb97a0825,Pot Rdečega križa,475,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+e7789f42-0ad7-44d1-974b-42a3f4957291,Strelišče,f528b363-1484-456c-835b-1e08dc31ef8e,Gornji Rudnik,5001,TIMEOUT,TIMEOUT
+363e4763-df83-4814-99d2-879d448d5910,Obrtna cona,92928953-a289-4a44-a653-b7b6b4f5e1c2,Zeleni gaj,3594,ff8f71b7-06fe-47fe-8238-9af5ee1b1dfd,Šola Jarše
+7484317c-269f-425f-8118-23eedab4e5f1,Tivoli,7b687edb-dc47-4b68-a13e-34713cababe9,Rakovnik pri Sori,3169,111b2cdc-67ca-47bc-a8eb-8a4c6a0674d9,Tabor
+7d628170-e2eb-47fd-9d3e-658acf78d7d3,Sp. Slivnica,379bc761-04b5-4227-be76-3b870fe3e69f,Pot na Fužine,5001,TIMEOUT,TIMEOUT
+eefb30b4-8049-4128-89f5-bb359b1c93b0,Prežganje,f8da5156-e545-47ed-a811-2242f41f5593,Mercator,5001,TIMEOUT,TIMEOUT
+454817d3-3750-49c7-994c-14d06fd2c634,Žale,ae3f312a-4242-4a42-8df2-5990505a7747,Sp. Gameljne 3,734,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+8a182298-1db3-4251-9cdb-a86efe72b8a7,Hlebš,53ec687a-6f0c-4bb7-b1b4-606e7dcfada9,IMP,5001,TIMEOUT,TIMEOUT
+ccd8a655-468b-4728-a26d-7981bbdd7dec,Zg. Gameljne,16578e36-c682-4083-bd29-4973445dc0fe,Gosposvetska,1039,30e58784-86f6-4d93-8630-3cc3fc93c6f3,Brod
+896f7627-7c1c-4742-a40a-6aadb85fe206,Viško polje,524d67dd-fbb0-4f6a-9199-f095123044ab,Kamna Gorica,1922,7294875b-8482-484a-b04d-95b921612001,Vič
+397418bc-78a7-45c9-b5cf-374fe21cee11,Akademija,2628ca4f-8797-4672-aca9-47b325c58aac,Besnica šola,5001,TIMEOUT,TIMEOUT
+1c0c01ee-6258-4328-9d01-489eb421a8d9,Nadgorica,9e90940e-cf99-4112-87ec-7cbb6331509a,ZG. Pirniče,3617,cab36767-e95a-4f60-978e-92490f2517b2,Hrvatski trg
+fbd1dfb0-4a6f-4160-ad52-5ccb69530195,Pri Dolencu,8d767444-3983-4409-bda1-d298b52c7bfe,Študa polje,5001,TIMEOUT,TIMEOUT
+e0c253d0-1de7-4add-ac75-8b16151fa462,Dobrunje,4a74b966-4fbf-41ab-8e1b-276f3f14fc49,Ježa,5001,TIMEOUT,TIMEOUT
+61926b26-d777-483f-ae79-86766c48793b,Tržnica Koseze,ccccee29-6fc7-4a86-b492-7f36a8e817db,M. St. vas,5001,TIMEOUT,TIMEOUT
+3d8122ff-0840-4811-a5ad-c4702fc70269,Pod Rožnikom,1eca3479-6e2c-4f21-bf45-4db410041181,Peč pri Polici,5001,TIMEOUT,TIMEOUT
+e8d0bfd1-b300-4eae-8f85-79266066bb3c,Medvoška a.p.,4f681273-89fe-44f9-aaec-76950722cc52,Študentsko naselje,4051,8589e5d1-21b4-4210-ad7a-4bf91f9a715d,Vižmarje
+7a52a73a-cc0e-4c61-b9bc-306157727e1c,Tržnica Moste,72e6ae6e-bd4b-4946-a032-7ff9b8b41039,Tomažičeva,5001,TIMEOUT,TIMEOUT
+e8b0d4a2-f65e-4aed-97b8-77ab0d07955a,Cesta v Kresnice,daf172e0-4dd9-4d5b-8287-67ad2034bced,Stadion,5001,TIMEOUT,TIMEOUT
+26d86ffa-b8df-49aa-a9c0-5fa7d3cfba77,Draveljska gmajna,6d344016-1b93-4ff7-80a8-8cde0b57bd1c,Prežganje,5001,TIMEOUT,TIMEOUT
+d7d791d9-02e0-4369-be0c-1546fc2044a4,Staje,21764d19-62cc-49fd-bac9-403aeac6a6b9,Ježica,4706,f07c916c-6fc6-4acf-a334-0ab0d3c4f57f,Središka
+25cde952-4896-4977-b229-75e09b3e3661,Chengdujska,441545fb-7a0c-4555-aea8-01cbe6c14ea3,Puhova,5001,TIMEOUT,TIMEOUT
+da623aed-094d-4c3c-9766-9f0aba0f40f6,C. dveh cesarjev,8561e9fb-03e0-46f1-802d-b376d26a8ea5,Drenikova,2586,25ad5579-f6a0-4f35-a0c9-0678b41e9dde,Križanke
+54c591c0-7bbb-4489-9229-57b18f95827a,Stara cerkev,404f8444-540d-4d82-a355-30a6a8bec797,Viško polje,2486,baab981f-b707-4b2e-8291-6175f7ceb255,Ilovica
+1c8efa00-4587-4efc-a10d-794e9d885857,Troščine,f4e99ece-e89e-4322-80c6-5a91df65f64e,Jana Husa,5001,TIMEOUT,TIMEOUT
+452f2b51-98fb-4a7c-bb0a-44577eb5e12b,SŠ Domžale,53806659-b339-4e68-af4a-4325c16b6026,Iška vas šola,700,2cde6efe-5f53-44aa-8018-76f0ea2c86f8,Reaktor
+b905ae6a-f1e1-4057-8923-481902ed5a8e,Konzorcij,d5102041-8282-4c77-a593-edac0d0d4a34,Cukrarna,37,eead721b-8996-4e73-a2f9-02dba20df4fa,Ilirska
+ff1f708c-989e-4cc5-8e75-02717b5f9744,Študentsko naselje,f0661242-947b-4937-a9ce-d2a135cd62a7,Bizovik,1371,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+08f2fb98-afdf-4961-b419-1bca7f5568ab,NOT. GORICE,a8af1032-30bf-4f7b-a921-28d2f712fd24,DRAGOMELJ,4490,c0fb12dd-8cab-40da-a3aa-e8de9c6d09ed,Rusjanov trg
+9a14b0ec-f13a-46f0-8c4f-07d8b99241e2,Cesta v Zavoglje,fb7704f0-d31e-4561-83e4-621a8c62654b,Kosmačeva,3694,9a480b5e-0283-4130-a5e2-9d5e996caa4f,Litostrojska
+d119c3e9-7f2c-4d40-97a4-ccc6b4bb2951,Archinetova,7f510cd8-4742-4dcf-95c0-16cde39c2e26,Zg. Gameljne,5001,TIMEOUT,TIMEOUT
+54c591c0-7bbb-4489-9229-57b18f95827a,Stara cerkev,6182f8e8-c45e-4606-b4a4-d909bd44d2cc,Gornji trg,84,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+5cc8a08d-c0af-491f-9a9c-b8b4f5f23bc0,BTC-Emporium,9ab2717b-1396-4885-bb5b-9857d7195d0d,Sostro - 2,2894,f2920a77-6c6c-494d-96b7-2a8caf8f374f,Mirje
+bc66f88b-1412-44cb-b921-030d27335261,Sneberje,c9b2488c-cca9-4b84-83cb-638ef545c851,Kržičeva,4585,567980fa-7783-411d-9c67-55b44d753880,Avtomontaža
+3429cda2-6047-453c-bf54-952dfa6674c0,Klinični center,2a7d32ca-24a1-41ac-a273-0cbcdec59336,Škofljica špica,1177,af2956ba-d922-4ec4-bfa7-b623c29e8b3e,Kompas
+a378ce5e-57ce-4c52-b219-568674b5cd5e,Gornji trg,9f01f25f-9a5b-459a-96da-222ef81faf51,Trata,5001,TIMEOUT,TIMEOUT
+dd57f39b-be0f-479e-bc35-5bd2edf98ff2,Bolnica,5de6ff80-1352-43df-b5ec-1df59f2f492b,Pot na Rakovo jelšo,20,ecc4ae87-ae08-4b94-995c-452fdd94df7f,Privoz
+c22879e5-8e90-4540-9a74-5f139208e492,Friškovec,9cb18d2e-9bf3-436a-ab3a-7c52c5de1300,Rašica,4625,f2bac6f5-5bbc-4f15-acdd-014d86770ce9,Kneza Koclja
+fcc58ff5-bf0b-44ce-b12b-75ecc493f24d,Petrol,59d96e2c-3ee3-4581-840a-3ddaf0003743,Osenjakova,18,e57aad1d-457e-401f-b26d-306b4fd836eb,Kašeljska
+459f82d2-cbe4-414b-b66b-0b794ea958ed,Smelt,223f660b-c391-4120-bf3c-7bf06781686b,Tovorni kolodvor,5001,TIMEOUT,TIMEOUT
+10d57057-b305-4b7a-806b-3373014db962,Nadgorica,5f6cb902-b824-4961-9ac2-75cf44a47055,Pance,2621,ed50f692-09f9-409e-b7d6-05ff7711de6b,Vnajnarje
+7add6fa5-bfd5-4d9c-841b-d9856088ede9,Javor-2,c0fb12dd-8cab-40da-a3aa-e8de9c6d09ed,Rusjanov trg,5001,TIMEOUT,TIMEOUT
+8677848c-55dd-4af4-b275-3074a3ff4846,Vrhovci,9cd1e7f8-8ccf-4469-bc25-25d138605c67,Akademija,1657,a0e0a21b-b8ce-4d76-bbc2-04e179367fee,Šola Jarše
+a2947722-2e6f-48dd-9c31-ff36356676fa,Tinčk,36c4949b-403b-4a76-87e3-d67f51d655ef,Martinova,5001,TIMEOUT,TIMEOUT
+11d74c00-da13-4cad-883e-c6dcf8edcbe8,Aleja,538ab00b-ee39-44e8-b5a4-62c2c6215bf6,Zeleni gaj,4386,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+8677848c-55dd-4af4-b275-3074a3ff4846,Vrhovci,c1606675-dd38-4952-914b-6ca64fd56b7b,Rudnik,673,2d6504e9-c938-417e-9b55-32d6514bc744,Kristalna palača
+6559d555-672b-4633-8a81-0ae68fb963eb,ZD POLJE,95be8f74-3ed5-4cf1-aabc-b1c0027ea628,Pece K,5001,TIMEOUT,TIMEOUT
+9741988b-6723-480b-a419-8db7490d667a,Rakovnik,099976aa-17cc-45d3-add4-267985ab1533,Draga,650,aa42017d-812a-4175-bc9b-0fec03b18931,Ambrožev trg
+2388ce1f-c947-42d7-97f3-e01a7254c933,Škocjan,c86d5f37-52ee-4e3a-99b5-b9554118c4d5,Mihov štradon,5001,TIMEOUT,TIMEOUT
+b7b7ac00-59bb-41eb-833d-ad309d24e68a,ČRNI LOG,1f9fad8e-d59c-494c-bdd1-1983afacb755,Kodrova,2396,8561e9fb-03e0-46f1-802d-b376d26a8ea5,Drenikova
+0ff94f7b-275b-4cc4-bb27-e00842f5ad87,Hrušica,f784b27a-1509-4eec-bd52-6beee2b9530b,Kamnogoriška,4605,099976aa-17cc-45d3-add4-267985ab1533,Draga
+91b76764-87af-4b90-89dd-60f0046f7cc0,Tomačevska,1b3d51e8-8b5e-4b31-a63e-9d665243c2f1,Nove Žale,4182,94c6598b-7303-42e1-94d5-156d7a25f630,Gerbičeva
+0b6c7b97-410c-48fa-be23-430c316f9b10,Stadion Domžale,e82569a6-73f3-4002-b7b5-0f83ee167535,Silos,5001,TIMEOUT,TIMEOUT
+67d66d40-e8ba-4bc0-a9cf-814dce3ccbea,Jadranska,4ca9e64c-29ad-4391-a6f2-7e1ae022d5bf,Gorjančeva,5001,TIMEOUT,TIMEOUT
+fcccf4af-4f16-4edc-ba5a-585c434593fe,ZD Polje,d06c6c8a-c136-4b7a-9c13-b26ba0c04029,Hlebš,5001,TIMEOUT,TIMEOUT
+10449641-799e-4ee4-a712-a6e3a9aefc27,Prelog,f73d3fb2-082c-4518-8af2-45de5490df4e,LITOSTROJ,5001,TIMEOUT,TIMEOUT
+c6c83930-96af-4cbe-93bf-072a618502a4,Šlandrova,30c30bf5-75c4-4dc0-995f-4679ef54d37c,Mostiček,5001,TIMEOUT,TIMEOUT
+0810f07b-94d6-442f-b10d-bf8210c4ed47,Draveljska gmajna,a0b1fb90-3f6a-4231-910a-18be192ac762,Flajšmanova,5001,TIMEOUT,TIMEOUT
+29336b94-2382-46dd-b2e6-4590dd689640,Pot v Hrastovec,d9df365b-7e54-4d22-b2e9-3b548d48ad59,Cesta na Vrhovce,5001,TIMEOUT,TIMEOUT
+eec159d0-4b1b-4706-9a5d-a00ddcbea9f5,Baragova,5c38ad77-8124-42b3-810f-04703daec8b4,Šentjakob,5001,TIMEOUT,TIMEOUT
+0c5f69a6-97c7-4053-bc0b-3f09dbf72f46,Tovarna Lek,a6fde748-bb91-465c-8665-20cbaed7df19,V. Lipljene,5001,TIMEOUT,TIMEOUT
+0e79ef8c-f692-4e29-a37e-4a81cbb3d410,Vič Glince,d0790612-d161-4be4-953d-a7a0c33acf1e,Cesta na Brod,5001,TIMEOUT,TIMEOUT
+bbe542ee-a3f6-43cf-b23a-077c28b7d19a,BTC-tržnica,1d7af067-e43b-4a98-953c-75f1b267d9ce,Ig,5001,TIMEOUT,TIMEOUT
+5d91512b-af7f-4bbe-9dde-17f402fbf590,Sneberska,3c143688-247f-41cc-960d-f5e37b874c3a,Črnuče,5001,TIMEOUT,TIMEOUT
+9a14b0ec-f13a-46f0-8c4f-07d8b99241e2,Cesta v Zavoglje,88cdd36c-03d2-4374-a22f-110dd9f75ea0,Kajuhova,152,6a89c110-a0f8-4b1a-87f0-33f49c0a658e,Šola Jarše
+2265e4de-a537-4f97-882b-c94c24aabfb0,Sostro,896f7627-7c1c-4742-a40a-6aadb85fe206,Viško polje,1077,cad3370f-7a28-4a47-8d5a-187adab3ca21,Polje-kolodvor
+912792ae-7f7e-4295-8064-38ea96a5dc4a,Zagradec pri Grosupljem,a4545f57-dab0-4ca0-9da3-5bc96d80f104,Vevče,5001,TIMEOUT,TIMEOUT
+1e157c31-d34d-4c2e-91b4-8c000c88f6dd,Kardeljeva ploščad,390d166c-b2fe-486c-bba5-38cd1ff64f48,Križišče Sostro,5001,TIMEOUT,TIMEOUT
+c6eab761-36e0-4bf8-88ed-48e594ed375b,Parmova,51dbf10f-cf3b-4575-a8cc-d1080c1f9dde,Silos,581,6bc92f4c-414c-456b-9150-d58a7689d26e,Jana Husa
+4f21a18a-3cb0-4c6c-bb92-e7c8945fac1c,Bratov Učakar,bf990a3a-96e9-42b7-9147-33e85bd24c05,Ihan Flerin,2874,7bcbdcaa-00b9-47d4-8982-09da26cd7bcb,Zaloška
+b4766c35-4ab9-4af3-aa76-1b1f40735685,Trbeže,ccccee29-6fc7-4a86-b492-7f36a8e817db,M. St. vas,5001,TIMEOUT,TIMEOUT
+46f20d33-601c-4ef6-b86c-7c2bb4af52fa,Ježkova,454817d3-3750-49c7-994c-14d06fd2c634,Žale,1559,fef200e9-4d98-425b-ab14-8110e2aa85d7,Drama
+5c38ad77-8124-42b3-810f-04703daec8b4,Šentjakob,cc9cbd94-6da7-41ff-a728-cfd4b47dfcc0,Pod Urhom,5001,TIMEOUT,TIMEOUT
+0b9c5011-4f2d-4753-914f-500532b0dbeb,Lobček,8677848c-55dd-4af4-b275-3074a3ff4846,Vrhovci,5001,TIMEOUT,TIMEOUT
+295616c0-387b-4f60-a337-7743cd6be04e,Bavarski dvor,b91edda3-a147-4599-bebf-85e145de085b,Živalski vrt-ZOO,256,5d7f28a6-2a2a-4333-aa06-48edfb652f86,Pošta
+3fbf6322-fb74-4a50-a81a-bfca73abc26b,Tacenski most,ab0d4ded-a428-4133-a6c8-0f2caac0a5ae,Iška vas,5001,TIMEOUT,TIMEOUT
+aa844493-50b0-4b91-b331-f4297d2ae6a8,Brezovica pošta,4ca9e64c-29ad-4391-a6f2-7e1ae022d5bf,Gorjančeva,2919,47283e27-c588-411c-9303-30a6f0beeaef,Zgornji log
+baab981f-b707-4b2e-8291-6175f7ceb255,Ilovica,fb662324-f307-452f-9b00-0275dadfd382,Ig Petrol,54,98a75a4c-0ef8-4efa-8f0a-384fe8eafce0,Havptmance
+efecc3aa-ae68-4374-bc24-334280abcf3f,Zaboršt,7b687edb-dc47-4b68-a13e-34713cababe9,Rakovnik pri Sori,5001,TIMEOUT,TIMEOUT
+6bc92f4c-414c-456b-9150-d58a7689d26e,Jana Husa,46a50a09-9bae-460b-a7b6-457d288c5a9f,Ponova vas,5001,TIMEOUT,TIMEOUT
+c20233f2-94bc-4c21-9d2a-9b129b668487,Ihan Emona,c8f784f8-ce92-4773-8d90-c6bed3513ce0,Zadvor pri Grosupljem,5001,TIMEOUT,TIMEOUT
+b2dd8b3a-3710-4f07-b735-4bd183bfaade,Erbežnik,8677848c-55dd-4af4-b275-3074a3ff4846,Vrhovci,297,659ee31d-ae12-4498-8507-28579d322e32,Vič Glince
+717dda7e-d793-4697-8f60-b64ee8b1edc4,Gosposvetska,1a1ee974-5091-4fa7-96a2-0c2508892aa3,Saturnus,2126,41c8c7eb-62ef-45d8-b5b1-221dd3c0022c,Tbilisijska
+087e50b6-7677-4a85-802f-5694266fe38b,Aškerčeva,e8b0d4a2-f65e-4aed-97b8-77ab0d07955a,Cesta v Kresnice,5001,TIMEOUT,TIMEOUT
+db13a26e-19d4-4b8a-a78a-01ef25d58834,Ježica,51e04e1d-9ea1-432d-8b79-09e6c2a7be7b,Trebeljevo,5001,TIMEOUT,TIMEOUT
+d8ff7b2c-baf6-4a1a-97c5-0871b823caab,Benat,105e10e7-fbab-4f99-94c9-178c25630b42,Brodarjev trg,5001,TIMEOUT,TIMEOUT
+41c8c7eb-62ef-45d8-b5b1-221dd3c0022c,Tbilisijska,bdd68b01-e9a1-4270-be50-8b5c7bd39a1c,Kozler,3056,a12ab184-fb4b-449f-9884-88e0a1672e64,Tbilisijska
+d2f9bbec-4b03-49a8-af83-afe65fe07a0e,Pot heroja Trtnika,1a1ee974-5091-4fa7-96a2-0c2508892aa3,Saturnus,226,80c65758-5f25-4003-8d55-10ff96fe8310,OŠ Sostro
+105e10e7-fbab-4f99-94c9-178c25630b42,Brodarjev trg,f2b27cbd-5207-4281-8f67-6369d0c50a9b,Kodrova,5001,TIMEOUT,TIMEOUT
+ba2b16a8-1273-45d2-8758-47b9694df9a6,Dornig,7554bb81-1144-4263-999d-f6e358d808fe,Baron,5001,TIMEOUT,TIMEOUT
+8fc42c89-96e2-4c69-a2b4-44d505f27ce9,NS RUDNIK,3429cda2-6047-453c-bf54-952dfa6674c0,Klinični center,1024,b2cf1f2c-3c77-4a23-891f-3cdbcda92f19,Škofljica žaga
+daf172e0-4dd9-4d5b-8287-67ad2034bced,Stadion,21fba303-9465-42e6-8942-eaff85a2b40c,Zidarjevec 2,5001,TIMEOUT,TIMEOUT
+36d25599-0bed-48a0-bcb4-134be8a959fe,Emona,dadea785-0c6b-4054-9882-37227de3df4b,Pošta Dobrunje,5001,TIMEOUT,TIMEOUT
+f8da5156-e545-47ed-a811-2242f41f5593,Mercator,5d91512b-af7f-4bbe-9dde-17f402fbf590,Sneberska,1538,eee355cc-98a1-4f25-8bf9-0100856eda6e,Za travniki
+77dcd833-fa4d-4c5a-93b1-31284942e61d,Šišenska,48e907fd-e868-47cd-8cac-74c7d4582944,Poljanska,1725,b905ae6a-f1e1-4057-8923-481902ed5a8e,Konzorcij
+ea80411c-360d-4a33-861c-6533a1d67eef,Park varne mobilnosti,3f0c15b3-99bd-4c12-8f7a-df06c9536526,Pod Sivnikom,4749,ee7e3c65-72e8-465e-a9a3-a9370ec1f314,Vevče Papirnica
+f73d3fb2-082c-4518-8af2-45de5490df4e,LITOSTROJ,e9089f7d-853e-4375-8ecb-0db96fcc60e6,OŠ Jezero,576,25ad5579-f6a0-4f35-a0c9-0678b41e9dde,Križanke
+1f9fad8e-d59c-494c-bdd1-1983afacb755,Kodrova,54c591c0-7bbb-4489-9229-57b18f95827a,Stara cerkev,275,4bd4913f-8597-4ea0-b219-4e9b15dcbb62,Jarše
+d9a82add-03d0-47d8-9f35-117b7a5ded44,Gerbičeva,a12cff7f-91e5-4f1e-be40-1a9b34ae792a,Agrokombinatska,1993,6c773433-c487-49c5-a783-32c0e276ed7b,Dolgi most Rotar
+6739536d-b334-46c6-ae80-4890afac7985,Lavrica,6c773433-c487-49c5-a783-32c0e276ed7b,Dolgi most Rotar,5001,TIMEOUT,TIMEOUT
+03375155-45fb-4565-b392-2349fcb199ea,Kardeljeva ploščad,9746f277-af08-4cce-92fa-41da5eca8ac2,BERIČEVO,5001,TIMEOUT,TIMEOUT
+1b0f629f-acdb-4e94-8c54-018f4334ebf7,Križišče Sostro,6cc5af3b-67ea-47f3-9e8a-10946c32b906,V. Lipljene,5001,TIMEOUT,TIMEOUT
+d07152fd-014c-481b-a5f2-8949066499e8,Grosuplje SM,4f21a18a-3cb0-4c6c-bb92-e7c8945fac1c,Bratov Učakar,5001,TIMEOUT,TIMEOUT
+1faa072c-478b-4656-8df3-84167a9a4bbb,Dravlje,e0f10330-ad34-453d-baf4-d6c601cb6cf8,Blaževo,5001,TIMEOUT,TIMEOUT
+087e50b6-7677-4a85-802f-5694266fe38b,Aškerčeva,807c11ba-4b3a-4e2b-82b5-abf5864fa4bc,Pot na Fužine,294,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+5c246f67-4431-4968-8d64-2ae4b823e360,Na Gmajnici,087e50b6-7677-4a85-802f-5694266fe38b,Aškerčeva,2759,010c271e-49ca-45a5-91ac-8ba8d41ee7f3,Čerinova
+17f7d178-41b3-41f9-a545-cbfc22a0a5f1,Nusdorferjeva,de80f5fd-4572-4bb6-9e21-9860f5fa6b24,Ihan Termit,1954,c6dd10bd-c21f-4a0c-9c7d-99e488a173d4,Šentjakob
+bb1ac8b9-5cb2-49f2-8d5c-d7fe4afdd5dd,Cesta na Vrhovce,f07c916c-6fc6-4acf-a334-0ab0d3c4f57f,Središka,1878,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+223f660b-c391-4120-bf3c-7bf06781686b,Tovorni kolodvor,99b82632-116f-421b-9320-d5a53e522155,Podpeč,3285,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+45b36327-9a1a-4cd5-8261-53217326b22f,Podlipoglav,b9edd39a-4f64-4553-869e-bb77e617b9b8,Stanežiče,2008,38b3abed-0592-407b-96c3-85a026f2e192,Dalmatinova
+a2f479c6-4c21-4923-b4ac-86f752507cee,GROSUPLJE,30131bc3-a0f7-4cfc-9e4d-552b325c0ba7,Radna,5001,TIMEOUT,TIMEOUT
+49f28358-bfda-458e-a4b3-a45f602765c1,POLICA/VIŠ. G.,9e0942f3-2c18-4891-9b51-9d95cc43af7a,Blaževo,5001,TIMEOUT,TIMEOUT
+9276fcfb-0f7e-4df3-b827-325600851526,Topniška,c93954aa-7aad-4fca-9f7a-721d37f0474e,NS Rudnik,249,aa42017d-812a-4175-bc9b-0fec03b18931,Ambrožev trg
+e82569a6-73f3-4002-b7b5-0f83ee167535,Silos,9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska,4775,bb995fbb-29c8-4035-9503-ae33320833a8,Cesta v Zavoglje
+d7a59d1b-dfe1-4fbb-96fc-14443b077516,Vevče Papirnica,06e4802d-2c96-4556-bd95-35e0a2bb030c,M. Lipljene,5001,TIMEOUT,TIMEOUT
+9c2e9262-7afe-44d3-8aaf-80afd45f9118,Kozarje,30131bc3-a0f7-4cfc-9e4d-552b325c0ba7,Radna,763,a2ce7e6f-0f99-443a-a973-81a0b9c60261,Astra
+cf94d70f-d211-4625-9037-014514562aa9,Lanišče,476b2caa-710a-47fe-9743-4d75d7ada5fb,Čebelarska,4366,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+99b82632-116f-421b-9320-d5a53e522155,Podpeč,30131bc3-a0f7-4cfc-9e4d-552b325c0ba7,Radna,5001,TIMEOUT,TIMEOUT
+3f01eb40-651e-4fad-aff9-2ee27f259f64,Kozler,87415b6b-7e7f-4b82-b78f-ef1a7db85282,MALI LIPOGLAV,5001,TIMEOUT,TIMEOUT
+de80f5fd-4572-4bb6-9e21-9860f5fa6b24,Ihan Termit,af820908-f71f-4c46-82c2-e7616f9c21fb,Goričane pod gradom,3722,eb165f50-9c43-4b09-9658-469a16d3dc83,Kodeljevo
+3d0466c6-82f4-4a8e-ac5f-18d4dab794ac,Ihan Flerin,627be449-8b6a-40f4-a57c-09ccdacccb66,Novo naselje,2356,295616c0-387b-4f60-a337-7743cd6be04e,Bavarski dvor
+f8da5156-e545-47ed-a811-2242f41f5593,Mercator,6672b8cb-e56d-420a-a5e7-fc86e8aa3647,Žalna,5001,TIMEOUT,TIMEOUT
+aa42017d-812a-4175-bc9b-0fec03b18931,Ambrožev trg,441545fb-7a0c-4555-aea8-01cbe6c14ea3,Puhova,91,d5102041-8282-4c77-a593-edac0d0d4a34,Cukrarna
+363e4763-df83-4814-99d2-879d448d5910,Obrtna cona,7ad25867-5c97-4f9f-9b1b-4966436f7fbf,NS Rudnik,2301,77c4dfcc-1122-4896-9983-8a5bd11320de,Dravlje
+1ceecd12-b005-4828-ad39-8f2aeb1ca228,Iški most,0810f07b-94d6-442f-b10d-bf8210c4ed47,Draveljska gmajna,5001,TIMEOUT,TIMEOUT
+48b163cd-b819-4849-aee1-8b1da77657ab,Šentvid,48c9ec48-2b87-4945-a077-808839f98e74,Ježa,1134,30e58784-86f6-4d93-8630-3cc3fc93c6f3,Brod
+e7789f42-0ad7-44d1-974b-42a3f4957291,Strelišče,d2ff7ae5-59fc-4894-aa50-a7f16b5e3534,Ižanska,1,c8e0086c-0cef-4375-a471-72f3ae1e34fc,Strelišče
+26ec9924-5586-4fd5-8b20-63f2d0a38d44,Pri Dolencu,169789c5-0251-47a6-800a-74ff3dffe04d,Hrastje,5001,TIMEOUT,TIMEOUT
+a378ce5e-57ce-4c52-b219-568674b5cd5e,Gornji trg,912792ae-7f7e-4295-8064-38ea96a5dc4a,Zagradec pri Grosupljem,5001,TIMEOUT,TIMEOUT
+3edd6057-3847-4c42-b8ec-6e89ff95793a,Zadobrova,73e6ef23-ef0c-41bf-9960-0e3078b94d23,Ig,3543,bea274aa-277a-403d-ab2f-a0342b28882e,Križanke
+d6ae97e7-23b5-48d6-a9fa-2a2624e9f434,Rakovnik pri Sori,76ec8af8-07c2-4d44-b0d8-a439d381913f,Medno,1236,8c7fa045-888b-46d0-8189-6f82623bf481,Poljanska
+47283e27-c588-411c-9303-30a6f0beeaef,Zgornji log,d9f26e1a-77fc-48b0-a024-93fd38eb88a4,SOSTRO,1370,96d4c75b-6452-4c70-a31e-c234262ba38b,Veliki štradon
+53ec687a-6f0c-4bb7-b1b4-606e7dcfada9,IMP,2cde6efe-5f53-44aa-8018-76f0ea2c86f8,Reaktor,5001,TIMEOUT,TIMEOUT
+10d57057-b305-4b7a-806b-3373014db962,Nadgorica,9143c575-806f-4ba0-81bc-8199f0b0b4d0,Šentjakob,4,461045f0-a82c-45c0-af66-71b25f3f0e1a,Belinka
+9cd1e7f8-8ccf-4469-bc25-25d138605c67,Akademija,4a90e424-11ab-43a8-b7e9-1c4f42fe2b7c,Pod Hribom,1024,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+e7789f42-0ad7-44d1-974b-42a3f4957291,Strelišče,3edd6057-3847-4c42-b8ec-6e89ff95793a,Zadobrova,5001,TIMEOUT,TIMEOUT
+609f0950-bb8c-4eaf-a931-8575b8aff1ac,Savske stolpnice,58db973d-ecbb-4aa6-a56c-c26aaff7f263,SŽ ŠIŠKA,43,f1bc11ca-7516-447a-b826-7051c5306af7,Friškovec
+5e732249-14ec-4efe-bae1-7f9ca722f7ae,M. St. vas,73e6ef23-ef0c-41bf-9960-0e3078b94d23,Ig,5001,TIMEOUT,TIMEOUT
+da656f17-9723-4cbe-a008-823cbad17c28,Dolgi most,a3aeed02-8e36-4cb0-bb08-25cc4afda164,Rašica,2904,9cb18d2e-9bf3-436a-ab3a-7c52c5de1300,Rašica
+9143c575-806f-4ba0-81bc-8199f0b0b4d0,Šentjakob,8512e1be-4637-483b-a3e6-78ccc6d2c5b1,Navje,186,0eca6015-5429-4289-a76c-4ec9ef707e67,BTC-Merkur
+91b76764-87af-4b90-89dd-60f0046f7cc0,Tomačevska,32abc648-685c-47b0-bbc4-203371ec2699,Podpeč 1,5001,TIMEOUT,TIMEOUT
+b5273abc-dfeb-49a2-9607-249bf6415e4b,I. Kobilca,093afa81-b65f-4182-bac3-afbc00558a9b,Koseze,5001,TIMEOUT,TIMEOUT
+dd57f39b-be0f-479e-bc35-5bd2edf98ff2,Bolnica,c5527a65-5265-43de-b703-7c7d494d190c,Pot v Smrečje,5001,TIMEOUT,TIMEOUT
+9a14b0ec-f13a-46f0-8c4f-07d8b99241e2,Cesta v Zavoglje,9a14b0ec-f13a-46f0-8c4f-07d8b99241e2,Cesta v Zavoglje,0,9a14b0ec-f13a-46f0-8c4f-07d8b99241e2,Cesta v Zavoglje
+b2cf1f2c-3c77-4a23-891f-3cdbcda92f19,Škofljica žaga,a52cd7ac-c11e-4c8b-94a5-1a12b32595da,Jurčkova,5001,TIMEOUT,TIMEOUT
+29336b94-2382-46dd-b2e6-4590dd689640,Pot v Hrastovec,c627c9f2-af02-4d83-969a-566719bb09e3,GAMELJNE,204,3fbf6322-fb74-4a50-a81a-bfca73abc26b,Tacenski most
+acd87210-4e04-49b4-884b-1fe11c453bf4,Kožljevec,79a5bacd-8b59-4d83-99e8-26e3c5b1490b,Osenjakova,5001,TIMEOUT,TIMEOUT
+cdabf1ea-b04c-480a-8359-72c46e6864ab,Bežigrad,ab0d4ded-a428-4133-a6c8-0f2caac0a5ae,Iška vas,5001,TIMEOUT,TIMEOUT
+a52cd7ac-c11e-4c8b-94a5-1a12b32595da,Jurčkova,46847a61-d68a-4d2c-ad76-18e043d41430,Brglezov štradon,149,b56664c0-1dc1-42c5-b10b-52c3fb0dd042,Galjevica
+9bb1ed3b-5a6f-43c7-afaf-ba2b60ca1a7a,Aškerčeva,bff8345d-1b72-4b41-8b8d-cb8a5483a2e4,Medno,3462,9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje
+8a5febd6-d44a-4c98-a221-46044548663d,Sp. Gameljne 1,4a74b966-4fbf-41ab-8e1b-276f3f14fc49,Ježa,4890,05643914-8ff7-4064-8737-2761d44a083f,Tabor
+2838f674-f6e9-4eb5-a99c-1d0ac7903ca1,NOVE JARŠE,9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje,5001,TIMEOUT,TIMEOUT
+d98335a0-1291-4d4c-be62-16b11c356575,Božičeva,eec159d0-4b1b-4706-9a5d-a00ddcbea9f5,Baragova,1317,5c38ad77-8124-42b3-810f-04703daec8b4,Šentjakob
+db13a26e-19d4-4b8a-a78a-01ef25d58834,Ježica,ba6f47bf-d346-4ccb-8669-13b974d863a6,Križišče Sostro,5001,TIMEOUT,TIMEOUT
+1c8efa00-4587-4efc-a10d-794e9d885857,Troščine,2beb7011-982a-4349-be22-addf1c3bdec7,Pod Kamno Gorico,5001,TIMEOUT,TIMEOUT
+55f1ae46-11e5-4270-991f-f09dae6c58bf,Kodeljevo,befe0e87-b5fe-41ff-9a77-f65461eff28d,Brinje,716,a0b1fb90-3f6a-4231-910a-18be192ac762,Flajšmanova
+6d344016-1b93-4ff7-80a8-8cde0b57bd1c,Prežganje,c93954aa-7aad-4fca-9f7a-721d37f0474e,NS Rudnik,5001,TIMEOUT,TIMEOUT
+07bad99d-070a-42f7-8766-d11d42152623,Prekmurska,54c591c0-7bbb-4489-9229-57b18f95827a,Stara cerkev,5001,TIMEOUT,TIMEOUT
+bf990a3a-96e9-42b7-9147-33e85bd24c05,Ihan Flerin,caac4c1a-13e4-4afa-b467-65d90a8fbd44,Pod Hribom,5001,TIMEOUT,TIMEOUT
+aee8e842-6083-48a7-b14f-cc3d112537bb,Opekarska,43df2657-d56f-4fc4-8c40-49180cbbe90c,Ruski car,4263,35dbaf26-2fa4-45c4-87fc-81d1ff13b005,Tbilisijska
+717dda7e-d793-4697-8f60-b64ee8b1edc4,Gosposvetska,ed50f692-09f9-409e-b7d6-05ff7711de6b,Vnajnarje,3373,390d166c-b2fe-486c-bba5-38cd1ff64f48,Križišče Sostro
+53c3c8c9-2e64-4a8f-9afb-031b24c17d5a,Plečnikova cerkev,eead721b-8996-4e73-a2f9-02dba20df4fa,Ilirska,2584,1ceecd12-b005-4828-ad39-8f2aeb1ca228,Iški most
+98a75a4c-0ef8-4efa-8f0a-384fe8eafce0,Havptmance,717c914e-f928-4671-95f6-26c1ddb95799,Cesta v Gorice,5001,TIMEOUT,TIMEOUT
+e4635b94-348c-4c69-be85-1160488e5e43,BTC-ATLANTIS,f2bac6f5-5bbc-4f15-acdd-014d86770ce9,Kneza Koclja,1814,21764d19-62cc-49fd-bac9-403aeac6a6b9,Ježica
+12304b99-9a07-485a-a101-eaca90495d48,Besnica šola,36c7bbd0-50d7-4b5d-b9b3-9dadd37ac50b,Cesta v Kresnice,3425,7ea32e84-b8d9-498b-9f03-5a66990012b9,Rožičeva
+4a74b966-4fbf-41ab-8e1b-276f3f14fc49,Ježa,3f0c15b3-99bd-4c12-8f7a-df06c9536526,Pod Sivnikom,3703,fcccf4af-4f16-4edc-ba5a-585c434593fe,ZD Polje
+9cd1e7f8-8ccf-4469-bc25-25d138605c67,Akademija,8fbf17ab-413b-442c-9c6a-0eb8873a4755,Kovinarska,2312,e8d0bfd1-b300-4eae-8f85-79266066bb3c,Medvoška a.p.
+9cfac7e2-9653-4e52-a6d3-27756d27f817,Kino Šiška,a3aeed02-8e36-4cb0-bb08-25cc4afda164,Rašica,4167,bea274aa-277a-403d-ab2f-a0342b28882e,Križanke
+aa113271-655f-423f-ad7e-4cfaba2eb739,Pod Urhom,557f714a-6f4a-4c98-8c5a-d74fa34b2adb,Hrvatski trg,5001,TIMEOUT,TIMEOUT
+7fcb0952-c77f-44b5-adf3-0aa2a2b8550a,BARJE P+R,125d4928-6b97-4a4b-af34-a2d1564c029c,Zasavska,5001,TIMEOUT,TIMEOUT
+ca8cbe57-95dc-4326-9c06-b60a87b981b1,ŠKOFLJICA obrač.,f07c916c-6fc6-4acf-a334-0ab0d3c4f57f,Središka,5001,TIMEOUT,TIMEOUT
+22ef2062-46f0-4a46-8d9a-6ceb7b7f45bc,Ilirska,8b5f91a6-23b7-4786-96f9-a80c6d668e18,Sp. Pirniče,5001,TIMEOUT,TIMEOUT
+d4c25d68-c340-431b-a646-7680fe0cefee,Pržanec,b47eac47-d897-4ba7-ab06-8e642cc8efe8,BERIČEVO,5001,TIMEOUT,TIMEOUT
+5881f75e-9383-49b0-811d-04c864ba1605,Sp. Gameljne 1,f2fc2702-e9da-4c36-b6fc-9f52199e4574,Rakovnik,5001,TIMEOUT,TIMEOUT
+c3188d8e-c2d3-40e5-acc2-14bef70a5ff4,Za travniki,7276f267-9837-4c56-aad3-f8cd555060da,Prežganje šola,1919,9e109242-5aad-4fb7-b0c8-576eef8aa4e0,VEVČE
+717c914e-f928-4671-95f6-26c1ddb95799,Cesta v Gorice,6c773433-c487-49c5-a783-32c0e276ed7b,Dolgi most Rotar,63,66eec6a2-dfde-4d98-b690-e47f200367fd,Log
+6932c2e0-ff32-4170-b519-fba88e29c147,Cesta XV,eefb30b4-8049-4128-89f5-bb359b1c93b0,Prežganje,5001,TIMEOUT,TIMEOUT
+e8d0bfd1-b300-4eae-8f85-79266066bb3c,Medvoška a.p.,0fb83496-463c-4123-97c6-669efe614d26,Besnica kamnolom,5001,TIMEOUT,TIMEOUT
+a9796806-8cd3-4b76-bf8c-4340aec35c9e,Lutkovno gl.,b91edda3-a147-4599-bebf-85e145de085b,Živalski vrt-ZOO,143,41489be9-b3b7-4cbe-90f8-af1a435b2676,Orlova
+7310c006-62b8-4f94-bb9c-d5c26cb3faad,Polje,e8b0d4a2-f65e-4aed-97b8-77ab0d07955a,Cesta v Kresnice,5001,TIMEOUT,TIMEOUT
+33613e0e-f41c-4cee-804a-3942bf698e3e,Iški most,76f20fbf-afc4-4c7d-b51c-14f0878b38d8,C. STOŽICE P+R,5001,TIMEOUT,TIMEOUT
+e8b0d4a2-f65e-4aed-97b8-77ab0d07955a,Cesta v Kresnice,52e5adea-e194-4fc1-809c-1d6421f8f8db,Kovinarska,3628,521edd75-c364-480a-af9e-a1c9815b6dd7,Gasilska brigada
+7294875b-8482-484a-b04d-95b921612001,Vič,da623aed-094d-4c3c-9766-9f0aba0f40f6,C. dveh cesarjev,199,38b3abed-0592-407b-96c3-85a026f2e192,Dalmatinova
+8c7fa045-888b-46d0-8189-6f82623bf481,Poljanska,dfde6478-02b5-471b-a470-29cb0e84542f,Slovenija avto,4559,c627c9f2-af02-4d83-969a-566719bb09e3,GAMELJNE
+c6eab761-36e0-4bf8-88ed-48e594ed375b,Parmova,2d42d8e2-26a8-4a74-809c-f436d05c8a54,Tbilisijska,514,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+66012072-6b6b-4775-8001-0887d18e09a3,Pod Debnim vrhom,9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje,1992,ba846253-4c87-4120-8f1c-05a563bf3999,Nove Žale
+d3a6cbf3-65f0-4db8-9a10-1460763eac8e,Hrušica,3edd6057-3847-4c42-b8ec-6e89ff95793a,Zadobrova,5001,TIMEOUT,TIMEOUT
+627be449-8b6a-40f4-a57c-09ccdacccb66,Novo naselje,36c7bbd0-50d7-4b5d-b9b3-9dadd37ac50b,Cesta v Kresnice,5001,TIMEOUT,TIMEOUT
+6739536d-b334-46c6-ae80-4890afac7985,Lavrica,f66a1f18-4c18-4317-b929-fb616cc7cebc,Hruševska,1921,a0e0a21b-b8ce-4d76-bbc2-04e179367fee,Šola Jarše
+7ea32e84-b8d9-498b-9f03-5a66990012b9,Rožičeva,b8533150-cf69-441a-8fc4-18f39cbef16b,JEŽICA,1157,a9796806-8cd3-4b76-bf8c-4340aec35c9e,Lutkovno gl.
+2edaabef-ed43-4b87-ba95-a5600c33250f,Bratov Židan,ae3f312a-4242-4a42-8df2-5990505a7747,Sp. Gameljne 3,347,4d216485-ef41-45e7-9182-0c254644955c,Sava
+25c85d19-456c-4188-b563-15ad467a54c7,Vič,7fad8003-fb10-489d-bf8d-6d433310ad90,Nove Jarše,5001,TIMEOUT,TIMEOUT
+81a7167c-7913-442e-96c5-20dc6e25d74b,Vaše,6182f8e8-c45e-4606-b4a4-d909bd44d2cc,Gornji trg,1020,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+28248670-5e08-4de2-8eab-e63933c0d61d,Podmornica,30131bc3-a0f7-4cfc-9e4d-552b325c0ba7,Radna,5001,TIMEOUT,TIMEOUT
+ef3024a8-1d7f-4cf5-ad3b-74528eaa9c51,Stadion Domžale,36c7bbd0-50d7-4b5d-b9b3-9dadd37ac50b,Cesta v Kresnice,5001,TIMEOUT,TIMEOUT
+c6dd10bd-c21f-4a0c-9c7d-99e488a173d4,Šentjakob,c969f066-aab5-466d-b4db-48e651a4a12e,Lahova pot,5001,TIMEOUT,TIMEOUT
+d867fec1-5147-43db-b004-08d2797f50e3,Pod Golovcem,1d7af067-e43b-4a98-953c-75f1b267d9ce,Ig,1022,db046e79-c658-433c-8812-157fd965a9f6,Galjevica
+8f56b058-1ae3-44f5-8600-4330f2264d78,Privoz,5881f75e-9383-49b0-811d-04c864ba1605,Sp. Gameljne 1,2183,bea274aa-277a-403d-ab2f-a0342b28882e,Križanke
+318d4398-e152-498b-b4ff-1344c67adba6,Razstavišče,318d4398-e152-498b-b4ff-1344c67adba6,Razstavišče,0,318d4398-e152-498b-b4ff-1344c67adba6,Razstavišče
+cad3370f-7a28-4a47-8d5a-187adab3ca21,Polje-kolodvor,53806659-b339-4e68-af4a-4325c16b6026,Iška vas šola,716,b0b32562-f5dc-4183-abba-5729adf98088,OPEKARSKA
+9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje,c3188d8e-c2d3-40e5-acc2-14bef70a5ff4,Za travniki,4446,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+259de009-1345-4169-920b-baeaceade993,Primožičeva,bb995fbb-29c8-4035-9503-ae33320833a8,Cesta v Zavoglje,873,91fb6c6e-49cf-49d3-97d4-6ae228f9bfa1,Sostro
+125d4928-6b97-4a4b-af34-a2d1564c029c,Zasavska,2e6c059c-0305-47bb-9ca8-00a2123039e9,Štepanja vas,4423,b91edda3-a147-4599-bebf-85e145de085b,Živalski vrt-ZOO
+87785aa3-128e-4f15-82b0-d8c3cfa6076f,Spodnji Rudnik,d5961b09-f5e8-4a0b-9bbb-2515ff0a8376,Ob daljnovodu,3106,db9f7130-0bc2-4f3e-b8cd-07cfe96b1f8f,KOLODVOR
+c86d5f37-52ee-4e3a-99b5-b9554118c4d5,Mihov štradon,995cbd67-507b-4c32-b794-0ff48e0a3de9,KAMNA GORICA,1948,3fbf6322-fb74-4a50-a81a-bfca73abc26b,Tacenski most
+cab36767-e95a-4f60-978e-92490f2517b2,Hrvatski trg,d9224caa-d582-4152-88e0-be720677fe16,Sp. Gameljne 3,5001,TIMEOUT,TIMEOUT
+b2cf1f2c-3c77-4a23-891f-3cdbcda92f19,Škofljica žaga,1632ee87-59dd-4367-bf10-9d13aa688e82,Tržnica Koseze,5001,TIMEOUT,TIMEOUT
+95eee7e8-237d-4410-a9bf-00c6f88129c1,Cukrarna,da656f17-9723-4cbe-a008-823cbad17c28,Dolgi most,4049,717dda7e-d793-4697-8f60-b64ee8b1edc4,Gosposvetska
+6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina,075a6b29-66cb-409f-89fe-37d50669eff4,Elma,1260,9bb1ed3b-5a6f-43c7-afaf-ba2b60ca1a7a,Aškerčeva
+dfde6478-02b5-471b-a470-29cb0e84542f,Slovenija avto,3866c761-7fa4-4a4a-b913-75569da498d9,Samova,5001,TIMEOUT,TIMEOUT
+0b4a072e-6c2d-4c71-ab80-2b7142df81de,Tivoli,4038e02e-f22f-4af0-ba4f-7aab855b53af,Kneza Koclja,3861,295616c0-387b-4f60-a337-7743cd6be04e,Bavarski dvor
+baab981f-b707-4b2e-8291-6175f7ceb255,Ilovica,f4cfd904-bd11-4247-95df-32c4555a930f,Klinični center,301,eead721b-8996-4e73-a2f9-02dba20df4fa,Ilirska
+1a1ee974-5091-4fa7-96a2-0c2508892aa3,Saturnus,7276f267-9837-4c56-aad3-f8cd555060da,Prežganje šola,5001,TIMEOUT,TIMEOUT
+baab981f-b707-4b2e-8291-6175f7ceb255,Ilovica,862efb04-bcf5-493a-929d-242fb91ba5f6,Elma,4975,45b36327-9a1a-4cd5-8261-53217326b22f,Podlipoglav
+95be8f74-3ed5-4cf1-aabc-b1c0027ea628,Pece K,34f3ddda-e732-4b53-bfb2-8773b5cd6eac,Sp. Gameljne 2,5001,TIMEOUT,TIMEOUT
+a6fde748-bb91-465c-8665-20cbaed7df19,V. Lipljene,60edf514-fd83-400b-b86f-881f7eff258b,Hladilniška,5001,TIMEOUT,TIMEOUT
+2ec182e2-769f-427f-b9b5-c4118890cb96,Stožice,b2cf1f2c-3c77-4a23-891f-3cdbcda92f19,Škofljica žaga,1100,69f98a9c-d52d-423a-b44e-89b6320a7a88,BTC-Merkur
+717c914e-f928-4671-95f6-26c1ddb95799,Cesta v Gorice,f174a648-9e84-492d-9ccd-0756b49c773b,Capuder,1348,28248670-5e08-4de2-8eab-e63933c0d61d,Podmornica
+e26da28a-b9c3-41b8-b57f-87b289b38e08,GD Gameljne,1ceecd12-b005-4828-ad39-8f2aeb1ca228,Iški most,5001,TIMEOUT,TIMEOUT
+5aeac892-889f-4c5a-8fde-67e6ac096242,Dobrunjska c.,83a62071-0161-47a2-b745-eafb5e945632,Goričane pod gradom,5001,TIMEOUT,TIMEOUT
+12618339-2c2d-49ec-b0e0-2517c11991f8,Mirje,f496ecc3-28fe-4361-9da8-428bbf3bd672,Ljubljanaska,5001,TIMEOUT,TIMEOUT
+557f714a-6f4a-4c98-8c5a-d74fa34b2adb,Hrvatski trg,7c37b809-4d6d-497c-a53d-38663e91c088,Bizovik,2288,5d7f28a6-2a2a-4333-aa06-48edfb652f86,Pošta
+ec88f05d-3035-4f09-8560-72571bc0b125,SAVLJE,e4635b94-348c-4c69-be85-1160488e5e43,BTC-ATLANTIS,5001,TIMEOUT,TIMEOUT
+233daca5-913b-4e10-bf34-18b1c8c77019,Prelog,ba59baf4-dd00-40a5-80e7-3eee6b9d8b09,Golouhova,5001,TIMEOUT,TIMEOUT
+34ead609-4331-48ab-8e82-52dd70da9832,Ig Petrol,c0e6a237-3879-4336-88b6-5af51408cc7e,AMZS,1590,33613e0e-f41c-4cee-804a-3942bf698e3e,Iški most
+0bb103e4-c4a6-4c4c-a13d-217ab4e6dfd3,Cesta na Vevče,2896bfa8-0586-4ed1-8d93-c5c6e1ff3d72,Vikrče,1855,938c9405-72bb-4acd-bace-a75abcf2f9cb,Na jami
+98239279-bb80-4070-965c-dc87525019e2,Vikrče,824255dc-9be8-4f7b-9b69-2bd4e5a3fc27,Pohorskega bataljona,5001,TIMEOUT,TIMEOUT
+fb662324-f307-452f-9b00-0275dadfd382,Ig Petrol,daf172e0-4dd9-4d5b-8287-67ad2034bced,Stadion,5001,TIMEOUT,TIMEOUT
+b905ae6a-f1e1-4057-8923-481902ed5a8e,Konzorcij,0760a037-cd94-4936-89b6-45ce9bd19917,Mercator,1579,b5e26d7f-8a91-4360-9811-2e8e05d27382,Bratov Babnik
+390d166c-b2fe-486c-bba5-38cd1ff64f48,Križišče Sostro,d7d791d9-02e0-4369-be0c-1546fc2044a4,Staje,2612,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+86303165-4af4-4fcd-b0f9-43ed865454f4,Glonarjeva,311a0b74-0787-484b-b414-8adf1cd4cf58,Polanškova,1703,5b59d508-0860-4f50-b5ab-72a79046b488,Snoj
+81b6f6ad-6dd6-4e3f-a0bd-754a65a3e57b,Šlandrova,f07c916c-6fc6-4acf-a334-0ab0d3c4f57f,Središka,5001,TIMEOUT,TIMEOUT
+f2b27cbd-5207-4281-8f67-6369d0c50a9b,Kodrova,1069d764-9345-425d-8c4d-12d6ffa1fde1,Kališnikov trg,5001,TIMEOUT,TIMEOUT
+bc19ad1c-00fc-47f1-926e-ddeb12f686ba,Živalski vrt-ZOO,71480129-1108-4659-bb1b-d62897a81d02,Polje-kolodvor,634,a769d1e9-8727-4190-b56c-5cdd8a49333d,Čerinova
+3429cda2-6047-453c-bf54-952dfa6674c0,Klinični center,8a182298-1db3-4251-9cdb-a86efe72b8a7,Hlebš,5001,TIMEOUT,TIMEOUT
+4f681273-89fe-44f9-aaec-76950722cc52,Študentsko naselje,295616c0-387b-4f60-a337-7743cd6be04e,Bavarski dvor,113,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+ed50f692-09f9-409e-b7d6-05ff7711de6b,Vnajnarje,476c1b24-6f2f-4727-b610-645c50493814,Črnuče,5001,TIMEOUT,TIMEOUT
+68c65382-15dc-465c-96b5-7f27af9d4a63,Stanežiče,ab987eb0-c970-4577-8db9-0cd507a6cab6,Ig AP,3082,5ddf10c0-90a5-4dbf-992c-23c0505674aa,Podgora
+824255dc-9be8-4f7b-9b69-2bd4e5a3fc27,Pohorskega bataljona,5fe363f3-8297-448b-bde3-08f690c92d1b,Snoj,2238,c969f066-aab5-466d-b4db-48e651a4a12e,Lahova pot
+6bd46cb7-9e5d-453a-878a-bcc38fb2a5f2,Sava,12304b99-9a07-485a-a101-eaca90495d48,Besnica šola,5001,TIMEOUT,TIMEOUT
+6e7cab20-d7e3-474f-9a5e-f1e0ca6fae53,Hruševska,87785aa3-128e-4f15-82b0-d8c3cfa6076f,Spodnji Rudnik,4847,24df120e-0d0c-4353-8dda-c7ef0dc3dd5c,Križišče Sostro
+41c8c7eb-62ef-45d8-b5b1-221dd3c0022c,Tbilisijska,8eeea585-6168-45b8-a5d4-336e61826043,Zapuže,5001,TIMEOUT,TIMEOUT
+1ef524bd-2bf3-4c47-add3-044374897443,Andreja Bitenca,d5102041-8282-4c77-a593-edac0d0d4a34,Cukrarna,5001,TIMEOUT,TIMEOUT
+b0d473cd-f35e-4a30-8d0d-70f16b92e8e8,Lipe,fcfe6ac9-74b3-4c13-96b7-6041f1454813,Kamnogoriška,3096,aee8e842-6083-48a7-b14f-cc3d112537bb,Opekarska
+b9edd39a-4f64-4553-869e-bb77e617b9b8,Stanežiče,ef4a63e8-d956-4f09-80bd-8e4699418652,Kongo,5001,TIMEOUT,TIMEOUT
+1b0f629f-acdb-4e94-8c54-018f4334ebf7,Križišče Sostro,5560d06d-4058-473e-abba-099b05d7cf07,Cesta v Zajčjo Dobravo,5001,TIMEOUT,TIMEOUT
+6330ad8d-b582-4c92-bc7e-d3f206264f04,Tehnounion,5881f75e-9383-49b0-811d-04c864ba1605,Sp. Gameljne 1,5001,TIMEOUT,TIMEOUT
+52c437c8-73ae-4db5-ac31-8e7cf5104826,V. Loka pri Viš. G.,b6816891-4b0d-4bda-8e12-176194efaefe,OŠ Maksa Pečarja,5001,TIMEOUT,TIMEOUT
+fd0e405e-d5e5-45fc-8911-e48a178ad4a9,Selo,a6fde748-bb91-465c-8665-20cbaed7df19,V. Lipljene,5001,TIMEOUT,TIMEOUT
+538ab00b-ee39-44e8-b5a4-62c2c6215bf6,Zeleni gaj,2628ca4f-8797-4672-aca9-47b325c58aac,Besnica šola,2862,0fb83496-463c-4123-97c6-669efe614d26,Besnica kamnolom
+845b482b-dba1-4313-a476-e772691689cf,Pri Maranzu,e1e80207-5c23-47c0-a63a-121003b22807,Sp. Pirniče,2947,6c56976b-4ae1-429f-bcab-0cfc37e3580d,Zgornji log
+4ab506fa-0fcd-431b-ace7-19ffa5f0576a,Reaktor,55e3f615-be6c-43f4-9858-e199862771a4,Pri Dogonivar,5001,TIMEOUT,TIMEOUT
+66012072-6b6b-4775-8001-0887d18e09a3,Pod Debnim vrhom,08071ba1-570f-487b-9a36-01a046fb2788,Kolodvor Črnuče,5001,TIMEOUT,TIMEOUT
+596e3cfe-bd4c-4afa-ba4c-33172dba9be1,Belinka,4ed69cbb-d738-450c-be11-7d96cd50ee50,Livada,1360,557f714a-6f4a-4c98-8c5a-d74fa34b2adb,Hrvatski trg
+8d767444-3983-4409-bda1-d298b52c7bfe,Študa polje,bd001f58-6e58-49e9-877f-1fa36964fbc2,Na jami,5001,TIMEOUT,TIMEOUT
+3f0c15b3-99bd-4c12-8f7a-df06c9536526,Pod Sivnikom,ef91fd44-5651-4fd4-b6f8-619fdef9da7b,Hajdrihova,5001,TIMEOUT,TIMEOUT
+bbe542ee-a3f6-43cf-b23a-077c28b7d19a,BTC-tržnica,dba19980-8ca1-4847-b9b5-8cd419374ae2,Ponova vas,5001,TIMEOUT,TIMEOUT
+cf94d70f-d211-4625-9037-014514562aa9,Lanišče,666bd186-7a9a-4e20-a466-e7b1918dda9b,OŠ Maksa Pečarja,5001,TIMEOUT,TIMEOUT
+1f207e67-adf9-4da6-b107-3b58051d9990,Sneberska,5dcffe2a-1c73-4f7c-bdac-4084bb5201aa,Peruzzijeva,1135,156a6f62-9a67-4cf0-ad56-85a343c77cd2,Agrokombinatska
+318d4398-e152-498b-b4ff-1344c67adba6,Razstavišče,d4fd9934-5253-4ab8-a779-3e9e2a30c5b7,V. St. vas,5001,TIMEOUT,TIMEOUT
+7f45fe9c-917a-4571-9a74-9e940cd84f3c,OŠ Domžale,da656f17-9723-4cbe-a008-823cbad17c28,Dolgi most,5001,TIMEOUT,TIMEOUT
+ba59baf4-dd00-40a5-80e7-3eee6b9d8b09,Golouhova,b8533150-cf69-441a-8fc4-18f39cbef16b,JEŽICA,3132,8d775324-59ca-429e-ad7e-8d522c52dbdd,Drenikova
+a52cd7ac-c11e-4c8b-94a5-1a12b32595da,Jurčkova,eb8e8d9a-a3d5-4ec1-9356-26e0e41912d1,Pot v mejah,5001,TIMEOUT,TIMEOUT
+65a6b01d-c9cf-4d4e-930c-5562156d7375,Besnica kamnolom,7ad774b6-172a-401b-b186-358aa2d560a2,Jarše,3066,48507e1a-32df-4552-9448-3b345760b75f,Cesta na Vevče
+6cc5af3b-67ea-47f3-9e8a-10946c32b906,V. Lipljene,ff74fc01-faf6-4a78-a782-d8365538e7de,M. vas pri Grosupljem,82,6cc5af3b-67ea-47f3-9e8a-10946c32b906,V. Lipljene
+ef31a8be-b01d-44cd-95cf-3db8e918af26,Emona,07b4c585-66cf-49d7-906c-50f1122c8e9e,Cesta XV,5001,TIMEOUT,TIMEOUT
+60ccc570-3714-410b-aa31-43d3a4c593c8,Tržnica Moste,3a50f545-2fe2-45a0-8ed6-01635603efed,Dobrunje,2073,bb995fbb-29c8-4035-9503-ae33320833a8,Cesta v Zavoglje
+66eec6a2-dfde-4d98-b690-e47f200367fd,Log,8a182298-1db3-4251-9cdb-a86efe72b8a7,Hlebš,5001,TIMEOUT,TIMEOUT
+46f20d33-601c-4ef6-b86c-7c2bb4af52fa,Ježkova,2265e4de-a537-4f97-882b-c94c24aabfb0,Sostro,3596,938c9405-72bb-4acd-bace-a75abcf2f9cb,Na jami
+484b5c91-1220-43ba-af79-84e712fcc46b,Slovenija avto,ef91fd44-5651-4fd4-b6f8-619fdef9da7b,Hajdrihova,5001,TIMEOUT,TIMEOUT
+bd001f58-6e58-49e9-877f-1fa36964fbc2,Na jami,ee837fd9-7a5c-4f14-bbd7-a46f14eb07c5,Glonarjeva,5001,TIMEOUT,TIMEOUT
+46847a61-d68a-4d2c-ad76-18e043d41430,Brglezov štradon,c6c83930-96af-4cbe-93bf-072a618502a4,Šlandrova,5001,TIMEOUT,TIMEOUT
+cad3370f-7a28-4a47-8d5a-187adab3ca21,Polje-kolodvor,ee837fd9-7a5c-4f14-bbd7-a46f14eb07c5,Glonarjeva,5001,TIMEOUT,TIMEOUT
+b905ae6a-f1e1-4057-8923-481902ed5a8e,Konzorcij,896f7627-7c1c-4742-a40a-6aadb85fe206,Viško polje,4429,2628ca4f-8797-4672-aca9-47b325c58aac,Besnica šola
+d4c51b31-46fd-4da8-ba15-8068e666d483,Zadvor,7fcb0952-c77f-44b5-adf3-0aa2a2b8550a,BARJE P+R,5001,TIMEOUT,TIMEOUT
+4c277b3f-c427-404b-ace3-2cd51656318f,Tehnounion,2f874852-bc80-4ff3-b6bf-a914e31251c8,Savske stolpnice,2050,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+29589594-5959-4efb-8dda-7348e4e500a0,Kozarje,7484317c-269f-425f-8118-23eedab4e5f1,Tivoli,3891,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+0b6c7b97-410c-48fa-be23-430c316f9b10,Stadion Domžale,ff1f708c-989e-4cc5-8e75-02717b5f9744,Študentsko naselje,2192,ff8f71b7-06fe-47fe-8238-9af5ee1b1dfd,Šola Jarše
+459f82d2-cbe4-414b-b66b-0b794ea958ed,Smelt,111b2cdc-67ca-47bc-a8eb-8a4c6a0674d9,Tabor,5001,TIMEOUT,TIMEOUT
+4d216485-ef41-45e7-9182-0c254644955c,Sava,34afe7f1-2d09-487f-983f-19c7dd5dae82,Brglezov štradon,2128,099976aa-17cc-45d3-add4-267985ab1533,Draga
+29589594-5959-4efb-8dda-7348e4e500a0,Kozarje,6bd46cb7-9e5d-453a-878a-bcc38fb2a5f2,Sava,5001,TIMEOUT,TIMEOUT
+e82569a6-73f3-4002-b7b5-0f83ee167535,Silos,807c11ba-4b3a-4e2b-82b5-abf5864fa4bc,Pot na Fužine,3215,156a6f62-9a67-4cf0-ad56-85a343c77cd2,Agrokombinatska
+16ae0a39-ff9a-4aee-88b5-34502255fab4,Pod Sivnikom,7558099b-08a3-43bc-8056-49bcc5900a03,Cesta v Bizovik,5001,TIMEOUT,TIMEOUT
+6a0b25cc-428e-47b5-831a-e89facfa7f26,Ziherlova,ea80411c-360d-4a33-861c-6533a1d67eef,Park varne mobilnosti,45,b56664c0-1dc1-42c5-b10b-52c3fb0dd042,Galjevica
+9dfc0a62-bf4d-4670-83d0-4e26a6e56b32,Smelt,c15a2be8-fc53-427d-9cc6-a50bb305f68d,Tovarna Lek,3019,d50b2bdb-481b-4e58-ada6-47a028fc6382,BTC-tržnica
+69f98a9c-d52d-423a-b44e-89b6320a7a88,BTC-Merkur,4e8ccfa1-b58c-4ee1-ad82-2e8a645071f3,Sostro - 2,5001,TIMEOUT,TIMEOUT
+ff1f708c-989e-4cc5-8e75-02717b5f9744,Študentsko naselje,ff74fc01-faf6-4a78-a782-d8365538e7de,M. vas pri Grosupljem,5001,TIMEOUT,TIMEOUT
+d4fd9934-5253-4ab8-a779-3e9e2a30c5b7,V. St. vas,e7789f42-0ad7-44d1-974b-42a3f4957291,Strelišče,5001,TIMEOUT,TIMEOUT
+4e8ccfa1-b58c-4ee1-ad82-2e8a645071f3,Sostro - 2,70c51140-f3ee-4c89-a6e2-ed74dab89148,Bilečanska,5001,TIMEOUT,TIMEOUT
+3d0466c6-82f4-4a8e-ac5f-18d4dab794ac,Ihan Flerin,30c30bf5-75c4-4dc0-995f-4679ef54d37c,Mostiček,4292,9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje
+10d57057-b305-4b7a-806b-3373014db962,Nadgorica,e0c253d0-1de7-4add-ac75-8b16151fa462,Dobrunje,4960,2d6504e9-c938-417e-9b55-32d6514bc744,Kristalna palača
+7558099b-08a3-43bc-8056-49bcc5900a03,Cesta v Bizovik,25ad5579-f6a0-4f35-a0c9-0678b41e9dde,Križanke,5001,TIMEOUT,TIMEOUT
+45bff76d-bb00-455b-aa12-7ea49ad9a4f0,Vaše Helios,010c271e-49ca-45a5-91ac-8ba8d41ee7f3,Čerinova,5001,TIMEOUT,TIMEOUT
+5fe363f3-8297-448b-bde3-08f690c92d1b,Snoj,59d96e2c-3ee3-4581-840a-3ddaf0003743,Osenjakova,1463,ff8f71b7-06fe-47fe-8238-9af5ee1b1dfd,Šola Jarše
+6cc5af3b-67ea-47f3-9e8a-10946c32b906,V. Lipljene,7b822496-7ea4-4ce8-b78c-1d021c68a9ed,Puhova,5001,TIMEOUT,TIMEOUT
+4ec1b435-1683-4cd7-a4d0-688cc9f3b603,JEZERO,e97befb6-5dc6-4603-ad5e-3aa96b4b2221,Rožičeva,5001,TIMEOUT,TIMEOUT
+12618339-2c2d-49ec-b0e0-2517c11991f8,Mirje,97627b9b-fa2e-461a-97ea-a15df7599598,Pot Rdečega križa,686,bea274aa-277a-403d-ab2f-a0342b28882e,Križanke
+bea9f247-4e88-4d7c-9387-8cd9342acb8c,Sora OŠ,184817a9-ca88-4c82-a40b-5768991da3df,Podpeč,3678,6efecef0-52ba-4a47-9991-9bab5ce31340,Ajdovščina
+813b7c8c-5236-405a-bb0d-092a5d93c2a6,Kavčičeva,d0790612-d161-4be4-953d-a7a0c33acf1e,Cesta na Brod,1316,bf990a3a-96e9-42b7-9147-33e85bd24c05,Ihan Flerin
+3429cda2-6047-453c-bf54-952dfa6674c0,Klinični center,91745353-dd19-49ee-beaf-332e546dcceb,Zidarjevec 2,1601,feb89b92-366d-4f50-a509-40c7baba8cf0,Brodarjev trg
+42bcfbad-96b8-4ce2-96f3-07694e1bcfe2,M. Lipljene,3d9e90f6-2b67-4f24-9cc4-7c2063a08410,Japelj,5001,TIMEOUT,TIMEOUT
+163da3ae-0ab9-480e-b72d-16357e0a9061,Golouhova,9746f277-af08-4cce-92fa-41da5eca8ac2,BERIČEVO,3375,4038e02e-f22f-4af0-ba4f-7aab855b53af,Kneza Koclja
+795c157e-21e0-4115-85aa-93c227e3420f,Domžale,a9796806-8cd3-4b76-bf8c-4340aec35c9e,Lutkovno gl.,5001,TIMEOUT,TIMEOUT
+81a7167c-7913-442e-96c5-20dc6e25d74b,Vaše,84578591-7543-4105-8465-9df30256360d,Šmartno,801,9a1c4c65-df77-481f-87ad-56143f02a864,Vižmarje
+1df1835b-cfd3-40e7-9466-9c9d43642bed,Zaboršt,24ab9d18-4fb9-4e7e-b48c-d5cdc9cd1305,Agrokombinatska,5001,TIMEOUT,TIMEOUT
+6e7cab20-d7e3-474f-9a5e-f1e0ca6fae53,Hruševska,e0f10330-ad34-453d-baf4-d6c601cb6cf8,Blaževo,5001,TIMEOUT,TIMEOUT
+f088dbda-3ab0-43c5-bcdf-c727725c05be,Brdo,6c56976b-4ae1-429f-bcab-0cfc37e3580d,Zgornji log,5001,TIMEOUT,TIMEOUT
+c22879e5-8e90-4540-9a74-5f139208e492,Friškovec,0df2ffa6-b1c8-44d0-900c-8b23b37794df,Spodnji Rudnik,5001,TIMEOUT,TIMEOUT
+1e157c31-d34d-4c2e-91b4-8c000c88f6dd,Kardeljeva ploščad,8561e9fb-03e0-46f1-802d-b376d26a8ea5,Drenikova,2388,5c38ad77-8124-42b3-810f-04703daec8b4,Šentjakob
+4b847ac2-4c41-4fc1-a497-9ce4deaab8b1,Zavrh,94c6598b-7303-42e1-94d5-156d7a25f630,Gerbičeva,5001,TIMEOUT,TIMEOUT
+0bb103e4-c4a6-4c4c-a13d-217ab4e6dfd3,Cesta na Vevče,b4634750-8d91-4625-b40d-1da9665e70f6,Podpeč 1,5001,TIMEOUT,TIMEOUT
+9cd1e7f8-8ccf-4469-bc25-25d138605c67,Akademija,42bcfbad-96b8-4ce2-96f3-07694e1bcfe2,M. Lipljene,5001,TIMEOUT,TIMEOUT
+5c9baa4c-9ee0-4263-be22-72f5a73c714d,Škofljica Petkovšek,1b27d65a-1008-4bc9-928e-f6cb43b03804,Besnica ambulanta,5001,TIMEOUT,TIMEOUT
+f07c916c-6fc6-4acf-a334-0ab0d3c4f57f,Središka,d3a6cbf3-65f0-4db8-9a10-1460763eac8e,Hrušica,5001,TIMEOUT,TIMEOUT
+717c914e-f928-4671-95f6-26c1ddb95799,Cesta v Gorice,d08c4884-9764-447f-9b79-0ef7a645222f,Ledena dvorana Zalog,5001,TIMEOUT,TIMEOUT
+bd1396f2-4dc8-4695-9bf1-c601157100d8,Preglov trg,96d4c75b-6452-4c70-a31e-c234262ba38b,Veliki štradon,2280,a5eb15d2-f0cb-46a6-b888-6a9aad6bc5b6,Sadinja vas
+1b3d51e8-8b5e-4b31-a63e-9d665243c2f1,Nove Žale,d7384760-d854-492d-87af-f342cab37fc1,Brinje,5001,TIMEOUT,TIMEOUT
+acedfed0-a3ba-4fa3-8cd6-910783961f0a,Goričane kopališče,845b482b-dba1-4313-a476-e772691689cf,Pri Maranzu,3935,eb165f50-9c43-4b09-9658-469a16d3dc83,Kodeljevo
+278a9d60-64c7-4bfa-aad0-24068aa760af,Sadinja vas,f073b9d9-a3e3-4d04-a209-0db55377b79e,Zmajski most,4774,5d7f28a6-2a2a-4333-aa06-48edfb652f86,Pošta
+7e780e7f-3665-4ec7-a910-eaf6e9d82551,Kajakaška,8dde1a7b-e3ec-4675-8409-2a2c4ae696c7,MESTNI LOG,1343,41c8c7eb-62ef-45d8-b5b1-221dd3c0022c,Tbilisijska
+d08c4884-9764-447f-9b79-0ef7a645222f,Ledena dvorana Zalog,b698a890-05b8-40f6-a3a6-4f4c0a820f97,Kongo,5001,TIMEOUT,TIMEOUT
+6bd46cb7-9e5d-453a-878a-bcc38fb2a5f2,Sava,9b85d4b0-c594-4e0e-9ce2-d0986256c270,Tavčarjeva,1181,306dcdea-b1ce-4357-ba5e-fa82293630df,Kolodvor
+58db973d-ecbb-4aa6-a56c-c26aaff7f263,SŽ ŠIŠKA,45b36327-9a1a-4cd5-8261-53217326b22f,Podlipoglav,5001,TIMEOUT,TIMEOUT
+cf22c7c2-776f-4bd7-ae1a-dc4f25983c19,Študa polje,ab987eb0-c970-4577-8db9-0cd507a6cab6,Ig AP,1572,96d4c75b-6452-4c70-a31e-c234262ba38b,Veliki štradon
+54c591c0-7bbb-4489-9229-57b18f95827a,Stara cerkev,61f19c68-2d5e-4d76-bdd4-28709a347b5b,Spar,681,d4c25d68-c340-431b-a646-7680fe0cefee,Pržanec
+a999f83e-4e6a-4ef9-9a10-e4a2c8a4a182,Vaše,441545fb-7a0c-4555-aea8-01cbe6c14ea3,Puhova,940,484b5c91-1220-43ba-af79-84e712fcc46b,Slovenija avto
+d17294f3-5b6c-4313-9243-3f38557967cf,Tabor,3d8122ff-0840-4811-a5ad-c4702fc70269,Pod Rožnikom,313,9a480b5e-0283-4130-a5e2-9d5e996caa4f,Litostrojska
+eaad1ba5-14a4-494f-80ae-65294c29a962,Rožna dolina,cddb3822-7daf-4cae-9cc3-6b191e81326b,Yulon,341,2d42d8e2-26a8-4a74-809c-f436d05c8a54,Tbilisijska
+d5735919-60bb-4720-a695-9f5155a4f109,Plešičeva,81a7167c-7913-442e-96c5-20dc6e25d74b,Vaše,1046,ccd8a655-468b-4728-a26d-7981bbdd7dec,Zg. Gameljne
+5bc3addd-b076-4c60-b850-39f90e674b75,BOKALCE,21fba303-9465-42e6-8942-eaff85a2b40c,Zidarjevec 2,5001,TIMEOUT,TIMEOUT
+16578e36-c682-4083-bd29-4973445dc0fe,Gosposvetska,7fad8003-fb10-489d-bf8d-6d433310ad90,Nove Jarše,2059,9cfac7e2-9653-4e52-a6d3-27756d27f817,Kino Šiška
+f1d7dbc8-d84b-4550-a3bd-e4748a677e9d,Trnovo,2c0475be-44e7-4f0f-a06d-2c1b4ca15677,MEDVODE nas.,5001,TIMEOUT,TIMEOUT
+db9f7130-0bc2-4f3e-b8cd-07cfe96b1f8f,KOLODVOR,9746f277-af08-4cce-92fa-41da5eca8ac2,BERIČEVO,4212,d98335a0-1291-4d4c-be62-16b11c356575,Božičeva
+aaedd82f-0c53-425d-92cf-96e50bd20518,Slovenijales,524d67dd-fbb0-4f6a-9199-f095123044ab,Kamna Gorica,5001,TIMEOUT,TIMEOUT
+ab624858-605d-48c6-a660-d54c2e037a91,V. St. vas,59ee5f7d-476b-4958-a922-2040a9308f3b,Kranjčeva,5001,TIMEOUT,TIMEOUT
+dc6b96b1-d0fa-4d03-ac2b-8eba5bb97ba2,Peruzzijeva,eb11d52f-300b-4648-a2e8-ed03db9ff7e2,Drobnič,5001,TIMEOUT,TIMEOUT
+cf94d70f-d211-4625-9037-014514562aa9,Lanišče,7e0c8a32-21cb-46dc-8e50-9c4675dfa322,Javor-2,2140,51e04e1d-9ea1-432d-8b79-09e6c2a7be7b,Trebeljevo
+07bad99d-070a-42f7-8766-d11d42152623,Prekmurska,ed50f692-09f9-409e-b7d6-05ff7711de6b,Vnajnarje,5001,TIMEOUT,TIMEOUT
+ecc4ae87-ae08-4b94-995c-452fdd94df7f,Privoz,aa113271-655f-423f-ad7e-4cfaba2eb739,Pod Urhom,1008,c8e0086c-0cef-4375-a471-72f3ae1e34fc,Strelišče
+b91edda3-a147-4599-bebf-85e145de085b,Živalski vrt-ZOO,6324e337-5778-492a-9e9c-57e3ad5c4710,Šolska,2526,7484317c-269f-425f-8118-23eedab4e5f1,Tivoli
+7fcb0952-c77f-44b5-adf3-0aa2a2b8550a,BARJE P+R,3d8122ff-0840-4811-a5ad-c4702fc70269,Pod Rožnikom,395,c6eab761-36e0-4bf8-88ed-48e594ed375b,Parmova
+cd5497dc-20a4-40b3-9adf-b380de5d9f16,Bobrova,8e7a488b-cd48-4243-92b0-42792d0e3bc1,Capuder,4646,07bad99d-070a-42f7-8766-d11d42152623,Prekmurska
+125d4928-6b97-4a4b-af34-a2d1564c029c,Zasavska,a3aeed02-8e36-4cb0-bb08-25cc4afda164,Rašica,5001,TIMEOUT,TIMEOUT
+1d62c3f1-903c-4350-a349-80c4573b3cdc,Pot v Hrastovec,7f510cd8-4742-4dcf-95c0-16cde39c2e26,Zg. Gameljne,5001,TIMEOUT,TIMEOUT
+862efb04-bcf5-493a-929d-242fb91ba5f6,Elma,caac4c1a-13e4-4afa-b467-65d90a8fbd44,Pod Hribom,1438,eb165f50-9c43-4b09-9658-469a16d3dc83,Kodeljevo
+bc66f88b-1412-44cb-b921-030d27335261,Sneberje,8441d439-8d1d-40b8-b3d5-7b9c56848b43,Radna,5001,TIMEOUT,TIMEOUT
+24df120e-0d0c-4353-8dda-c7ef0dc3dd5c,Križišče Sostro,1f4702d4-6b02-4ad3-aa9b-118ff9aa3474,Zasavska,5001,TIMEOUT,TIMEOUT
+2f18bcfa-6189-4de4-b06f-132d3392e7d6,Besnica,1536cb2e-acd3-49cb-8f06-bb8cd40c0c02,Bratov Babnik,5001,TIMEOUT,TIMEOUT
+30e58784-86f6-4d93-8630-3cc3fc93c6f3,Brod,71480129-1108-4659-bb1b-d62897a81d02,Polje-kolodvor,979,3fbf6322-fb74-4a50-a81a-bfca73abc26b,Tacenski most
+27788b38-4743-4e04-9b9c-94faeeeb2d34,Pot heroja Trtnika,48b163cd-b819-4849-aee1-8b1da77657ab,Šentvid,2504,c87db9be-1fba-4102-a743-0ee4317dd5af,Bavarski dvor
+1b3ddeca-a066-43ee-9ae5-8339628129c2,Žale,51dbf10f-cf3b-4575-a8cc-d1080c1f9dde,Silos,5001,TIMEOUT,TIMEOUT
+f9d70942-e517-4560-8655-99481edd2b95,JEŽICA P+R,1e4be02a-ac61-41bc-b9b5-1ef7850313ed,IMP,890,9cfac7e2-9653-4e52-a6d3-27756d27f817,Kino Šiška
+1632ee87-59dd-4367-bf10-9d13aa688e82,Tržnica Koseze,2d6504e9-c938-417e-9b55-32d6514bc744,Kristalna palača,5001,TIMEOUT,TIMEOUT
+7ad774b6-172a-401b-b186-358aa2d560a2,Jarše,995cbd67-507b-4c32-b794-0ff48e0a3de9,KAMNA GORICA,5001,TIMEOUT,TIMEOUT
+3fbf6322-fb74-4a50-a81a-bfca73abc26b,Tacenski most,88cdd36c-03d2-4374-a22f-110dd9f75ea0,Kajuhova,5001,TIMEOUT,TIMEOUT
+cf6f67f5-f7df-4462-828b-481134217fad,Žito,e2499103-6634-4d8e-87a8-68dc5ef6340c,Sp. Gameljne 2,5001,TIMEOUT,TIMEOUT
+352f5cae-25c9-41c5-ab70-268bf64107f0,Podgorica,aa844493-50b0-4b91-b331-f4297d2ae6a8,Brezovica pošta,4318,25ad5579-f6a0-4f35-a0c9-0678b41e9dde,Križanke
+d83ec579-9ab5-4e30-bedd-86613c234abd,Ljubljanske brigade,1505c6fe-6080-424e-98d1-24c312cfacf3,Pot na Rakovo jelšo,5001,TIMEOUT,TIMEOUT
+d5d15a80-243b-49d7-a616-b3c3fb39e8af,Oval,010c271e-49ca-45a5-91ac-8ba8d41ee7f3,Čerinova,974,ea9d5fa9-af5a-4d39-96fd-626415048511,Martinova
+f33b721f-a8a3-4aad-96f2-077da09ebaa6,Razstavišče,9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska,1440,2c0475be-44e7-4f0f-a06d-2c1b4ca15677,MEDVODE nas.
+e2d3c37e-a7df-458e-9e5a-ea33ccf4c11b,Brdo,2154edb8-16e2-4334-8878-9e38abcdf06a,Zavrh,2609,8eeea585-6168-45b8-a5d4-336e61826043,Zapuže
+4c08e174-6890-4c5d-9eec-15686971f909,Drobnič,4a95f1f8-a457-4dcf-bd1f-6307d4300ea0,Mihov štradon,5001,TIMEOUT,TIMEOUT
+a4545f57-dab0-4ca0-9da3-5bc96d80f104,Vevče,bb606ad8-8a10-4034-9862-60cc177d2455,Pohorskega bataljona,4761,441545fb-7a0c-4555-aea8-01cbe6c14ea3,Puhova
+4a95f1f8-a457-4dcf-bd1f-6307d4300ea0,Mihov štradon,557f714a-6f4a-4c98-8c5a-d74fa34b2adb,Hrvatski trg,3861,5f6cb902-b824-4961-9ac2-75cf44a47055,Pance
+daf172e0-4dd9-4d5b-8287-67ad2034bced,Stadion,eb43a68a-54a5-4a37-b090-1329e2b4d830,BRNČIČEVA,1118,3429cda2-6047-453c-bf54-952dfa6674c0,Klinični center
+02c61e3f-2d2e-4b42-b695-bbd3cc672f6b,Leskoškova,e468b92f-fa4a-4819-bb11-37761deaf4ca,BESNICA obrač.,2112,5c38ad77-8124-42b3-810f-04703daec8b4,Šentjakob
+86303165-4af4-4fcd-b0f9-43ed865454f4,Glonarjeva,3f996624-8134-4eec-9742-70111db659c1,TOMAČEVO,2598,98a94a2a-894f-4ff0-9967-1dd986bf0cfd,Litostroj
+5be3b187-5735-4444-bee7-0665f60e6c83,Ižica,1aa7e441-8646-4d1d-88bd-ab004758ffc4,Pod Kamno gorico,5001,TIMEOUT,TIMEOUT
+b5400e28-b0c3-4a02-9da2-084c465bd1d3,Pot v Smrečje,7d628170-e2eb-47fd-9d3e-658acf78d7d3,Sp. Slivnica,5001,TIMEOUT,TIMEOUT
+30131bc3-a0f7-4cfc-9e4d-552b325c0ba7,Radna,d07152fd-014c-481b-a5f2-8949066499e8,Grosuplje SM,5001,TIMEOUT,TIMEOUT
+785ad018-d0fe-4628-b188-15f6dc71b38e,Barje,4afd573d-abb7-4209-9b28-5c34811eb3ef,Lavrica pri Malči,5001,TIMEOUT,TIMEOUT
+9845a6f7-ba79-4f3d-b6ae-969651ef6001,Tomačevska,845b482b-dba1-4313-a476-e772691689cf,Pri Maranzu,501,4abe5e63-5707-4ef0-acda-ab2c52749afe,Štajerska
+68c65382-15dc-465c-96b5-7f27af9d4a63,Stanežiče,29589594-5959-4efb-8dda-7348e4e500a0,Kozarje,3359,77c4dfcc-1122-4896-9983-8a5bd11320de,Dravlje
+5d91512b-af7f-4bbe-9dde-17f402fbf590,Sneberska,e2499103-6634-4d8e-87a8-68dc5ef6340c,Sp. Gameljne 2,5001,TIMEOUT,TIMEOUT
+ae3f312a-4242-4a42-8df2-5990505a7747,Sp. Gameljne 3,1907a46a-4559-43ec-8363-03fe35d30725,Rudnik,4159,2c87f988-902b-4b35-91da-5437a58759f5,Šentjakob
+8b5f91a6-23b7-4786-96f9-a80c6d668e18,Sp. Pirniče,eaad1ba5-14a4-494f-80ae-65294c29a962,Rožna dolina,5001,TIMEOUT,TIMEOUT
+ab987eb0-c970-4577-8db9-0cd507a6cab6,Ig AP,59ee5f7d-476b-4958-a922-2040a9308f3b,Kranjčeva,1201,7484317c-269f-425f-8118-23eedab4e5f1,Tivoli
+2a7d32ca-24a1-41ac-a273-0cbcdec59336,Škofljica špica,5cc8a08d-c0af-491f-9a9c-b8b4f5f23bc0,BTC-Emporium,1235,5f2b93f1-7933-45ed-915c-4488ab8d81b7,Ižanska
+c2827897-b9fe-4bfc-b4ed-880f11a2359e,ZELENA JAMA,e66e813a-722d-40f8-9ee9-1470d07bc200,Tobačna,5001,TIMEOUT,TIMEOUT
+cbf8e64b-fd0d-48ec-8fb1-03b298cc13b3,Savsko naselje,7d1d9e60-8a7d-4e50-86e5-f3a42a99d837,Žabja vas,5001,TIMEOUT,TIMEOUT
+4f681273-89fe-44f9-aaec-76950722cc52,Študentsko naselje,b59656a4-b6e7-4b87-977c-078c59088a50,Hajdrihova,1463,2d42d8e2-26a8-4a74-809c-f436d05c8a54,Tbilisijska
+d06c6c8a-c136-4b7a-9c13-b26ba0c04029,Hlebš,b0b32562-f5dc-4183-abba-5729adf98088,OPEKARSKA,2219,ef31a8be-b01d-44cd-95cf-3db8e918af26,Emona
+5b184752-5bd2-43e3-9243-dfc8969d9065,Bolnica P. Držaja,30cf2ed7-2cf0-4764-ab64-78206968d5ba,Ostrovrhar,5001,TIMEOUT,TIMEOUT
+b2dd1684-0848-40f7-b10e-8f74bb005f2f,V. Mlačevo,9a938b49-ce1d-4e1c-a789-e316630ebc4f,Poliklinika,5001,TIMEOUT,TIMEOUT
+68075aa0-144c-4f6e-93ef-e93dfc35df78,ZALOG,c8e0086c-0cef-4375-a471-72f3ae1e34fc,Strelišče,5001,TIMEOUT,TIMEOUT
+1a1ee974-5091-4fa7-96a2-0c2508892aa3,Saturnus,4682c5fd-08cb-4af1-a3e2-6f1ee880a52d,Baragova,5001,TIMEOUT,TIMEOUT
+6c56976b-4ae1-429f-bcab-0cfc37e3580d,Zgornji log,2496479b-f855-403d-bce8-2a4d9988665d,Rutar,2670,a719a87c-4e93-4387-a6d1-2631a487f7e0,Ajdovščina
+3c6ebf90-c611-4535-b2b0-22fba3f7649a,Štajerska,43df2657-d56f-4fc4-8c40-49180cbbe90c,Ruski car,5001,TIMEOUT,TIMEOUT
