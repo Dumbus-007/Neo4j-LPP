@@ -6,7 +6,7 @@ CREATE CONSTRAINT stop_id_unique IF NOT EXISTS FOR (s:Stop) REQUIRE s.stop_id IS
 // ==========================================
 // 2. Load Stops (Nodes)
 // ==========================================
-LOAD CSV WITH HEADERS FROM 'file:///c:/Users/Lara/Desktop/DELO/Challenge/Neo4j-LPP/neo4j_stops.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///neo4j_stops.csv' AS row
 MERGE (s:Stop {stop_id: row.stop_id})
 SET s.name = row.name,
     s.lat = toFloat(row.lat),
@@ -15,7 +15,7 @@ SET s.name = row.name,
 // ==========================================
 // 3. Load Bus Connections (Relationships)
 // ==========================================
-LOAD CSV WITH HEADERS FROM 'file:///c:/Users/Lara/Desktop/DELO/Challenge/Neo4j-LPP/neo4j_edges.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///neo4j_edges.csv' AS row
 MATCH (source:Stop {stop_id: row.source_stop_id})
 MATCH (target:Stop {stop_id: row.target_stop_id})
 MERGE (source)-[r:BUS]->(target)
@@ -24,7 +24,7 @@ SET r.weight = toFloat(row.weight);
 // ==========================================
 // 4. Load Walk Connections (Relationships)
 // ==========================================
-LOAD CSV WITH HEADERS FROM 'file:///c:/Users/Lara/Desktop/DELO/Challenge/Neo4j-LPP/neo4j_walk_edges.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///neo4j_walk_edges.csv' AS row
 MATCH (source:Stop {stop_id: row.source_stop_id})
 MATCH (target:Stop {stop_id: row.target_stop_id})
 MERGE (source)-[r:WALK]->(target)

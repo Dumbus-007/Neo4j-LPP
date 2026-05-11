@@ -19,8 +19,12 @@ def time_to_seconds(time_str):
     return h * 3600 + m * 60 + s
 
 def generate_neo4j_data():
-    gtfs_dir = r"c:\Users\Lara\Desktop\DELO\Challenge\lpp_gtfs"
-    neo4j_dir = r"c:\Users\Lara\Desktop\DELO\Challenge\Neo4j-LPP"
+    # Relative paths:
+    # Assumes gtfs data is in a folder 'lpp_gtfs' in the parent directory
+    # and output will go into 'neo4j_lpp' in the current directory
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    gtfs_dir = os.path.join(script_dir, "..", "lpp_gtfs")
+    neo4j_dir = os.path.join(script_dir, "neo4j_lpp")
     
     # Constants for weight calculation
     SERVICE_WINDOW = 18 * 3600  # 18 hours in seconds

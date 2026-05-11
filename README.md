@@ -52,7 +52,11 @@ $$Weight = \frac{\text{Distance (m)}}{1.4 \text{ m/s}}$$
 
 ## Getting Started
 
-1.  **Generate Data**: Run `python generate_graph_data.py`.
-2.  **Import to Neo4j**: Open Neo4j and run the queries in `Neo4j-LPP/load_graph.cypher`.
-3.  **Run Simulation**: Update credentials in `simulate_meeting.py` and run it.
-4.  **Analyze**: Open `analyze_results.ipynb` to view the hubs and statistics.
+1.  **Prepare Data**: Ensure your GTFS data is in a folder named `lpp_gtfs` in the parent directory of this repository.
+2.  **Generate Data**: Run `python generate_graph_data.py`. This will create a `neo4j_lpp` folder with the output CSVs.
+3.  **Import to Neo4j**: 
+    - Copy the CSVs from `neo4j_lpp/` into your Neo4j instance's **`import/`** folder.
+    - Run the queries in `neo4j_lpp/load_graph.cypher`.
+4.  **Run Simulation**: Update credentials in `simulate_meeting.py` and run it. The results will be saved to `simulation_results.csv` in the same directory.
+5.  **Analyze**: Open `analyze_results.ipynb` to view the hubs and statistics.
+

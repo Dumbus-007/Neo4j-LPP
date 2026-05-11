@@ -7,7 +7,7 @@ from neo4j import GraphDatabase
 # --- CONFIGURATION ---
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "aral3970"
+NEO4J_PASSWORD = "[PASSWORD]"
 MAX_STEPS = 5000  # Increased from 1000
 # ---------------------
 
@@ -124,7 +124,8 @@ def main():
         
     sim.close()
 
-    output_path = r"c:\Users\Lara\Desktop\DELO\Challenge\simulation_results.csv"
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    output_path = os.path.join(script_dir, "simulation_results.csv")
     with open(output_path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow([
