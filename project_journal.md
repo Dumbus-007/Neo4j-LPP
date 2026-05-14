@@ -24,6 +24,13 @@ Redesigned weights to reflect travel and waiting times to accommodate for walkin
 - Update README with project overview and dependencies. (done)
 - Create Jupyter Notebook (`analyze_results.ipynb`) for visualization. (done)
 
+### Optimize Simulation with Neo4j GDS (1h)
+
+- Explore if Cypher/GDS can handle the random walk meeting logic. (done)
+- Implement `inv_weight` logic for biased walks in Cypher. (done)
+- Write `simulate_meeting_gds.py` to automate graph projection and simulation. (done)
+- Store results as `:SimulationResult` nodes for persistence. (done)
+
 ### Next steps
 
 - Explore deeper network metrics (Centrality, PageRank).

@@ -6,7 +6,7 @@ This project models the Ljubljana Public Transport (LPP) network as a weighted g
 
 To run the data processing and simulation scripts, you will need:
 - **Python 3.7+**
-- **Neo4j Database** (Local or Remote)
+- **Neo4j Database** (Local or Remote) with **Graph Data Science (GDS)** library installed.
 - **Python Libraries**:
   ```bash
   pip install neo4j pandas matplotlib
@@ -27,8 +27,9 @@ To run the data processing and simulation scripts, you will need:
 
 ### Simulation & Analysis
 - **`simulate_meeting.py`**: A Python script that connects to Neo4j and simulates two random walkers moving through the network. It calculates transition probabilities inversely proportional to edge weights (time).
-- **`simulation_results.csv`**: The raw output of the latest simulation run (start nodes, meeting time, and meeting hub).
-- **`analyze_results.ipynb`**: (New) A Jupyter notebook to visualize and summarize the simulation findings.
+- **`simulate_meeting_gds.py`**: (New) An optimized version of the simulation that runs entirely within the Neo4j database using the GDS library. It stores meeting results as persistent nodes in the graph.
+- **`simulation_results.csv`**: The raw output of the latest Python-based simulation run.
+- **`analyze_results.ipynb`**: A Jupyter notebook to visualize and summarize the simulation findings.
 
 ### Documentation
 - **`README.md`**: Project overview and documentation.
@@ -57,6 +58,8 @@ $$Weight = \frac{\text{Distance (m)}}{1.4 \text{ m/s}}$$
 3.  **Import to Neo4j**: 
     - Copy the CSVs from `neo4j_lpp/` into your Neo4j instance's **`import/`** folder.
     - Run the queries in `neo4j_lpp/load_graph.cypher`.
-4.  **Run Simulation**: Update credentials in `simulate_meeting.py` and run it. The results will be saved to `simulation_results.csv` in the same directory.
+4.  **Run Simulation**:
+    - **Option A (Python)**: Update credentials in `simulate_meeting.py` and run it. Results are saved to `simulation_results.csv`.
+    - **Option B (Neo4j GDS - Recommended)**: Update credentials in `simulate_meeting_gds.py` and run it. This version is faster and stores results directly in the database as `:SimulationResult` nodes.
 5.  **Analyze**: Open `analyze_results.ipynb` to view the hubs and statistics.
 
